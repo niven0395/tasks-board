@@ -1,7 +1,12 @@
 {
-  "updated": "Fri Aug 21, 6:10 PM ET",
-  "updated_iso": "2026-08-21T18:10:59-04:00",
+  "updated": "Fri Aug 21, 6:11 PM ET",
+  "updated_iso": "2026-08-21T18:11:27-04:00",
   "live": [
+    {
+      "tag": "Home",
+      "title": "Apply to the job",
+      "body": "Open. Home only. No store ping."
+    },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
@@ -13,33 +18,23 @@
       "tag": "iPhone",
       "title": "Lightroom auto-renew",
       "body": "Cancel on iPhone: Settings \u2192 Apple Account \u2192 Subscriptions \u2192 Lightroom."
-    },
-    {
-      "tag": "Mac",
-      "title": "Allow Grok Bot for Reminders",
-      "body": "Privacy & Security \u2192 Reminders still needs Grok Bot on if you want me writing reminders from here."
     }
   ],
   "quiet": [
     {
       "tag": "Done",
       "title": "Sandwich bags",
-      "body": "Completed 6:04 PM. Costco pings stopped."
+      "body": "Completed 6:04 PM."
     },
     {
       "tag": "Done",
       "title": "Return UPS switches",
-      "body": "Completed 6:04 PM. UPS pings stopped."
+      "body": "Completed 6:04 PM."
     },
     {
       "tag": "Done",
       "title": "Take out the chicken",
-      "body": "Completed 5:19 PM. Home ping stopped."
-    },
-    {
-      "tag": "Watching",
-      "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off."
+      "body": "Completed 5:19 PM."
     }
   ]
 }
