@@ -1,35 +1,50 @@
 {
-  "updated": "Fri Aug 21, 2:20 PM ET",
-  "updated_iso": "2026-08-21T14:13:00-04:00",
+  "updated": "Fri Aug 21, 5:23 PM ET",
+  "updated_iso": "2026-08-21T17:23:36-04:00",
   "live": [
+    {
+      "tag": "Now",
+      "title": "Sandwich bags + UPS return",
+      "body": "Not on your phone yet. Grok Bot still needs Reminders access (Terminal being on is not enough). Once that\u2019s on: Sandwich bags as Urgent, ping at any nearby Costco. Return UPS switches when you\u2019re near an open UPS."
+    },
+    {
+      "tag": "Standing up",
+      "title": "Reminders monitor",
+      "body": "A bot will watch what you add or complete, then add location tags, hours, and nearby stores so the ping actually helps."
+    },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021–2025, budget $500–650, pickup anywhere in the GTA. Nada is firm at $900 — left her. Richmond Hill was the left door. Waiting on Furkan ($270 pair, confirm rear is black), Mark in Milton, and Ist Cargo."
-    },
-    {
-      "tag": "Ready",
-      "title": "Peekaboo on your Mac",
-      "body": "4.2.2 installed. Screen Recording, Accessibility, and clicks are on. I can see and drive the Mac now."
+      "body": "2021\u20132025, $500\u2013650, pickup anywhere in the GTA. Furkan, Mark in Milton, and Ist Cargo still open. Nada left at $900."
     }
   ],
   "waiting": [
     {
+      "tag": "Mac",
+      "title": "Allow Grok Bot for Reminders",
+      "body": "System Settings \u2192 Privacy & Security \u2192 Reminders \u2192 turn on Grok Bot. Then the two reminders sync to your phone."
+    },
+    {
       "tag": "iPhone",
       "title": "Lightroom auto-renew",
-      "body": "Apple will not refund the $70.05 web way. Cancel on iPhone: Settings → Apple Account → Subscriptions → Lightroom."
+      "body": "Cancel on iPhone: Settings \u2192 Apple Account \u2192 Subscriptions \u2192 Lightroom."
     }
   ],
   "quiet": [
     {
+      "tag": "Home",
+      "title": "Take out the chicken",
+      "body": "Still open. Home will ping. Not a store run."
+    },
+    {
       "tag": "Done",
       "title": "Coffee table photo",
-      "body": "Completed 11:18 AM. Home enter pings stay silent unless something else matches."
+      "body": "Completed 11:18 AM."
     },
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "YDO $105 refund already issued. No new replies from Felix, Walid/RBC $1500, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
     },
     {
       "tag": "Blocked",
