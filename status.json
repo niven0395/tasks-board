@@ -1,55 +1,40 @@
 {
-  "updated": "Fri Aug 21, 5:23 PM ET",
-  "updated_iso": "2026-08-21T17:23:36-04:00",
+  "updated": "Fri Aug 21, 5:29 PM ET",
+  "updated_iso": "2026-08-21T17:29:00-04:00",
   "live": [
     {
-      "tag": "Now",
-      "title": "Sandwich bags + UPS return",
-      "body": "Not on your phone yet. Grok Bot still needs Reminders access (Terminal being on is not enough). Once that\u2019s on: Sandwich bags as Urgent, ping at any nearby Costco. Return UPS switches when you\u2019re near an open UPS."
+      "tag": "Half done",
+      "title": "Sandwich bags",
+      "body": "Title is in Reminders. Not flushed out: no Costco location, no tag, no Urgent. Costco Ajax / Markham / Scarborough fences are ready for an enter ping."
     },
     {
-      "tag": "Standing up",
-      "title": "Reminders monitor",
-      "body": "A bot will watch what you add or complete, then add location tags, hours, and nearby stores so the ping actually helps."
+      "tag": "Half done",
+      "title": "Return UPS switches",
+      "body": "Title is in Reminders. Location and open-hours tag not set yet. Nearby UPS stores are mapped."
     },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021\u20132025, $500\u2013650, pickup anywhere in the GTA. Furkan, Mark in Milton, and Ist Cargo still open. Nada left at $900."
+      "body": "2021\u20132025, $500\u2013650. Furkan, Mark in Milton, Ist Cargo still open."
     }
   ],
   "waiting": [
     {
       "tag": "Mac",
       "title": "Allow Grok Bot for Reminders",
-      "body": "System Settings \u2192 Privacy & Security \u2192 Reminders \u2192 turn on Grok Bot. Then the two reminders sync to your phone."
-    },
-    {
-      "tag": "iPhone",
-      "title": "Lightroom auto-renew",
-      "body": "Cancel on iPhone: Settings \u2192 Apple Account \u2192 Subscriptions \u2192 Lightroom."
+      "body": "Privacy & Security \u2192 Reminders has Terminal, Ghostty, VS Code \u2014 not Grok Bot. That\u2019s why EventKit writes stay blocked."
     }
   ],
   "quiet": [
     {
       "tag": "Home",
       "title": "Take out the chicken",
-      "body": "Still open. Home will ping. Not a store run."
-    },
-    {
-      "tag": "Done",
-      "title": "Coffee table photo",
-      "body": "Completed 11:18 AM."
+      "body": "Still open. Home will ping."
     },
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
-    },
-    {
-      "tag": "Blocked",
-      "title": "Uber One cancel",
-      "body": "Email bounced. Still needs Uber sign-in."
+      "body": "Watch is off. Hourly named-thread check still runs."
     }
   ]
 }
