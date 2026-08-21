@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Tasks" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="theme-color" content="#14110e" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <link rel="manifest" href="manifest.json" />
+  <title>Tasks</title>
+  <style>
+    :root {
+      --bg: #14110e;
+      --card: #1e1a16;
+      --ink: #f3ece3;
+      --muted: #b7a99a;
+      --line: #3a322b;
+      --go: #e8a14a;
+      --ok: #8fbe8b;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--bg); color: var(--ink);
+      font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { min-height: 100dvh; padding: calc(24px + env(safe-area-inset-top)) 22px 36px; }
+    header { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 26px; }
+    .brand .eyebrow { color: var(--go); letter-spacing: 0.14em; text-transform: uppercase; font-size: 12px; font-weight: 600; }
+    h1 { font-size: 48px; line-height: 0.95; margin: 8px 0 0; font-weight: 650; }
+    .live-badge { display: flex; align-items: center; gap: 8px; color: var(--go); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; padding-bottom: 6px; }
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--go); box-shadow: 0 0 0 0 rgba(232,161,74,0.7); animation: pulse 1.8s infinite; }
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(232,161,74,0.55); }
+      70% { box-shadow: 0 0 0 10px rgba(232,161,74,0); }
+      100% { box-shadow: 0 0 0 0 rgba(232,161,74,0); }
+    }
+    .when { color: var(--muted); font-size: 15px; margin: -12px 0 22px; }
+    .grid { display: grid; grid-template-columns: 1fr; gap: 18px; }
+    @media (min-width: 800px) {
+      .grid { grid-template-columns: 1.2fr 1fr; align-items: start; }
+      h1 { font-size: 56px; }
+    }
+    h2 { font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; font-weight: 600; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 16px; margin: 0 0 10px; }
+    .card h3 { margin: 0 0 6px; font-size: 18px; font-weight: 600; }
+    .card p { margin: 0; color: var(--muted); font-size: 15px; line-height: 1.45; }
+    .tag { display: inline-block; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
+    .tag.live { background: #3a2a14; color: var(--go); }
+    .tag.you { background: #3a241c; color: #f0b089; }
+    .tag.quiet { background: #1f2a1e; color: var(--ok); }
+    footer { margin-top: 28px; color: var(--muted); font-size: 13px; max-width: 42rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <div class="eyebrow">Companion</div>
+      <h1>Tasks</h1>
+    </div>
+    <div class="live-badge"><span class="dot"></span> Live</div>
+  </header>
+  <div class="when" id="when">Loading…</div>
+  <div class="grid">
+    <div>
+      <section>
+        <h2>Live</h2>
+        <div id="live"></div>
+      </section>
+      <section>
+        <h2>Waiting on you</h2>
+        <div id="waiting"></div>
+      </section>
+    </div>
+    <div>
+      <section>
+        <h2>Quiet</h2>
+        <div id="quiet"></div>
+      </section>
+    </div>
+  </div>
+  <footer>Leave this open next to Grok Bot. Chat stays there. This board updates when something real changes.</footer>
+  <script>
+    const kind = { live: 'live', waiting: 'you', quiet: 'quiet' };
+    function cards(list, cls) {
+      if (!list || !list.length) return '<article class="card"><p>Nothing here.</p></article>';
+      return list.map(item => `
+        <article class="card">
+          <span class="tag ${cls}">${item.tag || ''}</span>
+          <h3>${item.title || ''}</h3>
+          <p>${item.body || ''}</p>
+        </article>`).join('');
+    }
+    async function refresh() {
+      try {
+        const res = await fetch('status.json?t=' + Date.now(), { cache: 'no-store' });
+        const data = await res.json();
+        document.getElementById('when').textContent = 'Updated ' + (data.updated || '');
+        document.getElementById('live').innerHTML = cards(data.live, 'live');
+        document.getElementById('waiting').innerHTML = cards(data.waiting, 'you');
+        document.getElementById('quiet').innerHTML = cards(data.quiet, 'quiet');
+      } catch (err) {
+        document.getElementById('when').textContent = 'Could not refresh. I’ll keep trying.';
+      }
+    }
+    refresh();
+    setInterval(refresh, 20000);
+  </script>
+</body>
+</html>

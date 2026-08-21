@@ -1,0 +1,40 @@
+{
+  "updated": "Fri Aug 21, 2:13 PM ET",
+  "updated_iso": "2026-08-21T14:13:00-04:00",
+  "live": [
+    {
+      "tag": "In play",
+      "title": "Black Elantra rear passenger door",
+      "body": "2021–2025, budget $500–650, pickup anywhere in the GTA. Nada is firm at $900 — left her. Richmond Hill was the left door. Waiting on Furkan ($270 pair, confirm rear is black), Mark in Milton, and Ist Cargo."
+    },
+    {
+      "tag": "Ready",
+      "title": "Peekaboo on your Mac",
+      "body": "4.2.2 installed. Screen Recording, Accessibility, and clicks are on. I can see and drive the Mac now."
+    }
+  ],
+  "waiting": [
+    {
+      "tag": "iPhone",
+      "title": "Lightroom auto-renew",
+      "body": "Apple will not refund the $70.05 web way. Cancel on iPhone: Settings → Apple Account → Subscriptions → Lightroom."
+    }
+  ],
+  "quiet": [
+    {
+      "tag": "Done",
+      "title": "Coffee table photo",
+      "body": "Completed 11:18 AM. Home enter pings stay silent unless something else matches."
+    },
+    {
+      "tag": "Watching",
+      "title": "Mail",
+      "body": "YDO $105 refund already issued. No new replies from Felix, Walid/RBC $1500, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
+    },
+    {
+      "tag": "Blocked",
+      "title": "Uber One cancel",
+      "body": "Email bounced. Still needs Uber sign-in."
+    }
+  ]
+}
