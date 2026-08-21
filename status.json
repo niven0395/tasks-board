@@ -1,28 +1,33 @@
 {
-  "updated": "Fri Aug 21, 5:29 PM ET",
-  "updated_iso": "2026-08-21T17:29:00-04:00",
+  "updated": "Fri Aug 21, 5:45 PM ET",
+  "updated_iso": "2026-08-21T17:45:05-04:00",
   "live": [
     {
-      "tag": "Half done",
+      "tag": "Errand",
       "title": "Sandwich bags",
-      "body": "Title is in Reminders. Not flushed out: no Costco location, no tag, no Urgent. Costco Ajax / Markham / Scarborough fences are ready for an enter ping."
+      "body": "In Reminders. Nearby Costcos will ping (Ajax, Markham, Scarborough). Apple location and Urgent not set yet."
     },
     {
-      "tag": "Half done",
+      "tag": "Errand",
       "title": "Return UPS switches",
-      "body": "Title is in Reminders. Location and open-hours tag not set yet. Nearby UPS stores are mapped."
+      "body": "In Reminders. Nearby UPS will ping when open. Apple location not set yet."
     },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021\u20132025, $500\u2013650. Furkan, Mark in Milton, Ist Cargo still open."
+      "body": "2021\u20132025, $500\u2013650, pickup anywhere in the GTA. Furkan, Mark in Milton, Ist Cargo still open."
     }
   ],
   "waiting": [
     {
       "tag": "Mac",
       "title": "Allow Grok Bot for Reminders",
-      "body": "Privacy & Security \u2192 Reminders has Terminal, Ghostty, VS Code \u2014 not Grok Bot. That\u2019s why EventKit writes stay blocked."
+      "body": "Privacy & Security \u2192 Reminders has Terminal, Ghostty, VS Code. Turn on Grok Bot so I can write and set Urgent."
+    },
+    {
+      "tag": "iPhone",
+      "title": "Lightroom auto-renew",
+      "body": "Cancel on iPhone: Settings \u2192 Apple Account \u2192 Subscriptions \u2192 Lightroom."
     }
   ],
   "quiet": [
@@ -34,7 +39,12 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Watch is off. Hourly named-thread check still runs."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
+    },
+    {
+      "tag": "Blocked",
+      "title": "Uber One cancel",
+      "body": "Email bounced. Still needs Uber sign-in."
     }
   ]
 }
