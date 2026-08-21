@@ -21,73 +21,163 @@
       --ok: #8fbe8b;
     }
     * { box-sizing: border-box; }
-    html, body { margin: 0; background: var(--bg); color: var(--ink);
-      font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    body { min-height: 100dvh; padding: calc(24px + env(safe-area-inset-top)) 22px 36px; }
-    header { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 26px; }
-    .brand .eyebrow { color: var(--go); letter-spacing: 0.14em; text-transform: uppercase; font-size: 12px; font-weight: 600; }
-    h1 { font-size: 48px; line-height: 0.95; margin: 8px 0 0; font-weight: 650; }
-    .live-badge { display: flex; align-items: center; gap: 8px; color: var(--go); font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; padding-bottom: 6px; }
-    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--go); box-shadow: 0 0 0 0 rgba(232,161,74,0.7); animation: pulse 1.8s infinite; }
+    html, body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body {
+      min-height: 100dvh;
+      overflow-x: hidden;
+    }
+    .wrap {
+      container-type: inline-size;
+      container-name: pane;
+      width: 100%;
+      max-width: 100%;
+      padding: calc(16px + env(safe-area-inset-top)) 14px calc(28px + env(safe-area-inset-bottom));
+    }
+    header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .brand .eyebrow {
+      color: var(--go);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    h1 {
+      font-size: clamp(28px, 7.2cqw, 44px);
+      line-height: 0.95;
+      margin: 6px 0 0;
+      font-weight: 650;
+    }
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      color: var(--go);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 600;
+      padding-bottom: 4px;
+      flex: 0 0 auto;
+    }
+    .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--go);
+      animation: pulse 1.8s infinite;
+    }
     @keyframes pulse {
       0% { box-shadow: 0 0 0 0 rgba(232,161,74,0.55); }
-      70% { box-shadow: 0 0 0 10px rgba(232,161,74,0); }
+      70% { box-shadow: 0 0 0 8px rgba(232,161,74,0); }
       100% { box-shadow: 0 0 0 0 rgba(232,161,74,0); }
     }
-    .when { color: var(--muted); font-size: 15px; margin: -12px 0 22px; }
-    .grid { display: grid; grid-template-columns: 1fr; gap: 18px; }
-    @media (min-width: 800px) {
-      .grid { grid-template-columns: 1.2fr 1fr; align-items: start; }
-      h1 { font-size: 56px; }
+    .when { color: var(--muted); font-size: 13px; margin: 0 0 16px; }
+    .stack { display: flex; flex-direction: column; gap: 16px; }
+    section { min-width: 0; }
+    h2 {
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0 0 8px;
+      font-weight: 600;
     }
-    h2 { font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; font-weight: 600; }
-    .card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 16px; margin: 0 0 10px; }
-    .card h3 { margin: 0 0 6px; font-size: 18px; font-weight: 600; }
-    .card p { margin: 0; color: var(--muted); font-size: 15px; line-height: 1.45; }
-    .tag { display: inline-block; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 8px; border-radius: 999px; margin-bottom: 8px; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 12px 13px;
+      margin: 0 0 8px;
+      min-width: 0;
+    }
+    .card h3 {
+      margin: 0 0 4px;
+      font-size: clamp(16px, 4.2cqw, 18px);
+      font-weight: 600;
+      overflow-wrap: anywhere;
+    }
+    .card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.4;
+      overflow-wrap: anywhere;
+    }
+    .tag {
+      display: inline-block;
+      font-size: 10px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 2px 7px;
+      border-radius: 999px;
+      margin-bottom: 6px;
+    }
     .tag.live { background: #3a2a14; color: var(--go); }
     .tag.you { background: #3a241c; color: #f0b089; }
     .tag.quiet { background: #1f2a1e; color: var(--ok); }
-    footer { margin-top: 28px; color: var(--muted); font-size: 13px; max-width: 42rem; }
+    footer { margin-top: 18px; color: var(--muted); font-size: 12px; }
+
+    @container pane (min-width: 720px) {
+      .wrap { padding-left: 22px; padding-right: 22px; }
+      .stack { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 18px; align-items: start; }
+      .primary { display: contents; }
+      h1 { font-size: 48px; }
+      .card { padding: 16px; border-radius: 18px; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <div class="brand">
-      <div class="eyebrow">Companion</div>
-      <h1>Tasks</h1>
-    </div>
-    <div class="live-badge"><span class="dot"></span> Live</div>
-  </header>
-  <div class="when" id="when">Loading…</div>
-  <div class="grid">
-    <div>
-      <section>
-        <h2>Live</h2>
-        <div id="live"></div>
-      </section>
-      <section>
-        <h2>Waiting on you</h2>
-        <div id="waiting"></div>
-      </section>
-    </div>
-    <div>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="eyebrow">Companion</div>
+        <h1>Tasks</h1>
+      </div>
+      <div class="live-badge"><span class="dot"></span> Live</div>
+    </header>
+    <div class="when" id="when">Loading…</div>
+    <div class="stack">
+      <div class="primary">
+        <section>
+          <h2>Live</h2>
+          <div id="live"></div>
+        </section>
+        <section>
+          <h2>Waiting on you</h2>
+          <div id="waiting"></div>
+        </section>
+      </div>
       <section>
         <h2>Quiet</h2>
         <div id="quiet"></div>
       </section>
     </div>
+    <footer>Split-view first. Drag the divider. Chat stays in Grok Bot.</footer>
   </div>
-  <footer>Leave this open next to Grok Bot. Chat stays there. This board updates when something real changes.</footer>
   <script>
-    const kind = { live: 'live', waiting: 'you', quiet: 'quiet' };
+    function esc(s) {
+      return String(s || '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[c]));
+    }
     function cards(list, cls) {
       if (!list || !list.length) return '<article class="card"><p>Nothing here.</p></article>';
       return list.map(item => `
         <article class="card">
-          <span class="tag ${cls}">${item.tag || ''}</span>
-          <h3>${item.title || ''}</h3>
-          <p>${item.body || ''}</p>
+          <span class="tag ${cls}">${esc(item.tag)}</span>
+          <h3>${esc(item.title)}</h3>
+          <p>${esc(item.body)}</p>
         </article>`).join('');
     }
     async function refresh() {
