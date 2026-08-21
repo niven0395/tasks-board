@@ -1,17 +1,7 @@
 {
-  "updated": "Fri Aug 21, 5:45 PM ET",
-  "updated_iso": "2026-08-21T17:45:05-04:00",
+  "updated": "Fri Aug 21, 6:10 PM ET",
+  "updated_iso": "2026-08-21T18:10:59-04:00",
   "live": [
-    {
-      "tag": "Errand",
-      "title": "Sandwich bags",
-      "body": "In Reminders. Nearby Costcos will ping (Ajax, Markham, Scarborough). Apple location and Urgent not set yet."
-    },
-    {
-      "tag": "Errand",
-      "title": "Return UPS switches",
-      "body": "In Reminders. Nearby UPS will ping when open. Apple location not set yet."
-    },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
@@ -20,31 +10,36 @@
   ],
   "waiting": [
     {
-      "tag": "Mac",
-      "title": "Allow Grok Bot for Reminders",
-      "body": "Privacy & Security \u2192 Reminders has Terminal, Ghostty, VS Code. Turn on Grok Bot so I can write and set Urgent."
-    },
-    {
       "tag": "iPhone",
       "title": "Lightroom auto-renew",
       "body": "Cancel on iPhone: Settings \u2192 Apple Account \u2192 Subscriptions \u2192 Lightroom."
+    },
+    {
+      "tag": "Mac",
+      "title": "Allow Grok Bot for Reminders",
+      "body": "Privacy & Security \u2192 Reminders still needs Grok Bot on if you want me writing reminders from here."
     }
   ],
   "quiet": [
     {
-      "tag": "Home",
+      "tag": "Done",
+      "title": "Sandwich bags",
+      "body": "Completed 6:04 PM. Costco pings stopped."
+    },
+    {
+      "tag": "Done",
+      "title": "Return UPS switches",
+      "body": "Completed 6:04 PM. UPS pings stopped."
+    },
+    {
+      "tag": "Done",
       "title": "Take out the chicken",
-      "body": "Still open. Home will ping."
+      "body": "Completed 5:19 PM. Home ping stopped."
     },
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off. Hourly named-thread check still runs."
-    },
-    {
-      "tag": "Blocked",
-      "title": "Uber One cancel",
-      "body": "Email bounced. Still needs Uber sign-in."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus. Watch is off."
     }
   ]
 }
