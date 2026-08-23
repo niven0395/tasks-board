@@ -1,6 +1,6 @@
 {
-  "updated": "Sun Aug 23, 10:46 AM ET",
-  "updated_iso": "2026-08-23T10:46:00-04:00",
+  "updated": "Sun Aug 23, 11:26 AM ET",
+  "updated_iso": "2026-08-23T11:26:00-04:00",
   "live": [
     {
       "tag": "Online",
@@ -19,6 +19,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Sign-in",
+      "title": "Manulife RMT claim",
+      "body": "Portal session dead. Sign in (niven03 + password/2FA) then send the Go Place receipt to file."
+    },
     {
       "tag": "iPhone",
       "title": "Lightroom auto-renew",
