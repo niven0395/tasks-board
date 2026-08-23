@@ -1,12 +1,7 @@
 {
-  "updated": "Sat Aug 22, 9:48 PM ET",
-  "updated_iso": "2026-08-22T21:48:00-04:00",
+  "updated": "Sun Aug 23, 8:24 AM ET",
+  "updated_iso": "2026-08-23T08:24:00-04:00",
   "live": [
-    {
-      "tag": "Tonight",
-      "title": "Go Place",
-      "body": "RMT was 7:30 at 3275 Highway 7 E, Unit 2. Admission covers spa until 2am."
-    },
     {
       "tag": "Online",
       "title": "Levi's black 30×30",
@@ -31,6 +26,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Go Place",
+      "body": "Sat 7:30 RMT. Admission covered spa until 2am."
+    },
     {
       "tag": "Done",
       "title": "Sandwich bags",
