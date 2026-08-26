@@ -1,12 +1,7 @@
 {
-  "updated": "Wed Aug 26, 4:26 PM ET",
-  "updated_iso": "2026-08-26T16:26:00-04:00",
+  "updated": "Wed Aug 26, 4:47 PM ET",
+  "updated_iso": "2026-08-26T16:47:00-04:00",
   "live": [
-    {
-      "tag": "Home",
-      "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Aug 17 card pay did not land. Money owns it; waiting on a yes."
-    },
     {
       "tag": "Online",
       "title": "Levi's black 30×30",
@@ -19,6 +14,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Pay",
+      "title": "Pay Enbridge bill",
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Aug 17 card pay did not land. Asked at home 4:25 PM; waiting on a yes."
+    },
     {
       "tag": "Sign-in",
       "title": "Manulife RMT claim",
@@ -54,7 +54,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Wed 4:24 PM. Enbridge eBill already routed to Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Wed 4:42 PM. Enbridge eBill already routed to Money."
     }
   ]
 }
