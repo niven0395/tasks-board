@@ -1,11 +1,11 @@
 {
-  "updated": "Wed Aug 26, 1:25 PM ET",
-  "updated_iso": "2026-08-26T13:25:00-04:00",
+  "updated": "Wed Aug 26, 1:26 PM ET",
+  "updated_iso": "2026-08-26T13:26:00-04:00",
   "live": [
     {
       "tag": "Home",
       "title": "Pay Enbridge bill",
-      "body": "Open. Home only. Money owns paying."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Aug 17 card pay did not land. Money owns it; waiting on a yes."
     },
     {
       "tag": "Online",
@@ -54,7 +54,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Last clean check Sun Aug 23 10:44 AM. Hourly watch failed this morning; not rechecked this run."
+      "body": "Enbridge eBill in today. No payment confirm. Other named threads not rechecked this run."
     }
   ]
 }
