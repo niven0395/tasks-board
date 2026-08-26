@@ -1,16 +1,16 @@
 {
-  "updated": "Sun Aug 23, 11:26 AM ET",
-  "updated_iso": "2026-08-23T11:26:00-04:00",
+  "updated": "Wed Aug 26, 1:25 PM ET",
+  "updated_iso": "2026-08-26T13:25:00-04:00",
   "live": [
+    {
+      "tag": "Home",
+      "title": "Pay Enbridge bill",
+      "body": "Open. Home only. Money owns paying."
+    },
     {
       "tag": "Online",
       "title": "Levi's black 30×30",
       "body": "511 Sta-Black and 512 Slim Taper Sta-Black take 30×30 at $118 (30% off in cart). Ships. No pickup within 80 km of Pickering. Hem only at Eaton Centre."
-    },
-    {
-      "tag": "Home",
-      "title": "Apply to the job",
-      "body": "Open. Home only. No store ping."
     },
     {
       "tag": "In play",
@@ -22,7 +22,7 @@
     {
       "tag": "Sign-in",
       "title": "Manulife RMT claim",
-      "body": "Portal session dead. Sign in (niven03 + password/2FA) then send the Go Place receipt to file."
+      "body": "Portal session dead as of Aug 23. Sign in (niven03 + password/2FA) then send the Go Place receipt."
     },
     {
       "tag": "iPhone",
@@ -33,28 +33,28 @@
   "quiet": [
     {
       "tag": "Done",
+      "title": "Apply to the job",
+      "body": "No longer open as of Aug 26."
+    },
+    {
+      "tag": "Done",
       "title": "Go Place",
-      "body": "Sat 7:30 RMT. Admission covered spa until 2am."
+      "body": "Sat Aug 22 7:30 RMT. Admission covered spa until 2am."
     },
     {
       "tag": "Done",
       "title": "Sandwich bags",
-      "body": "Completed Fri 6:04 PM."
+      "body": "Completed Fri Aug 21 6:04 PM."
     },
     {
       "tag": "Done",
       "title": "Return UPS switches",
-      "body": "Completed Fri 6:04 PM."
-    },
-    {
-      "tag": "Done",
-      "title": "Simons 30×30",
-      "body": "No 30×30. Black denim waist 30 is 32 inseam. In-store hem exists; jeans usually paid unless Insider."
+      "body": "Completed Fri Aug 21 6:04 PM."
     },
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Sun 10:44 AM."
+      "body": "Last clean check Sun Aug 23 10:44 AM. Hourly watch failed this morning; not rechecked this run."
     }
   ]
 }
