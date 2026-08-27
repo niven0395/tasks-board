@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Aug 27, 8:44 AM ET",
-  "updated_iso": "2026-08-27T08:44:00-04:00",
+  "updated": "Thu Aug 27, 9:26 AM ET",
+  "updated_iso": "2026-08-27T09:26:00-04:00",
   "live": [
     {
       "tag": "Online",
@@ -17,7 +17,12 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Aug 17 card pay did not land. Asked Wed 4:25 PM; still waiting on a yes."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Asked Wed 4:25 PM; still waiting on a yes."
+    },
+    {
+      "tag": "Pay",
+      "title": "Capital One plan $131",
+      "body": "Due tomorrow Aug 28. Then Sep 28 and Oct 28. Told him 9:01 AM. Not paying unless he asks."
     },
     {
       "tag": "Sign-in",
