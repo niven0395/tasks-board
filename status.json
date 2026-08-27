@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Aug 27, 4:29 PM ET",
-  "updated_iso": "2026-08-27T16:29:00-04:00",
+  "updated": "Thu Aug 27, 4:47 PM ET",
+  "updated_iso": "2026-08-27T16:47:00-04:00",
   "live": [
     {
       "tag": "Online",
@@ -21,8 +21,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Capital One plan $131",
-      "body": "Due tomorrow Aug 28. Then Sep 28 and Oct 28. Told him 9:01 AM. Not paying unless he asks."
+      "title": "BMO LOC *9457 overdue $181.32",
+      "body": "Overdue over a week. Total $9,934. Email 4:29 PM today. Money owns pay. Not paying unless he asks."
     },
     {
       "tag": "iPhone",
@@ -31,6 +31,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "Capital One *6851",
+      "body": "$325 posted Aug 26. Plan still listed $131 Aug 28 / Sep 28 / Oct 28. Do not invent that Aug 28 is covered."
+    },
     {
       "tag": "Done",
       "title": "Manulife RMT claim",
@@ -59,7 +64,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu 4:28 PM. Enbridge eBill already routed to Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu 4:47 PM. Enbridge eBill already routed to Money."
     }
   ]
 }
