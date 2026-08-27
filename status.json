@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Aug 27, 1:25 PM ET",
-  "updated_iso": "2026-08-27T13:25:00-04:00",
+  "updated": "Thu Aug 27, 1:54 PM ET",
+  "updated_iso": "2026-08-27T13:54:30-04:00",
   "live": [
     {
       "tag": "Online",
@@ -17,17 +17,12 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Asked Wed 4:25 PM; still waiting on a yes."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Still waiting on a yes. Not paying unless he asks."
     },
     {
       "tag": "Pay",
       "title": "Capital One plan $131",
       "body": "Due tomorrow Aug 28. Then Sep 28 and Oct 28. Told him 9:01 AM. Not paying unless he asks."
-    },
-    {
-      "tag": "Sign-in",
-      "title": "Manulife RMT claim",
-      "body": "Portal session dead as of Aug 23. Sign in (niven03 + password/2FA) then send the Go Place receipt."
     },
     {
       "tag": "iPhone",
@@ -36,6 +31,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Manulife RMT claim",
+      "body": "Go Place Aug 22 claims paid Aug 23: $213.57 each for Niven and Niverthana. Do not resubmit."
+    },
     {
       "tag": "Done",
       "title": "Apply to the job",
@@ -59,7 +59,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu 1:24 PM. Enbridge eBill already routed to Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu 1:47 PM. Enbridge eBill already routed to Money."
     }
   ]
 }
