@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Aug 27, 7:43 PM ET",
-  "updated_iso": "2026-08-27T19:43:19-04:00",
+  "updated": "Thu Aug 27, 7:55 PM ET",
+  "updated_iso": "2026-08-27T19:55:24-04:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -22,7 +22,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Still open in Niven Tasks. Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Still the only open reminder. Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -79,7 +79,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu Aug 27, 7:43 PM ET. Cap One $325 confirm + BMO LOC overdue already noted. Enbridge eBill with Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu Aug 27, 7:55 PM ET. Cap One $325 confirm + BMO LOC overdue already noted. Enbridge eBill with Money."
     }
   ]
 }
