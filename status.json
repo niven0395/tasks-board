@@ -1,7 +1,12 @@
 {
-  "updated": "Thu Aug 27, 5:56 PM ET",
-  "updated_iso": "2026-08-27T17:56:20-04:00",
+  "updated": "Thu Aug 27, 6:35 PM ET",
+  "updated_iso": "2026-08-27T18:35:39-04:00",
   "live": [
+    {
+      "tag": "Tomorrow",
+      "title": "Toronto Zoo",
+      "body": "All-day on the calendar Friday Aug 28."
+    },
     {
       "tag": "Online",
       "title": "Levi's black 30×30",
@@ -34,7 +39,7 @@
     {
       "tag": "Watching",
       "title": "Capital One *6851",
-      "body": "$325 posted Aug 26 (confirm email 4:37 PM today). Plan still listed $131 Aug 28 / Sep 28 / Oct 28. Do not invent that Aug 28 is covered."
+      "body": "$325 posted Aug 26 (confirm email 4:37 PM today). Covers the Aug 28 plan $131. Next plan dates Sep 28 and Oct 28. Live balance after the payment not known."
     },
     {
       "tag": "Done",
@@ -64,7 +69,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu Aug 27, 5:56 PM ET. Cap One $325 confirm + BMO LOC overdue already noted. Enbridge eBill with Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu Aug 27, 6:35 PM ET. Cap One $325 confirm + BMO LOC overdue already noted. Enbridge eBill with Money."
     }
   ]
 }
