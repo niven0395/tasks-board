@@ -1,9 +1,9 @@
 {
-  "updated": "Thu Aug 27, 9:59 PM ET",
-  "updated_iso": "2026-08-27T21:59:58-04:00",
+  "updated": "Fri Aug 28, 8:44 AM ET",
+  "updated_iso": "2026-08-28T08:44:43-04:00",
   "live": [
     {
-      "tag": "Tomorrow",
+      "tag": "Today",
       "title": "Toronto Zoo",
       "body": "All-day on the calendar Friday Aug 28."
     },
@@ -27,7 +27,12 @@
     {
       "tag": "Pay",
       "title": "BMO LOC *9457 overdue $181.32",
-      "body": "Overdue over a week. Total $9,934. Email 4:29 PM today. Money owns pay. Not paying unless he asks."
+      "body": "Overdue over a week. Total $9,934. Emails Aug 27 4:29 PM and 8:29 PM. Money owns pay. Not paying unless he asks."
+    },
+    {
+      "tag": "Pay",
+      "title": "Capital One *6851 $131 due today",
+      "body": "Plan installment due Aug 28. $325 posted Aug 26 (confirm again 8:37 PM last night). Do not treat that as proof this installment is done. Money owns pay."
     },
     {
       "tag": "iPhone",
@@ -38,8 +43,13 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "Capital One *6851",
-      "body": "$325 posted Aug 26 (confirm email 4:37 PM today). Plan still lists $131 on Aug 28, Sep 28, Oct 28. Do not treat the $325 as proof the Aug 28 installment is done. Live balance after payment not known."
+      "title": "Durham Water $1,686.31",
+      "body": "New e-bill this morning, account 4033977834, 1024 Valhalla Terr, due Sep 15. Money owns pay. Not paying unless he asks."
+    },
+    {
+      "tag": "Watching",
+      "title": "Amex Cobalt *842000",
+      "body": "Due-date reminder overnight. No amount or due date in the email."
     },
     {
       "tag": "Watching",
@@ -50,6 +60,11 @@
       "tag": "Soon",
       "title": "Apple keyboard return",
       "body": "Markville. 14-day window ends Sep 1. Calendar reminder is Mon Aug 31."
+    },
+    {
+      "tag": "Soon",
+      "title": "Apple Developer card",
+      "body": "Membership expires about Sep 2. Calendar and routine are Tue Sep 1."
     },
     {
       "tag": "Done",
@@ -79,7 +94,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Thu Aug 27, 9:59 PM ET. Cap One $325 confirm + BMO LOC overdue already noted. Enbridge eBill with Money."
+      "body": "No new Felix, Walid/RBC, SKD, Pickering, or Opus as of Fri Aug 28, 8:44 AM ET. Durham Water e-bill and Amex reminder noted. Cap One $325 is the Aug 26 payment. Enbridge still unpaid."
     }
   ]
 }
