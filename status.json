@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Aug 28, 9:53 AM ET",
-  "updated_iso": "2026-08-28T09:53:06-04:00",
+  "updated": "Fri Aug 28, 10:35 AM ET",
+  "updated_iso": "2026-08-28T10:35:44-04:00",
   "live": [
     {
       "tag": "Today",
@@ -36,6 +36,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "Director, AI Platform (Scotiabank)",
+      "body": "Thank-you-for-applying email Fri Aug 28 ~10:06 AM ET. Watching for next steps."
+    },
     {
       "tag": "Watching",
       "title": "Capital One *6851 plan",
@@ -94,7 +99,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC cashback, SKD, Pickering, Opus, or door-seller mail as of Fri Aug 28, 9:53 AM ET. Durham Water e-bill and Amex reminder noted. Cap One $325 Aug 26 payment confirm stands. Enbridge and BMO LOC still unpaid."
+      "body": "No new Felix, Walid/RBC cashback, SKD, Pickering, Opus, or door-seller mail as of Fri Aug 28, 10:34 AM ET. Scotiabank Director AI Platform thank-you noted. Durham Water e-bill and Amex reminder stand. Cap One $325 Aug 26 confirm stands. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
