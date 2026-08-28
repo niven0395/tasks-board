@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Aug 28, 8:59 AM ET",
-  "updated_iso": "2026-08-28T08:59:42-04:00",
+  "updated": "Fri Aug 28, 9:41 AM ET",
+  "updated_iso": "2026-08-28T09:41:14-04:00",
   "live": [
     {
       "tag": "Today",
@@ -22,7 +22,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Still the only open reminder. Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -49,7 +49,7 @@
     {
       "tag": "Watching",
       "title": "Amex Cobalt *842000",
-      "body": "Due-date reminder overnight Aug 28. No amount or due date in the email."
+      "body": "Due-date reminder overnight Aug 28. No amount or due date in the email. Last live min $98.39 due Sep 4 (Aug 21)."
     },
     {
       "tag": "Watching",
@@ -94,7 +94,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, Walid/RBC, SKD, Pickering, Opus, or door-seller mail as of Fri Aug 28, 8:59 AM ET. Durham Water e-bill and Amex reminder noted. Cap One $325 Aug 26 payment confirm stands. Enbridge and BMO LOC still unpaid."
+      "body": "No new Felix, Walid/RBC cashback, SKD, Pickering, Opus, or door-seller mail as of Fri Aug 28, 9:40 AM ET. Durham Water e-bill and Amex reminder noted. Cap One $325 Aug 26 payment confirm stands. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
