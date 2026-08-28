@@ -1,95 +1,100 @@
 {
- "updated": "Fri Aug 28, 12:34 PM ET",
- "updated_iso": "2026-08-28T12:34:29-04:00",
- "live": [
-  {
-   "tag": "Today",
-   "title": "Toronto Zoo",
-   "body": "All-day on the calendar Friday Aug 28."
-  },
-  {
-   "tag": "Online",
-   "title": "Levi's black 30×30",
-   "body": "511 Sta-Black and 512 Slim Taper Sta-Black take 30×30 at $118 (30% off in cart). Ships. No pickup within 80 km of Pickering. Hem only at Eaton Centre."
-  },
-  {
-   "tag": "In play",
-   "title": "Black Elantra rear passenger door",
-   "body": "2021–2025, $500–650, pickup anywhere in the GTA. Ist Cargo $650 (pics unanswered). Furkan silent, Mark still no price. No new seller mail since Sun Aug 23."
-  }
- ],
- "waiting": [
-  {
-   "tag": "Pay",
-   "title": "Pay Enbridge bill",
-   "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Not paying unless he asks."
-  },
-  {
-   "tag": "Pay",
-   "title": "BMO LOC *9457 overdue $181.32",
-   "body": "Overdue over a week. Total $9,934. AMU emails Aug 27 4:29 PM ET. Money owns pay. Not paying unless he asks."
-  },
-  {
-   "tag": "Photos",
-   "title": "Canada Goose warranty",
-   "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag, then sign into the existing warranty account (Dec 10 2025). Do not send mail unless he asks."
-  },
-  {
-   "tag": "iPhone",
-   "title": "Lightroom auto-renew",
-   "body": "Cancel on iPhone: Settings → Apple Account → Subscriptions → Lightroom."
-  }
- ],
- "quiet": [
-  {
-   "tag": "Watching",
-   "title": "Director, AI Platform (Scotiabank)",
-   "body": "Thank-you-for-applying email Fri Aug 28 ~10:06 AM ET. Watching for next steps."
-  },
-  {
-   "tag": "Watching",
-   "title": "Capital One *6851 plan",
-   "body": "$325 posted Aug 26 (confirm Aug 27 4:37 PM ET). Aug 28 $131 installment treated as covered. Next plan dates Sep 28 and Oct 28. Money owns pay."
-  },
-  {
-   "tag": "Watching",
-   "title": "Durham Water $1,686.31",
-   "body": "E-bill Aug 28 morning, account 4033977834, 1024 Valhalla Terr, due Sep 15. Money owns pay. Not paying unless he asks."
-  },
-  {
-   "tag": "Watching",
-   "title": "Amex Cobalt *842000",
-   "body": "Due-date reminder overnight Aug 28. No amount or due date in the email. Last live min $98.39 due Sep 4 (Aug 21)."
-  },
-  {
-   "tag": "Watching",
-   "title": "Reliance $55.23",
-   "body": "Still unpaid (due Aug 21). Money owns pay. Not paying unless he asks."
-  },
-  {
-   "tag": "Soon",
-   "title": "Apple keyboard return",
-   "body": "Markville. 14-day window ends Sep 1. Calendar reminder is Mon Aug 31."
-  },
-  {
-   "tag": "Soon",
-   "title": "Apple Developer card",
-   "body": "Membership expires about Sep 2. Calendar and routine are Tue Sep 1."
-  },
-  {
-   "tag": "Done",
-   "title": "Manulife RMT claim",
-   "body": "Go Place Aug 22 claims paid Aug 23: $213.57 each for Niven and Niverthana. Do not resubmit."
-  },
-  {
-   "tag": "Done",
-   "title": "Apply to the job",
-   "body": "No longer open as of Aug 26."
-  },
-  {
-   "tag": "Watching",
-   "title": "Mail",
-   "body": "No new Felix, Walid/RBC cashback, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Fri Aug 28, 12:34 PM ET. Scotiabank Director AI Platform thank-you stands. Durham Water e-bill and Amex reminder stand. Cap One $325 Aug 26 confirm stands. Enbridge and BMO LOC still unpaid."
-  }
- ]
+  "updated": "Fri Aug 28, 12:57 PM ET",
+  "updated_iso": "2026-08-28T12:57:35-04:00",
+  "live": [
+    {
+      "tag": "Today",
+      "title": "Toronto Zoo",
+      "body": "All-day on the calendar Friday Aug 28."
+    },
+    {
+      "tag": "Online",
+      "title": "Levi's black 30×30",
+      "body": "511 Sta-Black and 512 Slim Taper Sta-Black take 30×30 at $118 (30% off in cart). Ships. No pickup within 80 km of Pickering. Hem only at Eaton Centre."
+    },
+    {
+      "tag": "In play",
+      "title": "Black Elantra rear passenger door",
+      "body": "2021–2025, $500–650, pickup anywhere in the GTA. Ist Cargo $650 (pics unanswered). Furkan silent, Mark still no price. No new seller mail since Sun Aug 23."
+    }
+  ],
+  "waiting": [
+    {
+      "tag": "Pay",
+      "title": "Pay Enbridge bill",
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Not paying unless he asks."
+    },
+    {
+      "tag": "Pay",
+      "title": "BMO LOC *9457 overdue $181.32",
+      "body": "Overdue over a week. Total $9,934. AMU emails Aug 27 4:29 PM ET. Money owns pay. Not paying unless he asks."
+    },
+    {
+      "tag": "Photos",
+      "title": "Canada Goose warranty",
+      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag, then sign into the existing warranty account (Dec 10 2025). Do not send mail unless he asks."
+    },
+    {
+      "tag": "iPhone",
+      "title": "Lightroom auto-renew",
+      "body": "Cancel on iPhone: Settings → Apple Account → Subscriptions → Lightroom."
+    }
+  ],
+  "quiet": [
+    {
+      "tag": "Watching",
+      "title": "Director, AI Platform (Scotiabank)",
+      "body": "Thank-you-for-applying email Fri Aug 28 ~10:06 AM ET. Watching for next steps."
+    },
+    {
+      "tag": "Watching",
+      "title": "Capital One *6851 plan",
+      "body": "$325 posted Aug 26 (confirm Aug 27 4:37 PM ET). Aug 28 $131 installment treated as covered. Next plan dates Sep 28 and Oct 28. Money owns pay."
+    },
+    {
+      "tag": "Watching",
+      "title": "Durham Water $1,686.31",
+      "body": "E-bill Aug 28 morning, account 4033977834, 1024 Valhalla Terr, due Sep 15. Money owns pay. Not paying unless he asks."
+    },
+    {
+      "tag": "Watching",
+      "title": "Amex Cobalt *842000",
+      "body": "Due-date reminder overnight Aug 28. No amount or due date in the email. Last live min $98.39 due Sep 4 (Aug 21)."
+    },
+    {
+      "tag": "Watching",
+      "title": "Reliance $55.23",
+      "body": "Still unpaid (due Aug 21). Money owns pay. Not paying unless he asks."
+    },
+    {
+      "tag": "Watching",
+      "title": "RBC Value cashback",
+      "body": "Walid still on the $1,500 Value-program cashback for 00292-5213533. No new reply since Aug 6."
+    },
+    {
+      "tag": "Soon",
+      "title": "Apple keyboard return",
+      "body": "Markville. 14-day window ends Sep 1. Calendar reminder is Mon Aug 31. Sent UPS Store return PDF today ~11:55 AM ET (store379)."
+    },
+    {
+      "tag": "Soon",
+      "title": "Apple Developer card",
+      "body": "Membership expires about Sep 2. Calendar and routine are Tue Sep 1."
+    },
+    {
+      "tag": "Done",
+      "title": "Manulife RMT claim",
+      "body": "Go Place Aug 22 claims paid Aug 23: $213.57 each for Niven and Niverthana. Do not resubmit."
+    },
+    {
+      "tag": "Done",
+      "title": "Apply to the job",
+      "body": "No longer open as of Aug 26."
+    },
+    {
+      "tag": "Watching",
+      "title": "Mail",
+      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Fri Aug 28, 12:57 PM ET. Scotiabank Director thank-you stands. Durham Water e-bill and Amex reminder stand. Cap One $325 Aug 26 confirm stands. Enbridge and BMO LOC still unpaid. RBC Walid cashback still open."
+    }
+  ]
 }
