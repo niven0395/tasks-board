@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Aug 28, 9:29 PM ET",
-  "updated_iso": "2026-08-28T21:29:11-04:00",
+  "updated": "Fri Aug 28, 10:23 PM ET",
+  "updated_iso": "2026-08-28T22:23:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -22,7 +22,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Todoist nagged again at 3:03 PM ET. Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -32,7 +32,7 @@
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home 7:04 PM ET; left again 7:11. No receipt in Gmail. Do not send mail unless he asks."
+      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home 7:04 PM ET. No receipt in Gmail. Do not send mail unless he asks."
     }
   ],
   "quiet": [
@@ -94,7 +94,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Zoo order confirm stands. No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Fri Aug 28, 9:29 PM ET. Scotiabank Director thank-you stands. Durham Water e-bill and Amex reminder stand. Cap One 25 Aug 26 confirm stands. Enbridge and BMO LOC still unpaid. RBC Walid cashback still open. Todoist Enbridge due-nag at 3:03 PM ET. Wealthsimple Terms update ~5:27 PM ET (no action). Home enter 7:04 PM / exit 7:11 PM ET."
+      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Fri Aug 28, 10:23 PM ET. Zoo confirm, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
