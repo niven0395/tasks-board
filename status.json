@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Aug 29, 6:54 PM ET",
-  "updated_iso": "2026-08-29T18:54:02-04:00",
+  "updated": "Sat Aug 29, 7:28 PM ET",
+  "updated_iso": "2026-08-29T19:28:20-04:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -19,6 +19,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Pay",
+      "title": "Can Do Fence $4,192.30 past due",
+      "body": "Fence at 1024 Valhalla is complete. Reminder landed Sat Aug 29, 7:20 PM ET from ffeng@candofence.com (cc Eli, smcalpine). e-transfer pay@candofence.com with the address in the note, or card at 2.5%. Eli 416-884-1769. Not paying unless he asks."
+    },
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
@@ -104,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, SKD, Pickering, Opus, door-seller, TCPS reply, or Canada Goose receipt mail as of Sat Aug 29, 6:54 PM ET. Shell gas receipt only (Sat ~11:42 AM ET). FortisPay Sep 1 reminder came this morning (before the cancel send). Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
+      "body": "Can Do Fence past-due $4,192.30 arrived Sat Aug 29, 7:20 PM ET. No new Felix, SKD, Pickering, Opus, door-seller, TCPS reply, or Canada Goose receipt mail as of Sat Aug 29, 7:28 PM ET. Shell gas receipt still stands (Sat ~11:42 AM ET). Enbridge and BMO LOC still unpaid."
     }
   ]
 }
