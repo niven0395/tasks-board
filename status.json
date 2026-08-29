@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Aug 29, 8:33 AM ET",
-  "updated_iso": "2026-08-29T08:33:00-04:00",
+  "updated": "Sat Aug 29, 9:23 AM ET",
+  "updated_iso": "2026-08-29T09:23:00-04:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -22,7 +22,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open reminder (Home). Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open reminder (Home / Supabase). Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -32,14 +32,19 @@
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home Fri 7:04 PM ET. No receipt in Gmail. Do not send mail unless he asks."
+      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home Fri 7:04 PM ET. Still no receipt in Gmail. Do not send mail unless he asks."
     }
   ],
   "quiet": [
     {
       "tag": "Done",
       "title": "Toronto Zoo",
-      "body": "Visited Fri Aug 28. Zoo sent thanks this morning (Sat 3:04 AM ET). Tickets were 2 adult + parking, conf i84357032 / 84357030."
+      "body": "Visited Fri Aug 28. Zoo sent thanks Sat 3:04 AM ET. Tickets were 2 adult + parking, conf i84357032 / 84357030."
+    },
+    {
+      "tag": "Soon",
+      "title": "TCPS tuition auto-pay $479",
+      "body": "FortisPay reminder Sat 9:05 AM ET: scheduled card payment $479.00 on Scotia *2031 processes Tue Sep 1 (Ayla / Town Centre Private Schools). Auto; no action unless he wants to stop it."
     },
     {
       "tag": "Watching",
@@ -99,7 +104,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Sat Aug 29, 8:33 AM ET. Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
+      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Sat Aug 29, 9:23 AM ET. New: TCPS FortisPay $479 auto on Sep 1. Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
