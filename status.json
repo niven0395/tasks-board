@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Aug 29, 1:48 PM ET",
-  "updated_iso": "2026-08-29T13:48:57-04:00",
+  "updated": "Sat Aug 29, 2:26 PM ET",
+  "updated_iso": "2026-08-29T14:26:31-04:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -27,7 +27,7 @@
     {
       "tag": "Pay",
       "title": "BMO LOC *9457 overdue $181.32",
-      "body": "Overdue over a week. Total $9,934. AMU email Aug 27 4:29 PM ET still unread. Money owns pay. Not paying unless he asks."
+      "body": "Overdue over a week. Total $9,934. AMU email Aug 27 4:29 PM ET still unpaid. Money owns pay. Not paying unless he asks."
     },
     {
       "tag": "Photos",
@@ -44,7 +44,7 @@
     {
       "tag": "Watching",
       "title": "TCPS cancel / FortisPay $479",
-      "body": "Cancel email sent Sat Aug 29 1:46 PM ET to Sudha.Gajria@tcmps.com (cc Rita.Thadani). Asked to stop Sep 1 FortisPay $479 on Scotia *2031. No school reply yet. SKD waitlist left alone."
+      "body": "Cancel email sent Sat Aug 29 1:46 PM ET to Sudha.Gajria@tcmps.com (cc Rita.Thadani). Asked to stop Sep 1 FortisPay $479 on Scotia *2031. FortisPay still sent a scheduled-payment reminder this morning (before cancel). No school reply yet. SKD waitlist left alone."
     },
     {
       "tag": "Watching",
@@ -104,7 +104,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Sat Aug 29, 1:48 PM ET. Shell gas receipt only (Sat ~11:42 AM ET). TCPS cancel sent 1:46 PM ET, no reply yet. Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
+      "body": "No new Felix, SKD, Pickering, Opus, door-seller, TCPS reply, or Canada Goose receipt mail as of Sat Aug 29, 2:26 PM ET. Shell gas receipt only (Sat ~11:42 AM ET). FortisPay Sep 1 reminder came this morning before the cancel send. Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
