@@ -1,11 +1,11 @@
 {
-  "updated": "Fri Aug 28, 10:23 PM ET",
-  "updated_iso": "2026-08-28T22:23:00-04:00",
+  "updated": "Sat Aug 29, 8:33 AM ET",
+  "updated_iso": "2026-08-29T08:33:00-04:00",
   "live": [
     {
-      "tag": "Today",
-      "title": "Toronto Zoo",
-      "body": "Visit day Aug 28 (all-day on calendar). Tickets ready: 2 adult + parking, conf i84357032 / 84357030, $126.30 on Visa *2031. Timed entry was 9:30 AM; order confirm ~3:57 PM ET. Left home again at 7:11 PM ET."
+      "tag": "Tomorrow",
+      "title": "Ayla swim — Parent & Tot",
+      "body": "Sun Aug 30, 11:00–11:30 AM at McLean Community Centre, 95 Magill Drive, Ajax. Sundays through Sep 6."
     },
     {
       "tag": "Online",
@@ -22,7 +22,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase/Reminders item. Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open reminder (Home). Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -32,10 +32,15 @@
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home 7:04 PM ET. No receipt in Gmail. Do not send mail unless he asks."
+      "body": "Needs Nivetha's receipt forward plus photos of the damage and inside hangtag (and a one-line of what's broken), then sign into the existing warranty account (Dec 10 2025). Pinged at Home Fri 7:04 PM ET. No receipt in Gmail. Do not send mail unless he asks."
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Toronto Zoo",
+      "body": "Visited Fri Aug 28. Zoo sent thanks this morning (Sat 3:04 AM ET). Tickets were 2 adult + parking, conf i84357032 / 84357030."
+    },
     {
       "tag": "Watching",
       "title": "Director, AI Platform (Scotiabank)",
@@ -69,7 +74,7 @@
     {
       "tag": "Soon",
       "title": "Apple keyboard return",
-      "body": "Markville. 14-day window ends Sep 1. Calendar reminder is Mon Aug 31. Sent UPS Store return PDF today ~11:55 AM ET (store379)."
+      "body": "Markville. 14-day window ends Sep 1. Calendar reminder is Mon Aug 31. UPS Store return PDF already sent (store379)."
     },
     {
       "tag": "Soon",
@@ -94,7 +99,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Fri Aug 28, 10:23 PM ET. Zoo confirm, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
+      "body": "No new Felix, SKD, Pickering, Opus, door-seller, or Canada Goose receipt mail as of Sat Aug 29, 8:33 AM ET. Zoo thanks, Scotiabank Director thank-you, Durham Water, Amex reminder, and Cap One Aug 26 confirm stand. Enbridge and BMO LOC still unpaid."
     }
   ]
 }
