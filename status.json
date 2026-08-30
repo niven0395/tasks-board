@@ -1,12 +1,7 @@
 {
-  "updated": "Sun Aug 30, 11:30 AM ET",
-  "updated_iso": "2026-08-30T11:30:20-04:00",
+  "updated": "Sun Aug 30, 11:47 AM ET",
+  "updated_iso": "2026-08-30T11:47:57-04:00",
   "live": [
-    {
-      "tag": "Now",
-      "title": "Ayla swim — Parent & Tot",
-      "body": "Wrapping up now, 11:00–11:30 AM at McLean Community Centre, 95 Magill Drive, Ajax. Next Sunday is Sep 6."
-    },
     {
       "tag": "Tomorrow",
       "title": "Apple keyboard return",
@@ -46,6 +41,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Ayla swim — Parent & Tot",
+      "body": "Today’s 11:00–11:30 AM class at McLean Community Centre is over. Next Sunday is Sep 6."
+    },
     {
       "tag": "Watching",
       "title": "TCMPS cancel / FortisPay $479",
