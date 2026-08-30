@@ -1,6 +1,6 @@
 {
-  "updated": "Sun Aug 30, 7:25 PM ET",
-  "updated_iso": "2026-08-30T19:25:48-04:00",
+  "updated": "Sun Aug 30, 7:48 PM ET",
+  "updated_iso": "2026-08-30T19:48:49-04:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -27,7 +27,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase task (Reminders list, Home). Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase task (Reminders list). Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -94,7 +94,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Frank at Can Do Fence agreed Sun 10:08 AM ET that the $4,192.30 can wait until Wed Sep 2. No new Felix, SKD, Pickering, Opus, door-seller, TCMPS reply, or Canada Goose receipt. Enbridge and BMO LOC still unpaid. Shell gas receipt still stands (Sat ~11:42 AM ET). Booking.com Haiban review ask left alone. Inbox rechecked Sun ~7:24 PM ET; since ~6:26 only Substack/Patreon/Scene+ noise."
+      "body": "Frank at Can Do Fence agreed Sun 10:08 AM ET that the $4,192.30 can wait until Wed Sep 2. No new Felix, SKD, Pickering, Opus, door-seller, TCMPS reply, or Canada Goose receipt. Enbridge and BMO LOC still unpaid. Shell gas receipt still stands (Sat ~11:42 AM ET). Booking.com Haiban review ask left alone. Inbox rechecked Sun ~7:48 PM ET; since ~6:26 only Substack/Patreon/Scene+ noise plus a Todoist fence-payment ping."
     }
   ]
 }
