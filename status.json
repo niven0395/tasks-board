@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Aug 31, 12:05 PM ET",
-  "updated_iso": "2026-08-31T12:05:54-04:00",
+  "updated": "Mon Aug 31, 12:19 PM ET",
+  "updated_iso": "2026-08-31T12:19:35-04:00",
   "live": [
     {
       "tag": "Today",
@@ -9,13 +9,23 @@
     },
     {
       "tag": "In play",
+      "title": "Tax appointment (independent CPA)",
+      "body": "No H&R Block or franchises. Mistaken H&R Wed Kingston Rd booking is being cancelled (confirm email still in inbox). Emailed Schofield CPA on Liverpool for Tue Sep 1–Thu Sep 3; waiting their reply. Calendar not booked yet."
+    },
+    {
+      "tag": "In play",
+      "title": "Orachon Thai Massage",
+      "body": "Booking Saturday afternoon for Niven and Nivetha, two RMTs so Manulife can direct bill. Sunday morning is Ayla’s swim. Confirmation not in yet."
+    },
+    {
+      "tag": "In play",
       "title": "007 First Light PS5",
-      "body": "Wanted at $50 or less on Toronto Marketplace. No $50 listings; messaged Jay Burnett\u2019s $60 Toronto listing asking $50, pickup in Toronto. Sent in Marketplace inbox. Waiting on his reply."
+      "body": "Wanted at $50 or less on Toronto Marketplace. Messaged Jay Burnett’s $60 Toronto listing asking $50, pickup in Toronto. Waiting on his reply (Marketplace inbox; not in Gmail)."
     },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021\u20132025, $500\u2013650, pickup anywhere in the GTA. Ist Cargo $650 (pics unanswered). Furkan silent, Mark still no price. No new seller mail since Sun Aug 23."
+      "body": "2021–2025, $500–650, pickup anywhere in the GTA. Ist Cargo $650 (pics unanswered). Furkan silent, Mark still no price. No new seller mail since Sun Aug 23."
     }
   ],
   "waiting": [
@@ -32,29 +42,29 @@
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivertha\u2019s receipt forward plus photos of the damage and inside hangtag (and a one-liner of what\u2019s broken), then sign into the existing warranty account (Dec 10 2025). Still no receipt in Gmail. Do not send mail unless he asks."
+      "body": "Needs Nivetha’s receipt forward plus photos of the damage and inside hangtag (and a one-liner of what’s broken), then sign into the existing warranty account (Dec 10 2025). Still no receipt in Gmail. Do not send mail unless he asks."
     }
   ],
   "quiet": [
     {
       "tag": "Done",
       "title": "Enbridge $237.50",
-      "body": "Paid Mon Aug 31 from Scotia chequing *8382 (FI 002, transit 80002) on acct 910072794381. No card fee. Processes next business day; then balance should show $0. Do not re-ask."
-    },
-    {
-      "tag": "Done",
-      "title": "TCMPS Amarillo withdrawal",
-      "body": "Niven handled the reply himself Mon 11:52 AM ET. Do not email or reply to the school. Quiet-watch only: FortisPay $479 on Visa *2031 dated Sep 1 \u2014 do not pay; flag only if it posts. SKD waitlist stays."
+      "body": "Paid Mon Aug 31 from Scotia chequing *8382 (FI 002, transit 80002) on acct 910072794381. No card fee. Confirmation email received. Processes next business day; then balance should show $0. Do not re-ask."
     },
     {
       "tag": "Watching",
-      "title": "Levi\u2019s black 30\u00d730",
-      "body": "511 Sta-Black and 512 Slim Taper Sta-Black take 30\u00d730 at $118 (30% off in cart). Ships. No pickup within 80 km of Pickering. Hem only at Eaton Centre."
+      "title": "TCMPS Amarillo withdrawal",
+      "body": "Niven sent the formal letter and Joan Louis forwarded to Finance Mon 11:48 AM ET; Niven thanked them. Do not email the school. Quiet-watch only: FortisPay $479 on Visa *2031 dated Sep 1 — do not pay; flag only if it posts. SKD waitlist stays."
+    },
+    {
+      "tag": "Watching",
+      "title": "Levi’s black 30×30",
+      "body": "511 Sta-Black and 512 Slim Taper Sta-Black take 30×30 at $118 (30% off in cart). Ships. No pickup within 80 km of Pickering. Hem only at Eaton Centre."
     },
     {
       "tag": "Done",
-      "title": "Ayla swim \u2014 Parent & Tot",
-      "body": "Sunday\u2019s 11:00\u201311:30 AM class at McLean Community Centre is over. Next Sunday is Sep 6."
+      "title": "Ayla swim — Parent & Tot",
+      "body": "Sunday’s 11:00–11:30 AM class at McLean Community Centre is over. Next Sunday is Sep 6."
     },
     {
       "tag": "Watching",
@@ -99,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Do not reply to TCPS. Niven already did. Named-thread check 11:49 AM ET: no new Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen. No Goose receipt. Jay\u2019s 007 reply not in Gmail."
+      "body": "Do not reply to TCMPS. Named-thread check 11:49 AM ET: no new Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen. No Goose receipt. Jay’s 007 reply not in Gmail. No Schofield reply yet."
     }
   ]
 }
