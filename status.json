@@ -1,12 +1,7 @@
 {
-  "updated": "Mon Aug 31, 11:31 AM ET",
-  "updated_iso": "2026-08-31T11:31:35-04:00",
+  "updated": "Mon Aug 31, 11:52 AM ET",
+  "updated_iso": "2026-08-31T11:52:31-04:00",
   "live": [
-    {
-      "tag": "Today",
-      "title": "TCMPS withdrawal",
-      "body": "Formal letter sent Mon 11:30 AM ET to Shafia Ahmed (cc registration + Joan Louis). Reasons: grandmother can care for Ayla; Markham too far from Pickering. Waiting on written cancel confirmation and FortisPay $479 off Visa *2031 before Sep 1. SKD waitlist stays. Do not pay."
-    },
     {
       "tag": "Today",
       "title": "Apple keyboard return",
@@ -46,6 +41,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "TCMPS Amarillo withdrawal",
+      "body": "Niven handled the reply himself Mon 11:52 AM ET. Do not email or reply to the school. Quiet-watch only: FortisPay $479 on Visa *2031 dated Sep 1 \u2014 do not pay; flag only if it posts. SKD waitlist stays."
+    },
     {
       "tag": "Watching",
       "title": "Levi\u2019s black 30\u00d730",
@@ -99,7 +99,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Formal TCPS withdrawal letter sent Mon 11:30 AM ET. Waiting on Shafia/Finance confirmation and FortisPay $479 stop. Still: no Canada Goose receipt, no Enbridge/BMO LOC payment, no door-seller mail. Jay\u2019s 007 Marketplace reply not in Gmail."
+      "body": "Do not reply to TCPS. Niven already did. Named-thread check 11:49 AM ET: no new Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen. No Goose receipt. Jay\u2019s 007 reply not in Gmail."
     }
   ]
 }
