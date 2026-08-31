@@ -1,16 +1,11 @@
 {
-  "updated": "Mon Aug 31, 4:52 PM ET",
-  "updated_iso": "2026-08-31T16:52:00-04:00",
+  "updated": "Mon Aug 31, 5:37 PM ET",
+  "updated_iso": "2026-08-31T17:37:00-04:00",
   "live": [
     {
       "tag": "Today",
       "title": "Apple keyboard return",
       "body": "Markville. 14-day window ends tomorrow Sep 1. UPS Store return PDF already sent (store379 Aug 28). No calendar event."
-    },
-    {
-      "tag": "In play",
-      "title": "Orachon Thai Massage",
-      "body": "Emailed info@orachonthaimassage.com 12:31 PM ET for Sat Sep 5 1:15 PM with Anna Sokolovska, Niven + Nivetha, two RMTs, Manulife direct bill. Still no reply. Sunday morning is Ayla’s swim."
     },
     {
       "tag": "In play",
@@ -24,6 +19,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Pick",
+      "title": "Orachon Thai Massage",
+      "body": "Mark replied 5:32 PM ET: no other RMTs near 1:15 Sat Sep 5 (long weekend, no cancellations). Anna has noon; closest other RMT is 10am. Couples same-time 1:15 is out. Niven needs to pick: 10am + noon (not same start), another day, or skip. Do not reply unless he asks."
+    },
     {
       "tag": "Pick",
       "title": "Tax appointment (Schofield CPA)",
@@ -109,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Do not reply to TCMPS. Inbox check ~4:52 PM ET: Patricia’s Oct 9/14 slots still unread (see tax). No Orachon reply, no FortisPay charge mail, no Goose receipt. Named threads (Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen) still quiet. Jay’s 007 reply not in Gmail. Sudha PAP stop still latest school mail (2:19 PM ET)."
+      "body": "Do not reply to TCMPS. Inbox check ~5:37 PM ET: Mark at Orachon replied 5:32 PM (see waiting). Patricia’s Oct 9/14 slots still unread (see tax). No FortisPay charge mail, no Goose receipt. Named threads (Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen) still quiet. Jay’s 007 reply not in Gmail. Sudha PAP stop still latest school mail (2:19 PM ET)."
     }
   ]
 }
