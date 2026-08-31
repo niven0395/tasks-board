@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Aug 31, 11:52 AM ET",
-  "updated_iso": "2026-08-31T11:52:31-04:00",
+  "updated": "Mon Aug 31, 12:05 PM ET",
+  "updated_iso": "2026-08-31T12:05:54-04:00",
   "live": [
     {
       "tag": "Today",
@@ -26,11 +26,6 @@
     },
     {
       "tag": "Pay",
-      "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase task (Reminders list, Home). Not paying unless he asks."
-    },
-    {
-      "tag": "Pay",
       "title": "BMO LOC *9457 overdue $181.32",
       "body": "Overdue over a week. Total $9,934. AMU email Aug 27 4:29 PM ET still unpaid. Money owns pay. Not paying unless he asks."
     },
@@ -41,6 +36,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Enbridge $237.50",
+      "body": "Paid Mon Aug 31 from Scotia chequing *8382 (FI 002, transit 80002) on acct 910072794381. No card fee. Processes next business day; then balance should show $0. Do not re-ask."
+    },
     {
       "tag": "Done",
       "title": "TCMPS Amarillo withdrawal",
