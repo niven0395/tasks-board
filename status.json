@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Aug 31, 10:36 AM ET",
-  "updated_iso": "2026-08-31T10:36:00-04:00",
+  "updated": "Mon Aug 31, 10:51 AM ET",
+  "updated_iso": "2026-08-31T10:51:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -27,7 +27,7 @@
     {
       "tag": "Pay",
       "title": "Pay Enbridge bill",
-      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase task (Reminders list). Not paying unless he asks."
+      "body": "Balance $237.50. Past due $178.91 now + $58.59 due Sep 15. Only open Supabase task (Reminders list, Home). Not paying unless he asks."
     },
     {
       "tag": "Pay",
@@ -99,7 +99,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Inbox rechecked Mon 10:34 AM ET. New since 9:46: Elizabeth Moore OOO on Value program (back Sep 8); TCMPS cancel follow-up sent 9:58 AM ET (still no school reply). Frank still holds Can Do Fence $4,192.30 until Wed Sep 2. No Canada Goose receipt, no Enbridge/BMO LOC payment, no door-seller mail. Noise: Todoist, Wealthsimple, Find My, Substack."
+      "body": "Inbox rechecked Mon 10:49 AM ET. No new substance since 10:36. Still: Elizabeth Moore OOO on Value program (back Sep 8); TCMPS cancel follow-up sent 9:58 AM ET (no school reply). Frank still holds Can Do Fence $4,192.30 until Wed Sep 2. No Canada Goose receipt, no Enbridge/BMO LOC payment, no door-seller mail. Noise: Todoist (eat / take chicken out), Wealthsimple, Find My, Substack."
     }
   ]
 }
