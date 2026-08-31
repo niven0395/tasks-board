@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Aug 31, 3:43 PM ET",
-  "updated_iso": "2026-08-31T15:43:00-04:00",
+  "updated": "Mon Aug 31, 4:27 PM ET",
+  "updated_iso": "2026-08-31T16:27:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -9,13 +9,8 @@
     },
     {
       "tag": "In play",
-      "title": "Tax appointment (Schofield CPA)",
-      "body": "Niven accepted October in-person with Sandy. Replied to Patricia Stewart 2:26 PM ET asking for weekday daytime dates. H&R Block Wed Sep 2 cancelled. Calendar not booked yet. Akons (Ajay Khanna) emailed 3:33 PM ET asking him to call 647-725-9695 after a missed phone try — ignore unless he still wants a this-week slot."
-    },
-    {
-      "tag": "In play",
       "title": "Orachon Thai Massage",
-      "body": "Emailed info@orachonthaimassage.com 12:31 PM ET for Sat Sep 5 1:15 PM with Anna Sokolovska, Niven + Nivetha, two RMTs, Manulife direct bill. No reply yet. Sunday morning is Ayla’s swim."
+      "body": "Emailed info@orachonthaimassage.com 12:31 PM ET for Sat Sep 5 1:15 PM with Anna Sokolovska, Niven + Nivetha, two RMTs, Manulife direct bill. Still no reply. Sunday morning is Ayla’s swim."
     },
     {
       "tag": "In play",
@@ -29,6 +24,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Pick",
+      "title": "Tax appointment (Schofield CPA)",
+      "body": "Patricia emailed 3:45 PM ET: Sandy drop-off at 601 Liverpool Rd, Pickering — Fri Oct 9 10am, Fri Oct 9 11am, or Wed Oct 14 2pm. Not an H&R-style sit-in; they call when the return is done. Niven needs to pick a slot. Akons still asking for a call at 647-725-9695 — ignore."
+    },
     {
       "tag": "Wed",
       "title": "Can Do Fence $4,192.30",
@@ -109,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Do not reply to TCMPS. Inbox check ~3:43 PM ET: Akons asked for a call (see tax). No Orachon reply, no Schofield dates yet, no FortisPay charge mail, no Goose receipt. Named threads (Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen) still quiet. Jay’s 007 reply not in Gmail. Sudha PAP stop still latest school mail (2:19 PM ET)."
+      "body": "Do not reply to TCMPS. Inbox check ~4:27 PM ET: Patricia offered Oct 9 10am/11am or Oct 14 2pm (unread; see tax). No Orachon reply, no FortisPay charge mail, no Goose receipt. Named threads (Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen) still quiet. Jay’s 007 reply not in Gmail. Sudha PAP stop still latest school mail (2:19 PM ET)."
     }
   ]
 }
