@@ -1,21 +1,21 @@
 {
-  "updated": "Mon Aug 31, 12:19 PM ET",
-  "updated_iso": "2026-08-31T12:19:35-04:00",
+  "updated": "Mon Aug 31, 12:29 PM ET",
+  "updated_iso": "2026-08-31T12:29:05-04:00",
   "live": [
     {
       "tag": "Today",
       "title": "Apple keyboard return",
-      "body": "Markville. 14-day window ends tomorrow Sep 1. UPS Store return PDF already sent (store379). Calendar still has the deadline note."
+      "body": "Markville. 14-day window ends tomorrow Sep 1. UPS Store return PDF already sent (store379). No calendar event found this pass."
     },
     {
       "tag": "In play",
       "title": "Tax appointment (independent CPA)",
-      "body": "No H&R Block or franchises. Mistaken H&R Wed Kingston Rd booking is being cancelled (confirm email still in inbox). Emailed Schofield CPA on Liverpool for Tue Sep 1–Thu Sep 3; waiting their reply. Calendar not booked yet."
+      "body": "No H&R Block or franchises. H&R Flexbooker still shows booked Wed Sep 2 11:00 at 1360 Kingston Rd (Maheboob Virji); confirm email 12:12 PM ET, no cancel email yet. Emailed Schofield CPA (Liverpool) 12:16 PM ET for Tue Sep 1–Thu Sep 3; no reply. Calendar not booked yet."
     },
     {
       "tag": "In play",
       "title": "Orachon Thai Massage",
-      "body": "Booking Saturday afternoon for Niven and Nivetha, two RMTs so Manulife can direct bill. Sunday morning is Ayla’s swim. Confirmation not in yet."
+      "body": "Booking Saturday afternoon for Niven and Nivetha, two RMTs so Manulife can direct bill. Sunday morning is Ayla’s swim. No confirmation in Gmail."
     },
     {
       "tag": "In play",
@@ -109,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Mail",
-      "body": "Do not reply to TCMPS. Named-thread check 11:49 AM ET: no new Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen. No Goose receipt. Jay’s 007 reply not in Gmail. No Schofield reply yet."
+      "body": "Do not reply to TCMPS. Named-thread check 12:28 PM ET: no new Felix/Lucy, Walid/Beth, SKD, Doctors Online, Pickering/Carmen, Opus/Karen. No Goose receipt. Jay’s 007 reply not in Gmail. No Schofield reply. H&R email is still a booking confirm, not a cancel."
     }
   ]
 }
