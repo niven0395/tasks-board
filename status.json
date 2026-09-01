@@ -1,85 +1,85 @@
 {
- "updated": "Mon Aug 31, 9:48 PM ET",
- "updated_iso": "2026-08-31T21:48:30-04:00",
- "live": [
-  {
-   "tag": "Tomorrow",
-   "title": "Apple keyboard return",
-   "body": "Markville. The 14-day return window ends Tue Sep 1. UPS Store return PDF was already sent Aug 28."
-  },
-  {
-   "tag": "Tomorrow",
-   "title": "Apple Developer card",
-   "body": "Membership expires about Sep 2 and there is no billing card on the Apple ID. Calendar reminder is Tue 9:00 AM."
-  },
-  {
-   "tag": "In play",
-   "title": "007 First Light PS5",
-   "body": "Target is $50 or less. Jay Burnett’s $60 Toronto listing was asked to take $50; waiting on his Marketplace reply."
-  },
-  {
-   "tag": "In play",
-   "title": "Black Elantra rear passenger door",
-   "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
-  }
- ],
- "waiting": [
-  {
-   "tag": "Pick",
-   "title": "Orachon Thai Massage",
-   "body": "Saturday Sep 5 same-time 1:15 PM is unavailable. Pick 10 AM + noon, another day, or skip; do not reply unless Niven asks."
-  },
-  {
-   "tag": "Pick",
-   "title": "Schofield CPA October visit",
-   "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Pick Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM."
-  },
-  {
-   "tag": "Pay",
-   "title": "BMO LOC *9457 overdue $181.32",
-   "body": "Overdue by more than a week; last verified unpaid Aug 27. Money owns payment and should not pay unless Niven asks."
-  },
-  {
-   "tag": "Wed",
-   "title": "Can Do Fence $4,192.30",
-   "body": "Frank agreed full payment can wait until Wed Sep 2. Niven must pay by e-transfer or card; do not pay unless he asks."
-  },
-  {
-   "tag": "Photos",
-   "title": "Canada Goose warranty",
-   "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt was verified in Gmail."
-  }
- ],
- "quiet": [
-  {
-   "tag": "Stopped",
-   "title": "TCMPS Amarillo withdrawal",
-   "body": "Withdrawal letter sent. Sudha said Accounts was instructed to discontinue PAP immediately. Quiet-watch only for a FortisPay $479 charge dated Sep 1; do not contact the school."
-  },
-  {
-   "tag": "Processing",
-   "title": "Enbridge $237.50",
-   "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; it processes next business day. Do not re-ask this bill."
-  },
-  {
-   "tag": "Watching",
-   "title": "Named email threads",
-   "body": "No new replies through 9:48 PM ET on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up from 10:29 AM ET is still unanswered. No nag."
-  },
-  {
-   "tag": "Watching",
-   "title": "Job applications",
-   "body": "Tangerine Senior Manager, Data & AI Governance and Scotiabank Director, AI Platform acknowledgements received. Watching for next steps."
-  },
-  {
-   "tag": "Watching",
-   "title": "Bills and plans",
-   "body": "Capital One plan, Durham Water, Amex Cobalt, Reliance, and RBC cashback remain quiet watches owned by Money."
-  },
-  {
-   "tag": "Done",
-   "title": "Ayla swim — Parent & Tot",
-   "body": "Aug 30 class is over. Next Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
-  }
- ]
+  "updated": "Tue Sep 1, 8:59 AM ET",
+  "updated_iso": "2026-09-01T08:59:19-04:00",
+  "live": [
+    {
+      "tag": "Today",
+      "title": "Apple keyboard return",
+      "body": "Markville. 14-day return window ends today (Tue Sep 1). UPS Store return PDF was sent Aug 28."
+    },
+    {
+      "tag": "Today",
+      "title": "Apple Developer card",
+      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Calendar reminder is today 9:00 AM. Update at account.apple.com so Niven Cam / TestFlight can renew."
+    },
+    {
+      "tag": "In play",
+      "title": "007 First Light PS5",
+      "body": "Target is $50 or less. Jay Burnett’s $60 Toronto listing was asked to take $50; still waiting on his Marketplace reply."
+    },
+    {
+      "tag": "In play",
+      "title": "Black Elantra rear passenger door",
+      "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
+    }
+  ],
+  "waiting": [
+    {
+      "tag": "Pick",
+      "title": "Orachon Thai Massage",
+      "body": "Saturday Sep 5 same-time 1:15 PM is unavailable. Pick 10 AM + noon, another day, or skip; do not reply unless Niven asks."
+    },
+    {
+      "tag": "Pick",
+      "title": "Schofield CPA October visit",
+      "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Pick Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM."
+    },
+    {
+      "tag": "Pay",
+      "title": "BMO LOC *9457 overdue $181.32",
+      "body": "Overdue by more than a week; last verified unpaid Aug 27. Money owns payment and should not pay unless Niven asks."
+    },
+    {
+      "tag": "Tomorrow",
+      "title": "Can Do Fence $4,192.30",
+      "body": "Frank agreed full payment can wait until Wed Sep 2. Niven must pay by e-transfer or card; do not pay unless he asks."
+    },
+    {
+      "tag": "Photos",
+      "title": "Canada Goose warranty",
+      "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt verified in Gmail."
+    }
+  ],
+  "quiet": [
+    {
+      "tag": "Watching",
+      "title": "TCMPS Amarillo / FortisPay $479",
+      "body": "Withdrawal letter sent; Sudha said Accounts was told to stop PAP immediately. No FortisPay $479 charge email seen yet as of this morning; quiet-watch only, do not contact the school."
+    },
+    {
+      "tag": "Processing",
+      "title": "Enbridge $237.50",
+      "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; processes next business day. Do not re-ask this bill."
+    },
+    {
+      "tag": "Watching",
+      "title": "Named email threads",
+      "body": "No new replies through this morning’s mail check on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Beth Moore auto-reply: OOO until Tue Sep 8. No nag."
+    },
+    {
+      "tag": "Watching",
+      "title": "Job applications",
+      "body": "Tangerine Senior Manager, Data & AI Governance and Scotiabank Director, AI Platform acknowledgements received. Watching for next steps."
+    },
+    {
+      "tag": "Watching",
+      "title": "Bills and plans",
+      "body": "Capital One plan, Durham Water, Amex Cobalt, Reliance, and RBC cashback remain quiet watches owned by Money."
+    },
+    {
+      "tag": "Done",
+      "title": "Ayla swim — Parent & Tot",
+      "body": "Aug 30 class is over. Next Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
+    }
+  ]
 }
