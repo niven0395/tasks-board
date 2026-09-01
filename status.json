@@ -1,11 +1,11 @@
 {
-  "updated": "Tue Sep 1, 9:02 AM ET",
-  "updated_iso": "2026-09-01T09:02:17-04:00",
+  "updated": "Tue Sep 1, 9:58 AM ET",
+  "updated_iso": "2026-09-01T09:58:00-04:00",
   "live": [
     {
-      "tag": "Today",
-      "title": "Apple Developer card",
-      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Calendar reminder was today 9:00 AM. Update at account.apple.com so Niven Cam / TestFlight can renew."
+      "tag": "In play",
+      "title": "Orachon Thai Massage",
+      "body": "Asked Mark for Sunday Sep 6 after 1:00 PM, two RMTs same start (Ayla swim 11:00–11:30). Sent ~8:03 AM ET on thread 1a058a978f0f4530. Waiting on his reply; do not re-email."
     },
     {
       "tag": "In play",
@@ -20,14 +20,14 @@
   ],
   "waiting": [
     {
-      "tag": "Pick",
-      "title": "Orachon Thai Massage",
-      "body": "Saturday Sep 5 same-time 1:15 PM is unavailable. Pick 10 AM + noon, another day, or skip; do not reply unless Niven asks."
+      "tag": "Today",
+      "title": "Apple Developer card",
+      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Update at account.apple.com so Niven Cam / TestFlight can renew."
     },
     {
       "tag": "Pick",
       "title": "Schofield CPA October visit",
-      "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Pick Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM."
+      "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Offered Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM. Do not re-nag the skipped pick."
     },
     {
       "tag": "Pay",
@@ -42,7 +42,7 @@
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail. EventKit nudge tonight 7:30 PM."
+      "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail."
     }
   ],
   "quiet": [
@@ -54,17 +54,17 @@
     {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Aug 29 FortisPay reminder scheduled $479 on Visa *2031 for Sep 1. Sudha said PAP discontinued immediately. No FortisPay charge/confirm mail after Aug 30 as of this morning; quiet-watch only, do not contact the school."
+      "body": "Sudha discontinued PAD immediately. Formal withdrawal letter sent Aug 31; Joan forwarded to Finance. Still no FortisPay charge/confirm mail after the Aug 29 reminder (as of this morning). Quiet-watch only; do not contact the school."
     },
     {
-      "tag": "Processing",
+      "tag": "Done",
       "title": "Enbridge $237.50",
       "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; Supabase task marked complete. Do not re-ask this bill."
     },
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "No new replies since Aug 31 evening on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up Aug 31 10:29 AM ET still unanswered; Beth auto-reply OOO until Tue Sep 8. No nag."
+      "body": "No new replies as of 9:52 AM ET on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up Aug 31 10:29 AM ET still unanswered; Beth OOO until Tue Sep 8. No nag."
     },
     {
       "tag": "Watching",
@@ -74,12 +74,12 @@
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "Capital One plan, Durham Water, Amex Cobalt, Reliance, and RBC cashback remain quiet watches owned by Money."
+      "body": "Near-dues known and not re-nagged: Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water $1,686.31 due Sep 15, Reliance $55.23. Capital One plan and RBC cashback remain quiet watches owned by Money."
     },
     {
-      "tag": "Done",
+      "tag": "Soon",
       "title": "Ayla swim — Parent & Tot",
-      "body": "Aug 30 class is over. Next (last) Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
+      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00–11:30 AM ET."
     }
   ]
 }
