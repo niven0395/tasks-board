@@ -1,21 +1,16 @@
 {
-  "updated": "Tue Sep 1, 8:59 AM ET",
-  "updated_iso": "2026-09-01T08:59:19-04:00",
+  "updated": "Tue Sep 1, 9:02 AM ET",
+  "updated_iso": "2026-09-01T09:02:17-04:00",
   "live": [
     {
       "tag": "Today",
-      "title": "Apple keyboard return",
-      "body": "Markville. 14-day return window ends today (Tue Sep 1). UPS Store return PDF was sent Aug 28."
-    },
-    {
-      "tag": "Today",
       "title": "Apple Developer card",
-      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Calendar reminder is today 9:00 AM. Update at account.apple.com so Niven Cam / TestFlight can renew."
+      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Calendar reminder was today 9:00 AM. Update at account.apple.com so Niven Cam / TestFlight can renew."
     },
     {
       "tag": "In play",
       "title": "007 First Light PS5",
-      "body": "Target is $50 or less. Jay Burnett’s $60 Toronto listing was asked to take $50; still waiting on his Marketplace reply."
+      "body": "Target is $50 or less. Jay Burnett’s $60 Toronto listing was asked to take $50; still no Marketplace reply in mail."
     },
     {
       "tag": "In play",
@@ -42,29 +37,34 @@
     {
       "tag": "Tomorrow",
       "title": "Can Do Fence $4,192.30",
-      "body": "Frank agreed full payment can wait until Wed Sep 2. Niven must pay by e-transfer or card; do not pay unless he asks."
+      "body": "Frank agreed full payment can wait until Wed Sep 2. EventKit reminder is Wed 9:30 AM. Niven must pay by e-transfer or card; do not pay unless he asks."
     },
     {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt verified in Gmail."
+      "body": "Needs Nivetha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail. EventKit nudge tonight 7:30 PM."
     }
   ],
   "quiet": [
     {
+      "tag": "Done",
+      "title": "Apple keyboard return",
+      "body": "EventKit marked Return Apple keyboard done Aug 31. UPS Store PDF was sent Aug 28 with no store reply; no Apple return confirmation in Gmail."
+    },
+    {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Withdrawal letter sent; Sudha said Accounts was told to stop PAP immediately. No FortisPay $479 charge email seen yet as of this morning; quiet-watch only, do not contact the school."
+      "body": "Aug 29 FortisPay reminder scheduled $479 on Visa *2031 for Sep 1. Sudha said PAP discontinued immediately. No FortisPay charge/confirm mail after Aug 30 as of this morning; quiet-watch only, do not contact the school."
     },
     {
       "tag": "Processing",
       "title": "Enbridge $237.50",
-      "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; processes next business day. Do not re-ask this bill."
+      "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; Supabase task marked complete. Do not re-ask this bill."
     },
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "No new replies through this morning’s mail check on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Beth Moore auto-reply: OOO until Tue Sep 8. No nag."
+      "body": "No new replies since Aug 31 evening on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up Aug 31 10:29 AM ET still unanswered; Beth auto-reply OOO until Tue Sep 8. No nag."
     },
     {
       "tag": "Watching",
@@ -79,7 +79,7 @@
     {
       "tag": "Done",
       "title": "Ayla swim — Parent & Tot",
-      "body": "Aug 30 class is over. Next Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
+      "body": "Aug 30 class is over. Next (last) Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
     }
   ]
 }
