@@ -1,11 +1,16 @@
 {
- "updated": "Mon Aug 31, 8:46 PM ET",
- "updated_iso": "2026-08-31T20:46:52-04:00",
+ "updated": "Mon Aug 31, 9:26 PM ET",
+ "updated_iso": "2026-08-31T21:26:44-04:00",
  "live": [
   {
-   "tag": "Today",
+   "tag": "Tomorrow",
    "title": "Apple keyboard return",
-   "body": "Markville. The 14-day return window ends tomorrow, Sep 1. UPS Store return PDF was already sent Aug 28."
+   "body": "Markville. The 14-day return window ends Tue Sep 1. UPS Store return PDF was already sent Aug 28."
+  },
+  {
+   "tag": "Tomorrow",
+   "title": "Apple Developer card",
+   "body": "Membership expires about Sep 2 and there is no billing card on the Apple ID. Calendar reminder is Tue 9:00 AM."
   },
   {
    "tag": "In play",
@@ -27,7 +32,7 @@
   {
    "tag": "Pick",
    "title": "Schofield CPA October visit",
-   "body": "H&R Block was dropped and Schofield CPA accepted for an October in-person Sandy drop-off. Pick Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM."
+   "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Pick Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM."
   },
   {
    "tag": "Pay",
@@ -54,12 +59,12 @@
   {
    "tag": "Processing",
    "title": "Enbridge $237.50",
-   "body": "Payment was initiated Aug 31 from Scotia chequing *8382 and a confirmation email was received. It processes next business day; do not claim final settlement yet."
+   "body": "Paid Aug 31 from Scotia chequing *8382. Confirmation email received; it processes next business day. Do not re-ask this bill."
   },
   {
    "tag": "Watching",
    "title": "Named email threads",
-   "body": "No new replies through 8:45 PM ET on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up from 10:29 AM ET is still unanswered. No nag."
+   "body": "No new replies through 9:26 PM ET on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Niven’s Walid follow-up from 10:29 AM ET is still unanswered. No nag."
   },
   {
    "tag": "Watching",
@@ -74,7 +79,7 @@
   {
    "tag": "Done",
    "title": "Ayla swim — Parent & Tot",
-   "body": "Aug 30 class is over. Next Sunday is Sep 6."
+   "body": "Aug 30 class is over. Next Sunday is Sep 6 at McLean Community Centre, 11:00 AM."
   }
  ]
 }
