@@ -1,28 +1,43 @@
 {
-  "updated": "Tue Sep 1, 9:47 PM ET",
-  "updated_iso": "2026-09-01T21:47:08-04:00",
+  "updated": "Wed Sep 2, 8:28 AM ET",
+  "updated_iso": "2026-09-02T08:28:27-04:00",
   "live": [
     {
       "tag": "In play",
       "title": "007 First Light PS5",
-      "body": "Target is $50 or less. Jay Burnett’s $60 Toronto listing was asked to take $50; still no Marketplace reply in mail."
+      "body": "Target is $50 or less. Jay Burnett\u2019s $60 Toronto listing was asked to take $50; still no Marketplace reply in mail."
     },
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
+      "body": "2021\u20132025, black, $500\u2013650, pickup anywhere in the GTA. No verified new seller response."
     }
   ],
   "waiting": [
     {
-      "tag": "Call",
-      "title": "Orachon Thai Massage",
-      "body": "Mark replied ~3:08 PM ET: only back-to-back on Saturday, none at the same time. He asked Niven to call 416-782-1888 so he can find a time. Sunday same-start after 1pm is still open until Niven decides. Do not email unless he asks. Thread 1a058a978f0f4530."
+      "tag": "Renew",
+      "title": "Apple Developer membership lapsed",
+      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account \u2192 Renew). Needed for Niven Cam / TestFlight."
     },
     {
-      "tag": "Due",
-      "title": "Apple Developer card",
-      "body": "Membership expires about Sep 2; no billing card on the Apple ID. Update at account.apple.com so Niven Cam / TestFlight can renew. Google Calendar reminder is Mon Sep 14 9:00 AM."
+      "tag": "Today",
+      "title": "Call Social Assistance Canada",
+      "body": "Calendar 12:00\u201312:30 PM ET today. Open Supabase task too. Niven must call."
+    },
+    {
+      "tag": "Pay",
+      "title": "Pay BMO (calendar noon-ish)",
+      "body": "Calendar 12:30\u20131:00 PM ET today (Pay BMO Bill). Includes known overdue LOC *9457 $181.32 (last verified unpaid Aug 27). Money owns payment; do not pay unless Niven asks."
+    },
+    {
+      "tag": "Today",
+      "title": "Can Do Fence $4,192.30",
+      "body": "Frank agreed full payment can wait until Wed Sep 2. EventKit reminder was Wed 9:30 AM. Niven must pay by e-transfer or card; do not pay unless he asks."
+    },
+    {
+      "tag": "Call",
+      "title": "Orachon Thai Massage",
+      "body": "Mark replied ~3:08 PM ET Sep 1: only back-to-back on Saturday, none at the same time. Call 416-782-1888 so he can find a time. Sunday same-start after 1pm still open until Niven decides. Do not email unless he asks. Thread 1a058a978f0f4530."
     },
     {
       "tag": "Pick",
@@ -30,19 +45,9 @@
       "body": "Drop-off with Sandy at 601 Liverpool Rd, Pickering. Offered Fri Oct 9 at 10 or 11 AM, or Wed Oct 14 at 2 PM. Do not re-nag the skipped pick."
     },
     {
-      "tag": "Pay",
-      "title": "BMO LOC *9457 overdue $181.32",
-      "body": "Overdue by more than a week; last verified unpaid Aug 27. Money owns payment and should not pay unless Niven asks."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Can Do Fence $4,192.30",
-      "body": "Frank agreed full payment can wait until Wed Sep 2. EventKit reminder is Wed 9:30 AM. Niven must pay by e-transfer or card; do not pay unless he asks."
-    },
-    {
       "tag": "Photos",
       "title": "Canada Goose warranty",
-      "body": "Needs Nivertha’s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail."
+      "body": "Needs Nivertha\u2019s receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail."
     }
   ],
   "quiet": [
@@ -54,7 +59,7 @@
     {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Withdrawal was sent and Finance was contacted. Sudha said PAP is discontinued. Still no FortisPay charge or confirmation in Gmail as of Tue Sep 1, 9:46 PM ET on Sep 1. Quiet monitoring only; do not contact the school."
+      "body": "Withdrawal sent; Sudha said PAP discontinued. Still no FortisPay charge or confirmation in Gmail as of Wed Sep 2 morning. Quiet monitoring only; do not contact the school."
     },
     {
       "tag": "Done",
@@ -64,22 +69,22 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Hourly watch last ran ~6:46 PM ET with no new replies on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Spot-check through ~9:46 PM ET still quiet. Niven’s Walid follow-up Aug 31 10:29 AM ET still unanswered; Beth OOO until Tue Sep 8. No nag."
+      "body": "Hourly watch last succeeded ~6:46 PM ET Sep 1 with no new replies on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Morning spot-check Sep 2 still quiet. Beth OOO until Tue Sep 8. No nag."
     },
     {
       "tag": "Watching",
       "title": "Job applications",
-      "body": "Tangerine Senior Manager, Data & AI Governance and Scotiabank Director, AI Platform acknowledgements received. Scotiabank Manager, Mortgage Pricing Analytics ack arrived ~1:34 PM ET. Watching for next steps."
+      "body": "Tangerine Senior Manager, Data & AI Governance and Scotiabank Director, AI Platform acknowledgements received. Scotiabank Manager, Mortgage Pricing Analytics ack arrived ~1:34 PM ET Sep 1. Watching for next steps."
     },
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "The 9:00 AM ET money digest found no new actionable bill mail. Near-dues: Fence Sep 2, Triangle Sep 3, Amex/Elexicon Sep 4. GCP invoice 5683976272 arrived ~8:30 PM ET (auto-charged; no action). Later dues and Capital One/RBC plan watches remain with Money."
+      "body": "Near-dues: Fence today Sep 2 (in waiting), Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water due Sep 15. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
       "tag": "Soon",
-      "title": "Ayla swim — Parent & Tot",
-      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00–11:30 AM ET."
+      "title": "Ayla swim \u2014 Parent & Tot",
+      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00\u201311:30 AM ET."
     }
   ]
 }
