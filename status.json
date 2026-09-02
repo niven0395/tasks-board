@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Sep 2, 11:51 AM ET",
-  "updated_iso": "2026-09-02T11:51:02-04:00",
+  "updated": "Wed Sep 2, 12:18 PM ET",
+  "updated_iso": "2026-09-02T12:18:59-04:00",
   "live": [
     {
       "tag": "In play",
@@ -10,24 +10,19 @@
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
+      "body": "2021\u20132025, black, $500\u2013650, pickup anywhere in the GTA. No verified new seller response."
     }
   ],
   "waiting": [
     {
       "tag": "Renew",
       "title": "Apple Developer membership lapsed",
-      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account → Renew). Needed for Niven Cam / TestFlight."
-    },
-    {
-      "tag": "Today",
-      "title": "Call Social Assistance Canada",
-      "body": "Calendar 12:00–12:30 PM ET today. Open Supabase task too. Niven must call."
+      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account \u2192 Renew). Needed for Niven Cam / TestFlight."
     },
     {
       "tag": "Pay",
       "title": "Pay BMO (calendar noon-ish)",
-      "body": "Calendar 12:30–1:00 PM ET today (Pay BMO Bill). Includes known overdue LOC *9457 $181.32 (last verified unpaid Aug 27). Money owns payment; do not pay unless Niven asks."
+      "body": "Calendar 12:30\u20131:00 PM ET today (Pay BMO Bill). Includes known overdue LOC *9457 $181.32 (last verified unpaid Aug 27). Open Supabase task. Money owns payment; do not pay unless Niven asks."
     },
     {
       "tag": "Today",
@@ -53,13 +48,18 @@
   "quiet": [
     {
       "tag": "Done",
+      "title": "Call Social Assistance Canada",
+      "body": "Supabase task marked complete ~12:11 PM ET Sep 2. Calendar slot was noon. Do not re-ask."
+    },
+    {
+      "tag": "Done",
       "title": "Apple keyboard return",
       "body": "EventKit marked Return Apple keyboard done Aug 31. UPS Store PDF was sent Aug 28 with no store reply; no Apple return confirmation in Gmail."
     },
     {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Withdrawal sent; Sudha said PAP discontinued. Still no FortisPay charge or confirmation in Gmail as of Wed Sep 2 ~11:51 AM ET. Quiet monitoring only; do not contact the school."
+      "body": "Withdrawal sent; Sudha said PAP discontinued. Still no FortisPay charge or confirmation in Gmail as of Wed Sep 2, 12:18 PM ET. Quiet monitoring only; do not contact the school."
     },
     {
       "tag": "Done",
@@ -69,7 +69,7 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Hourly watch last succeeded ~10:47 AM ET Sep 2 with no new replies on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. Spot-check ~11:51 AM ET Sep 2 still quiet (no Marketplace replies either). Beth OOO until Tue Sep 8. No nag."
+      "body": "Hourly named-thread watch still quiet on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, and Opus/Karen as of earlier today. Beth OOO until Tue Sep 8. No nag."
     },
     {
       "tag": "Watching",
@@ -79,12 +79,12 @@
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "Near-dues: Fence today Sep 2 (in waiting), Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water due Sep 15. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money. Weekday money digest ~9:22 AM ET found no new bill mail."
+      "body": "Near-dues: Fence today Sep 2 (in waiting), Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water due Sep 15. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
       "tag": "Soon",
-      "title": "Ayla swim — Parent & Tot",
-      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00–11:30 AM ET."
+      "title": "Ayla swim \u2014 Parent & Tot",
+      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00\u201311:30 AM ET."
     }
   ]
 }
