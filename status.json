@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Sep 2, 4:29 PM ET",
-  "updated_iso": "2026-09-02T16:29:55-04:00",
+  "updated": "Wed Sep 2, 4:57 PM ET",
+  "updated_iso": "2026-09-02T16:57:04-04:00",
   "live": [
     {
       "tag": "In play",
@@ -17,17 +17,17 @@
     {
       "tag": "Renew",
       "title": "Apple Developer membership lapsed",
-      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account → Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt arrived ~12:34 PM ET (separate purchase; not a membership renew confirmation)."
+      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account → Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt ~12:34 PM ET was a separate purchase, not a membership renew confirmation. A later Hello Developer newsletter is not a renew confirmation either."
     },
     {
       "tag": "Pay",
       "title": "Pay BMO (calendar slot passed)",
-      "body": "Calendar was 12:30–1:00 PM ET today (Pay BMO Bill); slot has passed. Supabase task still open. Includes known overdue LOC *9457 $181.32 (last verified unpaid Aug 27). Money owns payment; do not pay unless Niven asks."
+      "body": "Calendar was 12:30–1:00 PM ET today (Pay BMO Bill); slot has passed. Supabase task still open (only open task). Includes known overdue LOC *9457 $181.32 (last verified unpaid Aug 27). Money owns payment; do not pay unless Niven asks."
     },
     {
-      "tag": "Today",
+      "tag": "Due",
       "title": "Can Do Fence $4,192.30",
-      "body": "Frank agreed full payment can wait until Wed Sep 2. Todoist still pinging Pay fence (latest ~3:16 PM ET). Niven must pay by e-transfer or card; do not pay unless he asks."
+      "body": "Frank agreed full payment can wait until Wed Sep 2. Still unpaid this afternoon; no payment confirmation in Gmail. Niven must pay by e-transfer or card; do not pay unless he asks."
     },
     {
       "tag": "Call",
@@ -59,7 +59,7 @@
     {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Withdrawal sent; Sudha said PAD discontinued. Still no FortisPay charge or confirmation in Gmail as of Wed Sep 2, 4:29 PM ET. Quiet monitoring only; do not contact the school."
+      "body": "Withdrawal sent; Sudha said PAD discontinued. Still no FortisPay charge or confirmation in Gmail as of Wed Sep 2, 4:57 PM ET. Quiet monitoring only; do not contact the school."
     },
     {
       "tag": "Done",
@@ -69,7 +69,7 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Hourly named-thread watch still quiet on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, and Opus/Karen as of ~Wed Sep 2, 3:42 PM ET (last check). Beth OOO until Tue Sep 8. No nag."
+      "body": "Hourly named-thread watch still quiet on Felix/Lucy, Walid/Beth RBC cashback, SKD, Doctors Online, Pickering/Carmen, and Opus/Karen as of ~Wed Sep 2, 4:44 PM ET (last check). Beth OOO until Tue Sep 8. No nag."
     },
     {
       "tag": "Watching",
@@ -79,7 +79,7 @@
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "Near-dues: Fence today Sep 2 (in waiting), Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water due Sep 15. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
+      "body": "Near-dues: Fence due today Sep 2 (in waiting), Triangle min ~$238 due Sep 3, Amex min ~$98 and Elexicon $135 due Sep 4, Durham Water due Sep 15. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
       "tag": "Soon",
