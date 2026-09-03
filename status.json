@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Sep 3, 11:25 AM ET",
-  "updated_iso": "2026-09-03T11:25:00-04:00",
+  "updated": "Thu Sep 3, 11:53 AM ET",
+  "updated_iso": "2026-09-03T11:53:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -10,19 +10,24 @@
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
+      "body": "2021\u20132025, black, $500\u2013650, pickup anywhere in the GTA. No verified new seller response."
     }
   ],
   "waiting": [
     {
+      "tag": "Today",
+      "title": "Allure Dental \u2014 3:30 PM today",
+      "body": "Janelle at Allure Dental (Ajax) replied ~11:46 AM ET: she can take the new-patient checkup and cleaning TODAY, Thu Sep 3 at 3:30 PM. Needs a yes or no from Niven soon. Context: Perla Dental Stouffville cancelled his appointment (Opencare email ~10:17 AM ET). Manulife direct billing was requested in the ask."
+    },
+    {
       "tag": "Renew",
       "title": "Apple Developer membership lapsed",
-      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account → Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt ~12:34 PM ET was a separate purchase, not a membership renew confirmation. A later Hello Developer newsletter is not a renew confirmation either."
+      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account \u2192 Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt ~12:34 PM ET was a separate purchase, not a membership renew confirmation. A later Hello Developer newsletter is not a renew confirmation either."
     },
     {
       "tag": "Due",
       "title": "Can Do Fence $1,192.30",
-      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Thu Sep 3 ~11:25 AM ET; no payment confirmation in Gmail. Todoist Sep 3 digest lists remaining fence $1,192.30 (Money day / reply to Frank) with 0 overdue. Niven must pay by e-transfer or card; do not pay unless he asks."
+      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Thu Sep 3 ~11:53 AM ET; no payment confirmation in Gmail. Todoist Sep 3 digest lists remaining fence $1,192.30 (Money day / reply to Frank) with 0 overdue. Niven must pay by e-transfer or card; do not pay unless he asks."
     },
     {
       "tag": "Call",
@@ -58,13 +63,13 @@
     },
     {
       "tag": "Watching",
-      "title": "Hammam Spa by Céla order 9717",
-      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery Thu Sep 3; no ready email yet as of ~11:25 AM ET."
+      "title": "Hammam Spa by C\u00e9la order 9717",
+      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery Thu Sep 3; no ready email yet as of ~11:53 AM ET."
     },
     {
       "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
-      "body": "Withdrawal sent; Sudha said PAD discontinued. Still no FortisPay charge or confirmation in Gmail as of Thu Sep 3 ~11:25 AM ET. Quiet monitoring only; do not contact the school."
+      "body": "Withdrawal sent; Sudha said PAD discontinued. Still no FortisPay charge or confirmation in Gmail as of Thu Sep 3 ~11:53 AM ET. Quiet monitoring only; do not contact the school."
     },
     {
       "tag": "Done",
@@ -74,7 +79,7 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Overnight Niven emailed Walid (~11:06 PM ET Sep 2) about property tax arrears at 1024 Valhalla / mortgage; no Walid reply verified as of ~10:53 AM ET. No new replies on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8), SKD, Doctors Online, Pickering/Carmen, or Opus/Karen through the ~10:43 AM ET named-thread check. No nag."
+      "body": "Overnight Niven emailed Walid (~11:06 PM ET Sep 2) about property tax arrears at 1024 Valhalla / mortgage; no Walid reply verified as of ~11:53 AM ET. No new replies on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8), SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. No nag."
     },
     {
       "tag": "Watching",
@@ -87,9 +92,14 @@
       "body": "Near-dues: Fence remaining $1,192.30 still unpaid (in waiting), Triangle min ~$238 due today Thu Sep 3, Amex min ~$98 and Elexicon $135 due Fri Sep 4, Durham Water due Sep 15. Todoist Money day also lists BMO LOC ~$181 and mortgage $2,000. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
+      "tag": "Noted",
+      "title": "Subscription cleanup",
+      "body": "ChatGPT Plus is set not to renew, active through Sep 5 (email ~9:37 AM ET Sep 3). Netflix sent a cancellation goodbye ~9:41 AM ET Sep 3. No action unless either was unintended."
+    },
+    {
       "tag": "Soon",
-      "title": "Ayla swim — Parent & Tot",
-      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00–11:30 AM ET."
+      "title": "Ayla swim \u2014 Parent & Tot",
+      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00\u201311:30 AM ET."
     }
   ]
 }
