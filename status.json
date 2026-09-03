@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Sep 3, 1:49 PM ET",
-  "updated_iso": "2026-09-03T13:49:18-04:00",
+  "updated": "Thu Sep 3, 2:36 PM ET",
+  "updated_iso": "2026-09-03T14:36:16-04:00",
   "live": [
     {
       "tag": "In play",
@@ -10,12 +10,12 @@
     {
       "tag": "In play",
       "title": "Black Elantra rear passenger door",
-      "body": "2021\u20132025, black, $500\u2013650, pickup anywhere in the GTA. No verified new seller response."
+      "body": "2021–2025, black, $500–650, pickup anywhere in the GTA. No verified new seller response."
     },
     {
       "tag": "Booked",
-      "title": "Perla Dental Stouffville \u2014 Sep 14",
-      "body": "Opencare confirmed Mon Sep 14 at 1:40 PM with Dr. Mona Reza, 6668 Main St, Whitchurch-Stouffville (~1:40 PM ET emails; first said 1:40 AM then corrected). Morning cancel was rebooked. Optional: send insurance via Opencare. Conflicts with Allure's Sep 15 offer."
+      "title": "Perla Dental Stouffville — Sep 14",
+      "body": "Opencare confirmed Mon Sep 14 at 1:40 PM with Dr. Mona Reza, 6668 Main St, Whitchurch-Stouffville (confirm emails ~1:39–1:40 PM ET; first said 1:40 AM then corrected). Not yet on Google Calendar. Same day has a 12:30–1:30 PM hold: Request to book Dr. Annesse Lee at 2001 Sheppard Ave E. Conflicts with Allure's Sep 15 12:30 offer."
     },
     {
       "tag": "Home",
@@ -25,14 +25,19 @@
   ],
   "waiting": [
     {
+      "tag": "Pay",
+      "title": "Pickering property tax arrears",
+      "body": "Walid replied ~2:23 PM ET: RBC cannot add arrears to the mortgage or collect/pay property taxes. Pay the City directly (1.25%/month penalties). Refinance only if ≥20% equity after a ~$16,185 payout. Arrears ~$9,735; final 2026 instalment $2,271 due Sep 25. Value Program incentive still under review. Do not pay unless he asks."
+    },
+    {
       "tag": "Decide",
-      "title": "Allure Dental \u2014 Sep 15 vs Perla",
-      "body": "Janelle offered Tue Sep 15 at 12:30 PM (exam then hygiene); still needs yes/no (thread 1a067d92c8549760). Records Release + Web Form Invitation still unread (~1:28 PM ET). Call (905) 686-4343 if stuck. Perla is now booked Mon Sep 14 1:40 PM \u2014 pick one so you don't double-book. Manulife direct billing was requested."
+      "title": "Allure Dental — Sep 15 vs Perla",
+      "body": "Janelle offered Tue Sep 15 at 12:30 PM (exam then hygiene); still needs yes/no (thread 1a067d92c8549760). Records Release + Web Form Invitation still unread (~1:28 PM ET). Call (905) 686-4343 if stuck. Perla is booked Mon Sep 14 1:40 PM — pick one so you don't double-book. Manulife direct billing was requested."
     },
     {
       "tag": "Pay",
       "title": "Canadian Tire / Triangle payment",
-      "body": "Incomplete Supabase task due today ~6 PM ET. Triangle min ~$238 was already on the quiet bills list for Thu Sep 3. Home enter fence set (online pay). Do not pay unless he asks."
+      "body": "Incomplete Supabase task due today ~6 PM ET. Triangle min ~$238. Home enter fence set (online pay). Do not pay unless he asks."
     },
     {
       "tag": "Drive",
@@ -47,12 +52,12 @@
     {
       "tag": "Renew",
       "title": "Apple Developer membership lapsed",
-      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account \u2192 Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt ~12:34 PM ET was a separate purchase, not a membership renew confirmation. A later Hello Developer newsletter is not a renew confirmation either."
+      "body": "Apple emailed ~4:16 AM ET Sep 2: membership was not auto-renewed (billing issue); auto-renew is off. Renew in the Apple Developer app (Account → Renew). Needed for Niven Cam / TestFlight. Eaton Centre store receipt ~12:34 PM ET Sep 2 was a separate purchase, not a membership renew confirmation."
     },
     {
       "tag": "Due",
       "title": "Can Do Fence $1,192.30",
-      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Thu Sep 3; no payment confirmation in Gmail. Todoist Sep 3 digest lists remaining fence $1,192.30 (Money day / reply to Frank) with 0 overdue. Niven must pay by e-transfer or card; do not pay unless he asks."
+      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Thu Sep 3; no payment confirmation in Gmail. Todoist Sep 3 digest lists remaining fence $1,192.30. Niven must pay by e-transfer or card; do not pay unless he asks."
     },
     {
       "tag": "Call",
@@ -88,8 +93,8 @@
     },
     {
       "tag": "Watching",
-      "title": "Hammam Spa by C\u00e9la order 9717",
-      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery Thu Sep 3; no ready email yet as of ~1:49 PM ET."
+      "title": "Hammam Spa by Céla order 9717",
+      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery Thu Sep 3; no ready email yet as of this refresh."
     },
     {
       "tag": "Watching",
@@ -104,7 +109,7 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Overnight Niven emailed Walid (~11:06 PM ET Sep 2) about property tax arrears at 1024 Valhalla / mortgage; no Walid reply verified as of ~1:49 PM ET. No new replies on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8), SKD, Doctors Online, Pickering/Carmen, or Opus/Karen. No nag."
+      "body": "Walid answered the property-tax question (~2:23 PM ET; now in waiting). No new replies on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8; Walid says incentive still under review), SKD, Doctors Online, Pickering/Carmen, Opus/Karen, or Scotia CD-2609-653. No nag."
     },
     {
       "tag": "Watching",
@@ -114,7 +119,7 @@
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "Near-dues: Fence remaining $1,192.30 still unpaid (in waiting), Triangle min ~$238 due today Thu Sep 3 (also mirrored as Canadian Tire payment waiting), Amex min ~$98 and Elexicon $135 due Fri Sep 4, Durham Water due Sep 15. Todoist Money day also lists BMO LOC ~$181 and mortgage $2,000. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
+      "body": "Near-dues: Fence remaining $1,192.30 still unpaid (in waiting), Triangle min ~$238 due today Thu Sep 3 (also mirrored as Canadian Tire payment waiting), Pickering property tax arrears ~$9,735 plus $2,271 due Sep 25 (in waiting), Amex min ~$98 and Elexicon $135 due Fri Sep 4, Durham Water due Sep 15. Todoist Money day also lists BMO LOC ~$181 and mortgage $2,000. GCP invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
       "tag": "Noted",
@@ -123,8 +128,8 @@
     },
     {
       "tag": "Soon",
-      "title": "Ayla swim \u2014 Parent & Tot",
-      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00\u201311:30 AM ET."
+      "title": "Ayla swim — Parent & Tot",
+      "body": "Last session Sun Sep 6 at McLean Community Centre, Ajax, 11:00–11:30 AM ET."
     },
     {
       "tag": "Blocked",
