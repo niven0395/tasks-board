@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Sep 4, 12:11 PM ET",
-  "updated_iso": "2026-09-04T12:11:37-04:00",
+  "updated": "Fri Sep 4, 12:40 PM ET",
+  "updated_iso": "2026-09-04T12:40:40-04:00",
   "live": [
     {
       "tag": "In play",
@@ -20,7 +20,7 @@
     {
       "tag": "Home",
       "title": "Laundry",
-      "body": "Incomplete Supabase task was due Thu Sep 3 ~9 PM ET (still open). Home enter fence set. Mac EventKit unreachable so Apple Reminders not mirrored."
+      "body": "Incomplete Supabase task due Fri Sep 4 ~9 PM ET (still open). Home enter fence set. Mac EventKit unreachable so Apple Reminders not mirrored."
     }
   ],
   "waiting": [
@@ -42,17 +42,17 @@
     {
       "tag": "Pay",
       "title": "Canadian Tire / Triangle payment",
-      "body": "Incomplete Supabase task was due Thu Sep 3 ~6:35 PM ET (still open). Triangle min ~$238. Home enter fence set (online pay). Do not pay unless he asks."
-    },
-    {
-      "tag": "Drive",
-      "title": "Korean sauce",
-      "body": "Incomplete Supabase task was due Thu Sep 3 ~3:30 PM ET (still open). Costco enter fence set. Needs a store run."
+      "body": "Incomplete Supabase task due Fri Sep 4 ~6:35 PM ET (still open). Triangle min ~$238. Home enter fence set (online pay). Do not pay unless he asks."
     },
     {
       "tag": "Setup",
       "title": "Nivetha ITRADE Account",
-      "body": "Incomplete Supabase task was due Thu Sep 3 ~6 PM ET (still open). Home enter fence set. Needs Niven/Nivetha to finish account setup."
+      "body": "Incomplete Supabase task due Fri Sep 4 ~6 PM ET (still open). Home enter fence set. Needs Niven/Nivetha to finish account setup."
+    },
+    {
+      "tag": "Setup",
+      "title": "ESOP Nivetha",
+      "body": "New incomplete Supabase task (due Fri Sep 4 ~12 PM ET, still open). Needs Niven/Nivetha; no extra notes on the task."
     },
     {
       "tag": "Renew",
@@ -83,6 +83,11 @@
   "quiet": [
     {
       "tag": "Done",
+      "title": "Korean sauce",
+      "body": "Supabase task marked complete ~10:32 PM ET Sep 3. Do not re-ask."
+    },
+    {
+      "tag": "Done",
       "title": "Pay BMO",
       "body": "Supabase task marked complete ~4:28 PM ET Sep 2. Includes the known LOC *9457 item. Do not re-ask."
     },
@@ -99,7 +104,7 @@
     {
       "tag": "Watching",
       "title": "Hammam Spa by Céla order 9717",
-      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery was Thu Sep 3; still no ready email as of Fri Sep 4, 12:11 PM ET."
+      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery was Thu Sep 3; still no ready email as of Fri Sep 4, 12:40 PM ET."
     },
     {
       "tag": "Watching",
@@ -124,7 +129,7 @@
     {
       "tag": "Watching",
       "title": "Bills and plans",
-      "body": "Near-dues: Fence remaining $1,192.30 still unpaid (in waiting), Triangle min ~$238 past due Thu Sep 3 (in waiting), Pickering property tax arrears ~$9,735 plus $2,271 due Sep 25 (in waiting), Amex min ~$98 and Elexicon $135 due today Fri Sep 4 (in waiting), Durham Water due Sep 15. Reliance eBill $110.46 due Sep 18 (acct ·2298957). Todoist Sep 4 digest: 0 due today, 1 overdue (unnamed in digest). GCPA invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
+      "body": "Near-dues: Fence remaining $1,192.30 still unpaid (in waiting), Triangle min ~$238 past due (in waiting; task due Fri Sep 4 ~6:35 PM ET), Pickering property tax arrears ~$9,735 plus $2,271 due Sep 25 (in waiting), Amex min ~$98 and Elexicon $135 due today Fri Sep 4 (in waiting), Durham Water due Sep 15. Reliance eBill $110.46 due Sep 18 (acct ·2298957). Todoist Sep 4 digest: 0 due today, 1 overdue (unnamed in digest). GCPA invoice(s) auto-charged; no action. Capital One/RBC plan watches remain with Money."
     },
     {
       "tag": "Noted",
