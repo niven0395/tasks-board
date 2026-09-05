@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Sep 5, 9:27 AM ET",
-  "updated_iso": "2026-09-05T09:27:03-04:00",
+  "updated": "Sat Sep 5, 9:38 AM ET",
+  "updated_iso": "2026-09-05T09:38:30-04:00",
   "live": [
     {
       "tag": "In play",
@@ -21,6 +21,11 @@
       "tag": "Home",
       "title": "Laundry",
       "body": "Incomplete Supabase task due Fri Sep 4 ~9 PM ET (still open; past due as of Sat Sep 5 ~9:25 AM ET). Home enter fence set. Mac EventKit unreachable so Apple Reminders not mirrored."
+    },
+    {
+      "tag": "Home",
+      "title": "Oven fan",
+      "body": "New incomplete Supabase task due Sat Sep 5 ~9:00 AM ET. Home enter fence set (43.88307,-79.12375). Mac EventKit unreachable so Apple Reminders not mirrored."
     }
   ],
   "waiting": [
@@ -73,6 +78,11 @@
       "tag": "Photos",
       "title": "Canada Goose warranty",
       "body": "Needs Niverthana's receipt forward, damage and inside-hangtag photos, then sign-in to the existing warranty account. No receipt in Gmail."
+    },
+    {
+      "tag": "Home",
+      "title": "Deposit",
+      "body": "New incomplete Supabase task due Sat Sep 5 ~12:00 PM ET. Home enter fence set. Needs Niven to finish the deposit; do not pay or send mail unless he asks."
     }
   ],
   "quiet": [
