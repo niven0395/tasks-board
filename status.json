@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Sep 5, 8:53 AM ET",
-  "updated_iso": "2026-09-05T08:53:35-04:00",
+  "updated": "Sat Sep 5, 9:27 AM ET",
+  "updated_iso": "2026-09-05T09:27:03-04:00",
   "live": [
     {
       "tag": "In play",
@@ -15,15 +15,20 @@
     {
       "tag": "Booked",
       "title": "Allure Dental — Sep 15",
-      "body": "Niven emailed Janelle ~5:20 PM ET Fri Sep 4 accepting Tue Sep 15 12:30 PM exam + hygiene (Ajax, 3 Harwood Ave S). Said new-patient forms were submitted. On Google Calendar. Still awaiting Janelle's booking ack / possible intake call at 647-622-8203 as of Sat Sep 5 morning. Manulife direct billing requested. Records Release + Web Form invite emails still unread in inbox. Supabase Dentist task marked complete ~6:59 PM ET Fri Sep 4."
+      "body": "Niven emailed Janelle ~5:20 PM ET Fri Sep 4 accepting Tue Sep 15 12:30 PM exam + hygiene (Ajax, 3 Harwood Ave S). Said new-patient forms were submitted. On Google Calendar. Still awaiting Janelle's booking ack / possible intake call at 647-622-8203 as of Sat Sep 5 ~9:25 AM ET. Manulife direct billing requested. Records Release + Web Form invite emails still unread in inbox. Supabase Dentist task marked complete ~6:59 PM ET Fri Sep 4."
     },
     {
       "tag": "Home",
       "title": "Laundry",
-      "body": "Incomplete Supabase task due Fri Sep 4 ~9 PM ET (still open; past due as of Sat Sep 5 morning). Home enter fence set. Mac EventKit unreachable so Apple Reminders not mirrored."
+      "body": "Incomplete Supabase task due Fri Sep 4 ~9 PM ET (still open; past due as of Sat Sep 5 ~9:25 AM ET). Home enter fence set. Mac EventKit unreachable so Apple Reminders not mirrored."
     }
   ],
   "waiting": [
+    {
+      "tag": "Pickup",
+      "title": "Hammam Spa order 9717 ready",
+      "body": "Ready-for-pickup email ~9:02 AM ET Sat Sep 5 (unread). See Front Desk with order #9717. Hammam Spa King West (Downtown), 602 King Street West, Toronto ON M5V 1M6. Item: Colorescience Face Shield Flex SPF 50 Medium ($89.27 CAD total)."
+    },
     {
       "tag": "Print",
       "title": "Staples PrintMe — return label",
@@ -32,7 +37,7 @@
     {
       "tag": "Pay",
       "title": "Amex min ~$98 + Elexicon $135",
-      "body": "Both were due Fri Sep 4 (from prior Money digests). Still no Amex/Elexicon payment confirmation in Gmail as of Sat Sep 5 morning. Do not pay unless he asks."
+      "body": "Both were due Fri Sep 4 (from prior Money digests). Still no Amex/Elexicon payment confirmation in Gmail as of Sat Sep 5 ~9:25 AM ET. Do not pay unless he asks."
     },
     {
       "tag": "Pay",
@@ -42,7 +47,7 @@
     {
       "tag": "Setup",
       "title": "Nivetha ITRADE Account",
-      "body": "Incomplete Supabase task due Fri Sep 4 ~6 PM ET (still open; past due as of Sat Sep 5 morning). Home enter fence set. Needs Niven/Nivetha to finish account setup."
+      "body": "Incomplete Supabase task due Fri Sep 4 ~6 PM ET (still open; past due as of Sat Sep 5 ~9:25 AM ET). Home enter fence set. Needs Niven/Nivetha to finish account setup."
     },
     {
       "tag": "Renew",
@@ -52,7 +57,7 @@
     {
       "tag": "Due",
       "title": "Can Do Fence $1,192.30",
-      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Sat Sep 5 morning; no payment confirmation in Gmail (Supabase \"Fence reminder\" was marked complete Sep 3 without a matching pay email). Niven must pay by e-transfer or card; do not pay unless he asks."
+      "body": "Frank agreed full payment could wait until Wed Sep 2. Still unpaid as of Sat Sep 5 ~9:25 AM ET; no payment confirmation in Gmail (Supabase \"Fence reminder\" was marked complete Sep 3 without a matching pay email). Niven must pay by e-transfer or card; do not pay unless he asks."
     },
     {
       "tag": "Call",
@@ -108,11 +113,6 @@
     },
     {
       "tag": "Watching",
-      "title": "Hammam Spa by Célà order 9717",
-      "body": "Order confirmed ~6:47 PM ET Sep 2. Do not come in store until ready email. Estimated delivery was Thu Sep 3; still no ready email as of Sat Sep 5 morning."
-    },
-    {
-      "tag": "Watching",
       "title": "TCMPS Amarillo / FortisPay $479",
       "body": "Withdrawal sent; Sudha said PAD discontinued. Still no FortisPay charge or confirmation in Gmail. Quiet monitoring only; do not contact the school."
     },
@@ -124,7 +124,7 @@
     {
       "tag": "Watching",
       "title": "Named email threads",
-      "body": "Allure: Niven accepted Sep 15 ~5:20 PM ET Fri; forms claimed submitted; still waiting Janelle ack (no overnight or morning reply). No new replies this refresh on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8; Walid says incentive still under review), SKD, Doctors Online, Pickering/Carmen, Opus/Karen, or Scotia CD-2609-653. Perla cancel noted above. No nag."
+      "body": "Allure: Niven accepted Sep 15 ~5:20 PM ET Fri; forms claimed submitted; still waiting Janelle ack (no reply since accept as of ~9:25 AM ET Sat). No new replies this refresh on Felix/Lucy, Beth RBC cashback (Beth OOO until Tue Sep 8; Walid says incentive still under review), SKD, Doctors Online, Pickering/Carmen, Opus/Karen, or Scotia CD-2609-653. Perla cancel noted above. Hammam ready moved to waiting. No nag."
     },
     {
       "tag": "Watching",
