@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Sep 7, 9:58 PM ET",
-  "updated_iso": "2026-09-07T21:58:51-04:00",
+  "updated": "Tue Sep 8, 8:28 AM ET",
+  "updated_iso": "2026-09-08T08:28:16-04:00",
   "live": [
     {
       "tag": "In play",
@@ -67,15 +67,15 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Supabase task still incomplete (due Sep 7 ~9:00 PM ET; updated ~7:42 PM ET Mon Sep 7; still open as of Mon Sep 7, 9:58 PM ET). Enhanced Home enter (43.88307,-79.12375) earlier today. Needs Niven. Do not pay/transfer unless he asks."
-    },
-    {
-      "tag": "Do",
-      "title": "Dinner",
-      "body": "Incomplete Supabase task created ~4:49 PM ET Mon Sep 7 (due ~9:00 PM ET tonight; last updated ~4:55 PM ET). Enhanced Home enter (43.88307,-79.12375); still incomplete past due as of Mon Sep 7, 9:58 PM ET. Needs Niven."
+      "body": "Supabase task still incomplete (due Sep 7 ~9:00 PM ET; last updated ~7:42 PM ET Mon Sep 7; still open as of Tue Sep 8, 8:28 AM ET). Enhanced Home enter (43.88307,-79.12375). Needs Niven. Do not pay/transfer unless he asks."
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Dinner",
+      "body": "Supabase Dinner marked complete ~8:45 PM ET Mon Sep 7 (updated ~10:28 PM ET). Observed by reminders enhance; do not re-ask."
+    },
     {
       "tag": "Done",
       "title": "Ayla swim — Parent & Tot",
@@ -184,7 +184,7 @@
     {
       "tag": "Blocked",
       "title": "Mac EventKit / remindctl",
-      "body": "ListMachines still empty this run; Apple Reminders enhance path unavailable. Two incomplete public.tasks (Nivetha Savings, Dinner) as of Mon Sep 7, 9:58 PM ET. No new permission nag today."
+      "body": "ListMachines still empty this run; Apple Reminders enhance path unavailable. One incomplete public.task (Nivetha Savings) as of Tue Sep 8, 8:28 AM ET. No new permission nag today."
     }
   ]
 }
