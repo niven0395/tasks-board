@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 5, 3:43 PM ET",
-  "updated_iso": "2026-10-05T15:43:14-04:00",
+  "updated": "Mon Oct 5, 4:28 PM ET",
+  "updated_iso": "2026-10-05T16:28:00-04:00",
   "live": [
     {
       "tag": "Dental",
@@ -141,6 +141,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Job",
+      "title": "Scotiabank — Senior Manager, Data & AI Governance (Tangerine) not moving forward ~4:25 PM ET Mon",
+      "body": "me@me.scotiabank.com ~4:25 PM ET Mon Oct 5 (thread 1a10dbdd28461ada, UNREAD/IMPORTANT/INBOX): thanks for applying; they regret the application for Senior Manager, Data & AI Governance - Tangerine won't proceed. Nothing to do."
+    },
     {
       "tag": "Money in",
       "title": "Interac $400 from Sivarajah Kannappan — auto-deposited ~9:46 AM ET Mon",
