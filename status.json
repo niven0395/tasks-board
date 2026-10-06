@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 6, 5:48 PM ET",
-  "updated_iso": "2026-10-06T17:48:45-04:00",
+  "updated": "Tue Oct 6, 6:27 PM ET",
+  "updated_iso": "2026-10-06T18:27:56-04:00",
   "live": [
     {
       "tag": "This week",
@@ -151,6 +151,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Stock plan",
+      "title": "Morgan Stanley at Work — transaction requested ~6:27 PM ET Tue",
+      "body": "notifications@mail.morganstanleyatwork.com ~6:27 PM ET Tue Oct 6 (thread 1a113545d48d8dcb, UNREAD/IMPORTANT/INBOX): confirmation that a transaction was requested in the stock plan account. Details only in the Morgan Stanley at Work site. Nothing to do if you placed it."
+    },
     {
       "tag": "Job",
       "title": "Scotiabank — Senior Manager, Data & AI Governance (Tangerine) not moving forward ~4:25 PM ET Mon",
