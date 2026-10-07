@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 7, 5:03 PM ET 2026",
-  "updated_iso": "2026-10-07T17:03:00-04:00",
+  "updated": "Wed Oct 7, 5:27 PM ET 2026",
+  "updated_iso": "2026-10-07T17:27:00-04:00",
   "live": [
     {
       "tag": "This week",
@@ -9,8 +9,8 @@
     },
     {
       "tag": "Dental",
-      "title": "Durham Endo Oct 27 9:30 AM: registration link re-requested; $181.60 Allure credit",
-      "body": "Durham Endodontics (thread 1a0a6cb417d76882): appointment with Dr. Bellamy Tue Oct 27 2026 9:30 AM at One Healthcare, 300 Rossland Rd East, Suite 309, Ajax (905-239-7664). The original registration link expired Fri Sep 18. Niven emailed refer@durhamendodontics.ca at 4:28 PM ET Wed Oct 7 asking them to resend it; waiting on their reply (fill it in once it arrives; 48h cancel policy). Heads-up reminder set for Oct 22. Allure: $181.60 credit on account toward treatment after the endo path (thread 1a0a69c92af6b4c5). (as of ~Wed Oct 7, 4:31 PM ET)"
+      "title": "Durham Endo Oct 27 9:30 AM: new registration link arrived; $181.60 Allure credit",
+      "body": "Durham Endodontics: appointment with Dr. Bellamy Tue Oct 27 2026 9:30 AM at One Healthcare, 300 Rossland Rd East, Suite 309, Ajax (905-239-7664). Jennifer replied ~5:05 PM ET Wed Oct 7 (thread 1a0a6cb417d76882) and a fresh registration email came separately (thread 1a1182f29f5e9803); the link is active 72 hours, so fill it in by ~5 PM Sat Oct 10 (in waiting). 48h cancel policy. Heads-up reminder set for Oct 22. Allure: $181.60 credit on account toward treatment after the endo path (thread 1a0a69c92af6b4c5). (as of ~Wed Oct 7, 5:27 PM ET)"
     },
     {
       "tag": "Bank",
@@ -44,6 +44,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Fill form",
+      "title": "Durham Endo registration — fill in by ~5 PM Sat Oct 10",
+      "body": "New registration email from refer@durhamendodontics.ca ~5:05 PM ET Wed Oct 7 (thread 1a1182f29f5e9803). Open the Registration Weblink in that email, enter the access code shown there, and complete all forms. The link is only active 72 hours (until ~5 PM ET Sat Oct 10); the last one expired unused. Appointment Tue Oct 27 9:30 AM with Dr. Bellamy. (as of ~Wed Oct 7, 5:27 PM ET)"
+    },
     {
       "tag": "Top up",
       "title": "RBC chequing ****3533 at $4.37 — top up before bills/mortgage debit",
