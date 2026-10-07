@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 7, 10:00 AM ET",
-  "updated_iso": "2026-10-07T10:00:00-04:00",
+  "updated": "Wed Oct 7, 10:06 AM ET",
+  "updated_iso": "2026-10-07T10:06:00-04:00",
   "live": [
     {
       "tag": "This week",
@@ -71,8 +71,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Durham Water $1,686.31 — overdue; portal locked",
-      "body": "MyDurhamWater e-bill Aug 28 (thread 1a047e414965b795): Account 4033977834, billed $1,686.31, service 1024 Valhalla Terr. Pay By 2026-09-15. Due date was Sep 15; still unpaid — no payment confirmation in Gmail. Portal login locked (username Niven123); call 905-666-6211 or 1-800-465-6611 (Mon–Fri 8am–5pm) to unlock, then Cap One can pay. Or pay via secure6.i-doxs.net/RegionOfDurham. Do not pay unless he asks. (as of ~Wed Oct 7, 8:30 AM ET)"
+      "title": "Durham Water $1,686.31 — payment-plan request emailed 10:01 AM; awaiting Durham reply",
+      "body": "Niven emailed waterbilling@durham.ca ~10:01 AM ET Wed Oct 7 (thread 1a116ab04f7a3cf3) asking for a payment arrangement on account 4033977834 (1024 Valhalla Terr; $1,686.31 was due Sep 15); Service Durham auto-confirmed receipt ~10:01 AM. No staff reply yet. Still unpaid; portal login locked (username Niven123). Backup: call 905-666-6211 if no reply. (as of ~Wed Oct 7, 10:06 AM ET)"
     },
     {
       "tag": "Pay",
