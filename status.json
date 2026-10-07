@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 7, 1:12 PM ET 2026",
-  "updated_iso": "2026-10-07T13:11:00-04:00",
+  "updated": "Wed Oct 7, 1:39 PM ET 2026",
+  "updated_iso": "2026-10-07T13:39:00-04:00",
   "live": [
     {
       "tag": "This week",
@@ -52,7 +52,7 @@
     {
       "tag": "Top up",
       "title": "Scotia chequing …7983 overdrawn (was $892.95 at 8:20 AM) — move money in",
-      "body": "infoalerts@scotiabank.com ~9:27 AM ET Wed Oct 7: three alerts on account …7983 — Account overdrawn (thread 1a1168c66692c153), balance below $100 (1a1168c6785b4cb4), and available credit/overdraft below $100 (1a1168c65020ccc1, IMPORTANT). No amounts in the mail. Balance alert ~8:20 AM showed $892.95, so a large debit landed between 8:20 and 9:27 AM. Deposit or transfer in to avoid NSF/overdraft fees; check what posted in the Scotia app. Do not move money unless he asks. (as of ~Wed Oct 7, 9:37 AM ET)"
+      "body": "infoalerts@scotiabank.com ~9:27 AM ET Wed Oct 7: three alerts on account …7983 — Account overdrawn (thread 1a1168c66692c153), balance below $100 (1a1168c6785b4cb4), and available credit/overdraft below $100 (1a1168c65020ccc1, IMPORTANT). No amounts in the mail. Balance alert ~8:20 AM showed $892.95, so a large debit landed between 8:20 and 9:27 AM. Deposit or transfer in to avoid NSF/overdraft fees; check what posted in the Scotia app. Do not move money unless he asks. (as of ~Wed Oct 7, 9:37 AM ET) Update ~1:19 PM ET (thread 1a11760e2d399d06): last 5 on …7983 were CUST TRF DR $1,300.00, CUST TRF CR $1,300.00, WITHDRAWAL $55.00, ABM WD $350.00, CUST TRF CR $250.00 (no balance shown), so it's unclear whether it's back above zero; confirm in the Scotia app. (as of ~Wed Oct 7, 1:39 PM ET)"
     },
     {
       "tag": "Sign-in",
@@ -151,6 +151,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia last-5 transactions on …7983 and …8382 ~1:19 PM ET Wed",
+      "body": "infoalerts@scotiabank.com ~1:19 PM ET Wed Oct 7 (thread 1a11760e2d399d06). …7983: CUST TRF DR $1,300.00, CUST TRF CR $1,300.00, WITHDRAWAL $55.00, ABM WD $350.00, CUST TRF CR $250.00. …8382: WITHDRAWAL $1,143.00, CUST TRF CR $1,100.00, WITHDRAWAL $350.00, DEPOSIT $400.00, WITHDRAWAL $2,500.00. No balances in the mail; …7983 overdraft stays on waiting until confirmed. (as of ~Wed Oct 7, 1:39 PM ET)"
+    },
     {
       "tag": "Watching",
       "title": "Sunnybrook MyChart — new PIN requested; support ticket SRQ-262908 (reply within 2 business days)",
