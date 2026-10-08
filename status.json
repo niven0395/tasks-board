@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 8, 6:57 PM ET 2026",
-  "updated_iso": "2026-10-08T18:57:49-04:00",
+  "updated": "Thu Oct 8, 7:22 PM ET 2026",
+  "updated_iso": "2026-10-08T19:22:20-04:00",
   "live": [
     {
       "tag": "This week",
@@ -730,6 +730,16 @@
       "tag": "Blocked",
       "title": "Mac EventKit / remindctl",
       "body": "No CloudAgent workers connected (none right now). EventKit/remindctl on Mac unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (eventkit 26025967), already Home-enhanced. (as of ~Thu Oct 8, 6:57 PM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "AppleCare+ monthly receipt ~7:11 PM ET Thu Oct 8 (renewal notice)",
+      "body": "no_reply@email.apple.com ~7:11 PM ET Thu Oct 8 (thread 1a11c4340ac1a046, UNREAD/IMPORTANT/INBOX): Receipt & Renewal Notice Order ID MNTL77Q26J — AppleCare+ monthly technical support & accidental damage coverage. Routine billing receipt; no action. Earlier same thread: X Premium $7 renews Oct 27 (Order MNTL5WK6GK, ~12:05 PM ET)."
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia last-five ~1:19 PM ET Thu Oct 8 (…8382 / …7983)",
+      "body": "infoalerts@scotiabank.com ~1:19 PM ET Thu Oct 8 (thread 1a11c873a6145d91): …8382 last 5: WITHDRAWAL $1143, CUST TRF CR $1100, WITHDRAWAL $350, DEPOSIT $400, WITHDRAWAL $2500. …7983 last 5: CUST TRF DR $1300, CUST TRF CR $1300, WITHDRAWAL $55. Balance alerts earlier same day still show …7983 at -$407.05 (8:19 AM) — overdrawn waiting item unchanged. No new person reply."
     }
   ]
 }
