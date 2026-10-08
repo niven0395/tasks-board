@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 8, 2:22 PM ET 2026",
-  "updated_iso": "2026-10-08T14:22:00-04:00",
+  "updated": "Thu Oct 8, 3:20 PM ET 2026",
+  "updated_iso": "2026-10-08T15:20:00-04:00",
   "live": [
     {
       "tag": "This week",
@@ -53,6 +53,11 @@
       "tag": "Top up",
       "title": "RBC chequing ****3533 at $4.37 — top up before bills/mortgage debit",
       "body": "RBC low-balance alert ~3:53 AM ET Tue Oct 6 (thread 1a110340c67dd1e2): balance $4.37, below the $100 limit. Mortgage skip request not yet submitted (see Sign-in), and Elexicon EZ-Pay was rejected earlier for insufficient funds. Move money in or submit the skip before any debit lands. Do not move money unless he asks. (as of ~Wed Oct 7, 8:30 AM ET)"
+    },
+    {
+      "tag": "Pay",
+      "title": "Capital One Mastercard …6851 — $94 minimum due Tue Oct 13 (balance $2,497.10)",
+      "body": "capitalone@notification.capitalone.com ~2:51 PM ET Thu Oct 8 (thread 1a11cdad381b5596, UNREAD/IMPORTANT/INBOX): \"Your payment is due soon\" for account ending 6851. Total balance $2,497.10, minimum payment $94.00, due Tuesday Oct 13, 2026. Pay at least the minimum by then unless Auto Pay is on. (as of ~Thu Oct 8, 3:20 PM ET)"
     },
     {
       "tag": "Top up",
