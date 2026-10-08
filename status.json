@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 8, 8:39 AM ET 2026",
-  "updated_iso": "2026-10-08T08:39:19-04:00",
+  "updated": "Thu Oct 8, 8:59 AM ET 2026",
+  "updated_iso": "2026-10-08T08:59:30-04:00",
   "live": [
     {
       "tag": "This week",
@@ -111,8 +111,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Elexicon eBill $524.45 — was due Sun Oct 4 (now 3 days past due); Cap One / EZ-Pay REJECTED Tue",
-      "body": "EPP cancelled overnight Fri Sep 11 for two missed payments; then-balance $659.45. Caitlyn (Customer Care) ~9:42 AM ET Wed Sep 16 (thread 1a090e98e863ad41, READ): cannot re-enroll for twelve months. Cancellation balance $659.45 paid via Cap One / EZ-Pay Thu Sep 17. eBill (thread 1a09672e2038ab89) still open: Amount due $524.45, due Oct 4 2026 (passed; now 3 days past due), bill date Sep 10, account 2400180023. ~11:12–11:14 AM ET Tue Sep 22 my.Elexicon 2FA codes (thread 1a0c9ad3f60e36e1). ~11:38 AM ET Tue Sep 22 KUBRA EZ-PAY (thread 1a0c9c4e888e2551, INBOX): payment unsuccessful — Biller Elexicon Energy acct 2****0023, amount $524.45, total paid $0.00, Status REJECTED, Reason (302) Credit Floor - Insufficient funds, no confirmation #. Still unpaid. Do not retry or pay unless he asks. (as of ~Wed Oct 7, 8:30 AM ET)"
+      "title": "Elexicon $524.45 overdue — Elexicon overdue notice ~3:03 AM Thu Oct 8 (was due Sun Oct 4); EZ-Pay REJECTED earlier",
+      "body": "CustomerCare@elexiconenergy.com ~3:03 AM ET Thu Oct 8 (thread 1a11b954a6f2c4e7, IMPORTANT/INBOX): Payment Overdue for account 2400180023, 1024 Valhalla Terrace — $524.45 overdue; pay online, by phone, or in person. Background: EPP cancelled Fri Sep 11 for two missed payments (cannot re-enroll for twelve months); cancellation balance $659.45 paid via Cap One / EZ-Pay Thu Sep 17. eBill (thread 1a09672e2038ab89): $524.45 due Oct 4 2026, bill date Sep 10. KUBRA EZ-PAY ~11:38 AM ET Tue Sep 22 (thread 1a0c9c4e888e2551) REJECTED — (302) Credit Floor - Insufficient funds. Still unpaid. Do not retry or pay unless he asks. (as of ~Thu Oct 8, 8:59 AM ET)"
     },
     {
       "tag": "Sign",
