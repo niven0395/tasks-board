@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 7, 10:05 PM ET 2026",
-  "updated_iso": "2026-10-07T22:05:47-04:00",
+  "updated": "Thu Oct 8, 8:38 AM ET 2026",
+  "updated_iso": "2026-10-08T08:38:31-04:00",
   "live": [
     {
       "tag": "This week",
@@ -56,8 +56,8 @@
     },
     {
       "tag": "Top up",
-      "title": "Scotia chequing …7983 overdrawn (was $892.95 at 8:20 AM) — move money in",
-      "body": "infoalerts@scotiabank.com ~9:27 AM ET Wed Oct 7: three alerts on account …7983 — Account overdrawn (thread 1a1168c66692c153), balance below $100 (1a1168c6785b4cb4), and available credit/overdraft below $100 (1a1168c65020ccc1, IMPORTANT). No amounts in the mail. Balance alert ~8:20 AM showed $892.95, so a large debit landed between 8:20 and 9:27 AM. Deposit or transfer in to avoid NSF/overdraft fees; check what posted in the Scotia app. Do not move money unless he asks. (as of ~Wed Oct 7, 9:37 AM ET) Update ~1:19 PM ET (thread 1a11760e2d399d06): last 5 on …7983 were CUST TRF DR $1,300.00, CUST TRF CR $1,300.00, WITHDRAWAL $55.00, ABM WD $350.00, CUST TRF CR $250.00 (no balance shown), so it's unclear whether it's back above zero; confirm in the Scotia app. (as of ~Wed Oct 7, 1:39 PM ET)"
+      "title": "Scotia chequing …7983 still overdrawn: -$407.05 at 8:19 AM Thu — move money in",
+      "body": "infoalerts@scotiabank.com ~8:19 AM ET Thu Oct 8 (thread 1a11b74a2a5c4d2e): balance on …7983 is -$407.05; …8382 is $46.34. Went overdrawn ~9:27 AM Wed Oct 7 (thread 1a1168c66692c153) after showing $892.95 at 8:20 AM; last 5 at 1:19 PM Wed were CUST TRF DR $1,300.00, CUST TRF CR $1,300.00, WITHDRAWAL $55.00, ABM WD $350.00, CUST TRF CR $250.00. Deposit or transfer in to stop overdraft interest/fees. Do not move money unless he asks. (as of ~Thu Oct 8, 8:40 AM ET)"
     },
     {
       "tag": "Sign-in",
