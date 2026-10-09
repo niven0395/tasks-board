@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 9, 9:57 AM ET",
-  "updated_iso": "2026-10-09T09:57:57-04:00",
+  "updated": "Fri Oct 9, 10:37 AM ET",
+  "updated_iso": "2026-10-09T10:37:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -49,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Reply",
+      "title": "MyChart support (SRQ-262908) wants a phone number to verify you",
+      "body": "Reply with 647-622-8203 so they can call (Mon–Fri 8:30–4:30); needed for the Sunnybrook MyChart access"
+    },
     {
       "tag": "Fill form",
       "title": "Durham Endo registration — fill in by ~5 PM Sat Oct 10",
