@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 9, 9:02 AM ET 2026",
-  "updated_iso": "2026-10-09T09:02:38-04:00",
+  "updated": "Fri Oct 9, 9:30 AM ET 2026",
+  "updated_iso": "2026-10-09T09:30:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -81,8 +81,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Durham Water $1,686.31 — no payment plan; pay the $400 ASAP, then call to confirm",
-      "body": "Niven emailed waterbilling@durham.ca ~10:01 AM ET Wed Oct 7 (thread 1a116ab04f7a3cf3) asking for a payment arrangement on account 4033977834 (1024 Valhalla Terr; $1,686.31 was due Sep 15). Allan (Customer Service Specialist, myDurham311) replied ~10:20 AM ET Thu Oct 8: they can't set up a payment plan because of the account's current standing; make the proposed $400 payment as soon as possible, allow two business days, then contact the office to confirm it was received, and they'll review options. Niven replied ~10:59 AM ET asking them to reset his MyDurhamWater password (username Niven123) so he can log in; no answer yet (still no password-reset reply as of evening Oct 8). Phone backup 905-666-6211. (as of ~Thu Oct 8, 6:57 PM ET 2026) Update ~8:32 PM ET Thu Oct 8: still no password-reset reply from Waterbilling; $400 ASAP + 2 business days then call still stands."
+      "title": "Durham Water $1,686.31 — password reset done; pay the $400 ASAP, then call to confirm",
+      "body": "Niven emailed waterbilling@durham.ca ~10:01 AM ET Wed Oct 7 (thread 1a116ab04f7a3cf3) asking for a payment arrangement on account 4033977834 (1024 Valhalla Terr; $1,686.31 was due Sep 15). Allan (Customer Service Specialist, myDurham311) replied ~10:20 AM ET Thu Oct 8: they can't set up a payment plan because of the account's current standing; make the proposed $400 payment as soon as possible, allow two business days, then contact the office to confirm it was received, and they'll review options. Niven replied ~10:59 AM ET asking them to reset his MyDurhamWater password (username Niven123) so he can log in; no answer yet (still no password-reset reply as of evening Oct 8). Phone backup 905-666-6211. (as of ~Thu Oct 8, 6:57 PM ET 2026) Update ~8:32 PM ET Thu Oct 8: still no password-reset reply from Waterbilling; $400 ASAP + 2 business days then call still stands. Update ~9:11 AM ET Fri Oct 9: MyDurhamWater confirmed the password was changed successfully (noreply@kubra.com, thread 1a120c9eb6ab638d), so the account login should work now for the $400 payment."
     },
     {
       "tag": "Pay",
