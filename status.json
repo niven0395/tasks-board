@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 9, 5:33 PM ET",
-  "updated_iso": "2026-10-09T17:33:05-04:00",
+  "updated": "Fri Oct 9, 5:49 PM ET",
+  "updated_iso": "2026-10-09T17:49:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "DriveTest account email verification came in ~5:38 PM ET",
+      "body": "no-reply@drivetest.ca ~5:38 PM ET Fri Oct 9 (thread 1a1229a0105769d9): a new DriveTest sign-up verification link that's valid for 15 minutes, which likely means someone is starting a booking right now. No booking or change mail yet. (as of ~Fri Oct 9, 5:49 PM ET)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia chequing …8382 fell below $100 ~1:55 PM ET Fri",
