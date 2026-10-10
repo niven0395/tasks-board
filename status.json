@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Oct 10, 12:34 PM ET",
-  "updated_iso": "2026-10-10T12:34:16-04:00",
+  "updated": "Sat Oct 10, 12:51 PM ET",
+  "updated_iso": "2026-10-10T12:51:10-04:00",
   "live": [
     {
       "tag": "In play",
@@ -51,8 +51,8 @@
   "waiting": [
     {
       "tag": "Top up",
-      "title": "BMO chequing …153 overdrawn by $321.34 (alert ~12:27 PM Sat) — move money in",
-      "body": "bmoalerts@bmo.com ~12:27 PM ET Sat Oct 10 (thread 1a126a415ef1a98e, UNREAD/IMPORTANT): account ending 153 overdrawn by $321.34, below the alert level. Same minute, BMO credit card *8298 showed a $100.00 transaction at BMO Transit (thread 1a126a3a990270d9). (as of ~Sat Oct 10, 12:29 PM ET)"
+      "title": "BMO chequing …153 overdrawn by $471.34 (alert ~12:39 PM Sat) — move money in",
+      "body": "bmoalerts@bmo.com ~12:39 PM ET Sat Oct 10 (thread 1a126a415ef1a98e, UNREAD): account ending 153 overdrawn by $471.34, after a $300 withdrawal alert at the same time (was -$321.34 at 12:27 PM, briefly -$171.34). Card *8298 also had $100 + $150 BMO Transit charges ~12:27/12:38 PM. Move money in."
     },
     {
       "tag": "Fill form",
