@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Oct 10, 12:06 PM ET",
-  "updated_iso": "2026-10-10T12:06:26-04:00",
+  "updated": "Sat Oct 10, 12:28 PM ET",
+  "updated_iso": "2026-10-10T12:28:53-04:00",
   "live": [
     {
       "tag": "In play",
@@ -50,6 +50,11 @@
   ],
   "waiting": [
     {
+      "tag": "Top up",
+      "title": "BMO chequing …153 overdrawn by $321.34 (alert ~12:27 PM Sat) — move money in",
+      "body": "bmoalerts@bmo.com ~12:27 PM ET Sat Oct 10 (thread 1a126a415ef1a98e, UNREAD/IMPORTANT): account ending 153 overdrawn by $321.34, below the alert level. Same minute, BMO credit card *8298 showed a $100.00 transaction at BMO Transit (thread 1a126a3a990270d9). (as of ~Sat Oct 10, 12:29 PM ET)"
+    },
+    {
       "tag": "Fill form",
       "title": "Durham Endo registration — fill in by ~5 PM today (Sat Oct 10)",
       "body": "New registration email from refer@durhamendodontics.ca ~5:05 PM ET Wed Oct 7 (thread 1a1182f29f5e9803). Open the Registration Weblink in that email, enter the access code shown there, and complete all forms. The link is only active 72 hours (until ~5 PM ET Sat Oct 10); the last one expired unused. Appointment Tue Oct 27 9:30 AM with Dr. Bellamy. (as of ~Wed Oct 7, 5:27 PM ET)"
@@ -67,7 +72,7 @@
     {
       "tag": "Top up",
       "title": "Scotia chequing …7983 still overdrawn: -$412.05 at 8:19 AM Sat — move money in",
-      "body": "infoalerts@scotiabank.com ~8:19 AM ET Sat Oct 10 (thread 1a125c167736d441): …7983 balance -$412.05; …8382 balance $0.90 (a $1,701 payment from …8382 went to Scotia card …729). Overdrawn since ~9:27 AM Wed Oct 7. Nothing left in …8382 to cover it. Scotia card …729 balance $7,029.93 at ~9:05 AM Sat (after that payment)."
+      "body": "infoalerts@scotiabank.com ~8:19 AM ET Sat Oct 10 (thread 1a125c167736d441): …7983 balance -$412.05; …8382 balance $0.90 (a $1,701 payment from …8382 went to Scotia card …729). Overdrawn since ~9:27 AM Wed Oct 7. Nothing left in …8382 to cover it. Scotia card …729 balance $7,029.93 at ~9:05 AM Sat (after that payment). Then an Interac e-Transfer of $55.00 was sent from …7983 at 12:19 PM ET Sat (thread 1a1269d40bac5b21), so it is likely deeper overdrawn unless money came in. (as of ~Sat Oct 10, 12:29 PM ET)"
     },
     {
       "tag": "Sign-in",
