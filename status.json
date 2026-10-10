@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 9, 8:02 PM ET",
-  "updated_iso": "2026-10-09T20:02:43-04:00",
+  "updated": "Fri Oct 9, 8:27 PM ET",
+  "updated_iso": "2026-10-09T20:27:56-04:00",
   "live": [
     {
       "tag": "In play",
@@ -49,11 +49,6 @@
     }
   ],
   "waiting": [
-    {
-      "tag": "Reply",
-      "title": "MyChart support (SRQ-262908) wants a phone number to verify you",
-      "body": "Reply with 647-622-8203 so they can call (Mon–Fri 8:30–4:30); needed for the Sunnybrook MyChart access"
-    },
     {
       "tag": "Fill form",
       "title": "Durham Endo registration — fill in by ~5 PM Sat Oct 10",
@@ -198,8 +193,8 @@
     },
     {
       "tag": "Watching",
-      "title": "Sunnybrook MyChart — new PIN requested; support ticket SRQ-262908 (reply within 2 business days)",
-      "body": "Original activation PIN (welcome mail ~9:37 AM ET Tue Sep 15, thread 1a0a549752d735ca) expired Fri Sep 25. Request for a new PIN sent to support@mychart.ca ~9:53 AM ET Wed Oct 7 (thread 1a116a3c3dc277ae). MyChart Support confirmed ~9:56 AM ET (thread 1a116a66eb3d3cc6, request SRQ-262908): someone will get back within 2 business days (by ~Fri Oct 9). Activate once the new PIN arrives. Do not share the PIN on this board. (as of ~Wed Oct 7, 10:00 AM ET)"
+      "title": "Sunnybrook MyChart support (SRQ-262908) — phone number sent, waiting on their call",
+      "body": "You replied with 647-622-8203 ~8:05 PM ET Fri Oct 9 (thread 1a120fa9919d98e9). Support calls Mon–Fri 8:30–4:30, so expect contact from Mon Oct 12 (Thanksgiving may push to Tue). Activate once the new PIN arrives. (as of ~Fri Oct 9, 8:28 PM ET)"
     },
     {
       "tag": "Noted",
