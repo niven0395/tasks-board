@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 12, 3:06 PM ET 2026",
-  "updated_iso": "2026-10-12T15:06:51-04:00",
+  "updated": "Mon Oct 12, 3:40 PM ET 2026",
+  "updated_iso": "2026-10-12T15:40:04-04:00",
   "live": [
     {
       "tag": "In play",
@@ -127,7 +127,7 @@
     {
       "tag": "Pay",
       "title": "Elexicon $524.45 overdue — Elexicon overdue notice ~3:03 AM Thu Oct 8 (8 days past due; was due Sun Oct 4); EZ-Pay REJECTED earlier",
-      "body": "CustomerCare@elexiconenergy.com ~3:03 AM ET Thu Oct 8 (thread 1a11b954a6f2c4e7, IMPORTANT/INBOX): Payment Overdue for account 2400180023, 1024 Valhalla Terrace — $524.45 overdue; pay online, by phone, or in person. Background: EPP cancelled Fri Sep 11 for two missed payments (cannot re-enroll for twelve months); cancellation balance $659.45 paid via Cap One / EZ-Pay Thu Sep 17. eBill (thread 1a09672e2038ab89): $524.45 due Oct 4 2026, bill date Sep 10. KUBRA EZ-PAY ~11:38 AM ET Tue Sep 22 (thread 1a0c9c4e888e2551) REJECTED — (302) Credit Floor - Insufficient funds. As of Mon Oct 12 afternoon, 8 days past the Oct 4 due date. Still unpaid. Do not retry or pay unless he asks. (as of ~Mon Oct 12, 2:54 PM ET 2026)"
+      "body": "CustomerCare@elexiconenergy.com ~3:03 AM ET Thu Oct 8 (thread 1a11b954a6f2c4e7, IMPORTANT/INBOX): Payment Overdue for account 2400180023, 1024 Valhalla Terrace — $524.45 overdue; pay online, by phone, or in person. Background: EPP cancelled Fri Sep 11 for two missed payments (cannot re-enroll for twelve months); cancellation balance $659.45 paid via Cap One / EZ-Pay Thu Sep 17. eBill (thread 1a09672e2038ab89): $524.45 due Oct 4 2026, bill date Sep 10. KUBRA EZ-PAY ~11:38 AM ET Tue Sep 22 (thread 1a0c9c4e888e2551) REJECTED — (302) Credit Floor - Insufficient funds. As of Mon Oct 12 afternoon, 8 days past the Oct 4 due date. Still unpaid. Do not retry or pay unless he asks. (as of ~Mon Oct 12, 3:40 PM ET 2026)"
     },
     {
       "tag": "Sign",
@@ -162,7 +162,7 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8). Due was Sep 8. Still needs him. companion_items empty. (as of ~Thu Oct 8, 8:32 PM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8). Due was Sep 8. Still needs him. companion_items empty. (as of ~Mon Oct 12, 3:40 PM ET 2026)"
     }
   ],
   "quiet": [
