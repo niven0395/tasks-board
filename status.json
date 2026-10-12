@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 12, 1:17 PM ET",
-  "updated_iso": "2026-10-12T13:17:33-04:00",
+  "updated": "Mon Oct 12, 1:39 PM ET",
+  "updated_iso": "2026-10-12T13:39:28-04:00",
   "live": [
     {
       "tag": "In play",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia card …729 last-5 ~7:16 AM ET Mon",
+      "body": "infoalerts@scotiabank.com ~7:16 AM ET Mon Oct 12 (thread 1a12fd4216e445e1): TORONTOPARKINGAUTHOR $20.00, SHELLEASYPAYC09788 $71.12, AMZNMktpCA $47.86, STARBUCKSCOFFEE#5047 $8.93, TheHappyCannasseur. Card …729 balance $7,276.30 at ~9:05 AM (thread 1a1303800401fa64)."
+    },
     {
       "tag": "Noted",
       "title": "Scotia card …729 last-5 ~7:16 AM ET Sat",
