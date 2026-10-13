@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 13, 8:53 AM ET 2026",
-  "updated_iso": "2026-10-13T08:53:17-04:00",
+  "updated": "Tue Oct 13, 9:10 AM ET 2026",
+  "updated_iso": "2026-10-13T09:10:11-04:00",
   "live": [
     {
       "tag": "In play",
@@ -72,7 +72,7 @@
     {
       "tag": "Top up",
       "title": "Scotia chequing …7983 still overdrawn: -$467.05 at 8:20 AM Tue — move money in",
-      "body": "infoalerts@scotiabank.com ~8:19 AM ET Sat Oct 10 (thread 1a125c167736d441): …7983 balance -$412.05; …8382 balance $0.90 (a $1,701 payment from …8382 went to Scotia card …729). Overdrawn since ~9:27 AM Wed Oct 7. Nothing left in …8382 to cover it. Scotia card …729 balance $7,029.93 at ~9:05 AM Sat (after that payment). Then an Interac e-Transfer of $55.00 was sent from …7983 at 12:19 PM ET Sat (thread 1a1269d40bac5b21), so it is likely deeper overdrawn unless money came in. (as of ~Sat Oct 10, 12:29 PM ET) Update ~9:56 AM ET Mon Oct 12: Scotia card …729 balance alert $7,276.30 at ~9:05 AM ET Mon (thread 1a1303800401fa64); last-five on …729 ~7:16 AM ET Mon (parking $20, Shell $71.12, Amazon $47.86, Starbucks $8.93). No new …7983 balance alert since Sat; overdrawn top-up still needed. Update ~8:35 AM ET Tue Oct 13: fresh balance alerts ~8:20 AM ET Tue (thread 1a13534c4a3b65f8) — …7983 -$467.05; …8382 still $0.90. Deeper than Sat’s -$412.05. Card …729 last-five ~7:16 AM Tue: Shoppers $41.22 + $4.74, TheHappyCannasseur $51.96, TORONTOPARKINGAUTHOR $20.00, SHELLEASYPAYC09788 (thread 1a134faa3fd00777)."
+      "body": "infoalerts@scotiabank.com ~8:19 AM ET Sat Oct 10 (thread 1a125c167736d441): …7983 balance -$412.05; …8382 balance $0.90 (a $1,701 payment from …8382 went to Scotia card …729). Overdrawn since ~9:27 AM Wed Oct 7. Nothing left in …8382 to cover it. Scotia card …729 balance $7,029.93 at ~9:05 AM Sat (after that payment). Then an Interac e-Transfer of $55.00 was sent from …7983 at 12:19 PM ET Sat (thread 1a1269d40bac5b21), so it is likely deeper overdrawn unless money came in. (as of ~Sat Oct 10, 12:29 PM ET) Update ~9:56 AM ET Mon Oct 12: Scotia card …729 balance alert $7,276.30 at ~9:05 AM ET Mon (thread 1a1303800401fa64); last-five on …729 ~7:16 AM ET Mon (parking $20, Shell $71.12, Amazon $47.86, Starbucks $8.93). No new …7983 balance alert since Sat; overdrawn top-up still needed. Update ~8:35 AM ET Tue Oct 13: fresh balance alerts ~8:20 AM ET Tue (thread 1a13534c4a3b65f8) — …7983 -$467.05; …8382 still $0.90. Deeper than Sat’s -$412.05. Card …729 last-five ~7:16 AM Tue: Shoppers $41.22 + $4.74, TheHappyCannasseur $51.96, TORONTOPARKINGAUTHOR $20.00, SHELLEASYPAYC09788 (thread 1a134faa3fd00777). Update ~9:05 AM ET Tue Oct 13: Scotia card …729 balance alert $7,374.22 (same thread 1a13534c4a3b65f8); …7983/…8382 unchanged from 8:20 AM."
     },
     {
       "tag": "Sign-in",
