@@ -50,11 +50,6 @@
   ],
   "waiting": [
     {
-      "tag": "Click",
-      "title": "DriveTest — verify email NOW (~11:09 AM Tue, 15-min window) or lose queue spot",
-      "body": "no-reply@drivetest.ca User Activation. Open Gmail or: https://booking.drivetest.ca/Drivetest/signin?token=TFU1vP6zJAPEOXK8maISEdBDJHiy2QtIYhaFgIZzE3kJ56g6hFnCxLlXKi80c7Lgyj9OPNpE0bTKLYc.W90BW48Affam6bYsclpVTD8vMsIqhTQ4d3kDxDWv.mT3sYK7lFLfqTHUja0gv3W5kN6hS7FsHvL6krlv — expires ~11:24 AM ET."
-    },
-    {
       "tag": "Approve",
       "title": "GitHub — Cursor app requesting updated permissions (~3:16 AM Tue)",
       "body": "noreply@github.com ~3:16 AM ET Tue Oct 13 (thread 1a1341e91de3670f, UNREAD/UPDATES/INBOX): the GitHub App Cursor is requesting additional/updated access to your account. Review and approve or deny in GitHub if you want the new scopes. (as of ~Tue Oct 13, 8:35 AM ET 2026)"
