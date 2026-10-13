@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 13, 11:40 AM ET",
-  "updated_iso": "2026-10-13T11:40:00-04:00",
+  "updated": "Tue Oct 13, 11:40 AM ET 2026",
+  "updated_iso": "2026-10-13T11:40:04-04:00",
   "live": [
     {
       "tag": "In play",
@@ -9,8 +9,8 @@
     },
     {
       "tag": "This week",
-      "title": "DriveTest — 3 Class G road tests booked (Oct 14 10:48 AM, Oct 16 8:57 AM, Oct 16 10:48 AM)",
-      "body": "no-reply@drivetest.ca Booking Confirmations to nivensivarajah@gmail.com (thread 1a135d35f7da0993): Chendooron Arulneshan Wed Oct 14 10:48 AM, Toronto Downsview (Downsview Park, 37 Carl Hall Rd, back entrance), conf 7176897 (~11:13 AM ET); Nanthees Pararajasegaram Fri Oct 16 10:48 AM, Toronto (~11:18 AM ET); Bennett Loganathan Fri Oct 16 8:57 AM, Toronto (~11:23 AM ET). Each followed a verify-email at ~11:09, ~11:15, ~11:19 AM, so the verify steps went through. Arrive 30 min early; cancel 48h ahead or lose fee. (as of ~11:40 AM ET Tue Oct 13)"
+      "title": "DriveTest — 3 G road tests booked at Toronto Downsview (Wed Oct 14, Fri Oct 16 x2)",
+      "body": "no-reply@drivetest.ca ~11:13–11:23 AM ET Tue Oct 13 (thread 1a135d35f7da0993): email verified and bookings confirmed at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early, cancel 48h ahead to keep fee. Chendooron Arulneshan Wed Oct 14 10:48 AM (conf 7176897); Bennett Loganathan Fri Oct 16 8:57 AM (conf 8521520); Nanthees Pararajasegaram Fri Oct 16 10:48 AM (conf 6302034)."
     },
     {
       "tag": "Dental",
@@ -49,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Click",
+      "title": "DriveTest — verify email NOW (~11:09 AM Tue, 15-min window) or lose queue spot",
+      "body": "no-reply@drivetest.ca User Activation. Open Gmail or: https://booking.drivetest.ca/Drivetest/signin?token=TFU1vP6zJAPEOXK8maISEdBDJHiy2QtIYhaFgIZzE3kJ56g6hFnCxLlXKi80c7Lgyj9OPNpE0bTKLYc.W90BW48Affam6bYsclpVTD8vMsIqhTQ4d3kDxDWv.mT3sYK7lFLfqTHUja0gv3W5kN6hS7FsHvL6krlv — expires ~11:24 AM ET."
+    },
     {
       "tag": "Approve",
       "title": "GitHub — Cursor app requesting updated permissions (~3:16 AM Tue)",
@@ -166,6 +171,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "DriveTest email verified ~11:15 AM ET Tue — queue spot kept, 3 bookings confirmed",
+      "body": "Verify-email threads 1a135cf6ff3c2e26; confirmations in thread 1a135d35f7da0993."
+    },
     {
       "tag": "Noted",
       "title": "Clutch — offer surged higher ~10:03 AM ET Tue Oct 13",
@@ -835,11 +845,6 @@
       "tag": "Noted",
       "title": "Scotia last-five ~1:19 PM ET Thu Oct 8 (…8382 / …7983)",
       "body": "infoalerts@scotiabank.com ~1:19 PM ET Thu Oct 8 (thread 1a11c873a6145d91): …8382 last 5: WITHDRAWAL $1143, CUST TRF CR $1100, WITHDRAWAL $350, DEPOSIT $400, WITHDRAWAL $2500. …7983 last 5: CUST TRF DR $1300, CUST TRF CR $1300, WITHDRAWAL $55. Balance alerts earlier same day still show …7983 at -$407.05 (8:19 AM) — overdrawn waiting item unchanged. No new person reply."
-    },
-    {
-      "tag": "Done",
-      "title": "DriveTest verify-email queue cleared ~11:09–11:23 AM Tue",
-      "body": "Three verify-email mails (~11:09, ~11:15, ~11:19 AM ET, thread 1a135cf6ff3c2e26) were each followed by a booking confirmation, so no verify tap is still needed. Gap Factory 50% promo ~10:03 AM ET is noise."
     }
   ]
 }
