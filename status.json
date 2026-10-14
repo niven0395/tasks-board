@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 14, 9:02 AM ET 2026",
-  "updated_iso": "2026-10-14T09:02:14-04:00",
+  "updated": "Wed Oct 14, 9:29 AM ET 2026",
+  "updated_iso": "2026-10-14T09:29:01-04:00",
   "live": [
     {
       "tag": "In play",
@@ -73,6 +73,11 @@
       "tag": "Pay",
       "title": "Capital One Mastercard …6851 — $94 minimum OVERDUE (was due Tue Oct 13; balance $2,497.10)",
       "body": "capitalone@notification.capitalone.com reminders: ~2:51 PM ET Thu Oct 8 (1a11cdad381b5596), ~2:45 PM ET Sat Oct 10 (1a12722cef79bf00), ~2:30 PM ET Mon Oct 12 (1a13161c54139344, UNREAD/IMPORTANT/INBOX): balance $2,497.10, min $94.00, due Tuesday Oct 13, 2026. No payment confirmation mail through this refresh — now 1 day past due (Wed Oct 14). Pay at least the minimum unless Auto Pay is on. Money's lane. (as of ~Wed Oct 14, 8:29 AM ET 2026)"
+    },
+    {
+      "tag": "Pay",
+      "title": "Enbridge $45.74 — due TODAY Wed Oct 14 (acct 910072794381)",
+      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail. Pay today if not on pre-authorized debit. (as of ~Wed Oct 14, 9:27 AM ET 2026)"
     },
     {
       "tag": "Top up",
@@ -171,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 balance $7,420.59 ~9:05 AM ET Wed",
+      "body": "infoalerts@scotiabank.com ~9:05 AM ET Wed Oct 14 (thread 1a13a5aed7a813d7, UNREAD): balance on 4537*****729 is $7,420.59. Watching only."
+    },
     {
       "tag": "Action",
       "title": "SBI Chennai replied ~12:59 AM Wed — Nivetha forwarded ~7:18 AM (forms + NRE SB/DD path)",
