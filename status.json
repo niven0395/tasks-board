@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 14, 6:37 PM ET 2026",
-  "updated_iso": "2026-10-14T18:37:20-04:00",
+  "updated": "Wed Oct 14, 6:49 PM ET 2026",
+  "updated_iso": "2026-10-14T18:49:42-04:00",
   "live": [
     {
       "tag": "In play",
@@ -72,12 +72,12 @@
     {
       "tag": "Pay",
       "title": "Capital One Mastercard …6851 — $94 minimum OVERDUE (due was Tue Oct 13; still unpaid Wed Oct 14)",
-      "body": "capitalone@notification.capitalone.com reminders: ~2:51 PM ET Thu Oct 8 (1a11cdad381b5596), ~2:45 PM ET Sat Oct 10 (1a12722cef79bf00), ~2:30 PM ET Mon Oct 12 (1a13161c54139344, UNREAD/IMPORTANT/INBOX): balance $2,497.10, min $94.00, due Tuesday Oct 13, 2026. No payment confirmation mail through this refresh — past due since Tue Oct 13 (still unpaid Wed Oct 14 afternoon). Pay at least the minimum unless Auto Pay is on. Money's lane. (as of ~Wed Oct 14, 4:47 PM ET 2026)"
+      "body": "capitalone@notification.capitalone.com reminders: ~2:51 PM ET Thu Oct 8 (1a11cdad381b5596), ~2:45 PM ET Sat Oct 10 (1a12722cef79bf00), ~2:30 PM ET Mon Oct 12 (1a13161c54139344, UNREAD/IMPORTANT/INBOX): balance $2,497.10, min $94.00, due Tuesday Oct 13, 2026. No payment confirmation mail through this refresh — past due since Tue Oct 13 (still unpaid Wed Oct 14 evening). Pay at least the minimum unless Auto Pay is on. Money's lane. (as of ~Wed Oct 14, 6:49 PM ET 2026)"
     },
     {
       "tag": "Pay",
-      "title": "Enbridge $45.74 — due TODAY Wed Oct 14 (acct 910072794381)",
-      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — still due TODAY Wed Oct 14. Pay today if not on pre-authorized debit. (as of ~Wed Oct 14, 4:47 PM ET 2026)"
+      "title": "Enbridge $45.74 — OVERDUE (due was Wed Oct 14; still unpaid) (acct 910072794381)",
+      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — due date Wed Oct 14 has passed (evening); still unpaid. Pay if not on pre-authorized debit. Money's lane. (as of ~Wed Oct 14, 6:49 PM ET 2026)"
     },
     {
       "tag": "Top up",
@@ -172,7 +172,7 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Wed Oct 14, 4:47 PM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Wed Oct 14, 6:49 PM ET 2026)"
     }
   ],
   "quiet": [
