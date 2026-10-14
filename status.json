@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 14, 6:58 PM ET 2026",
-  "updated_iso": "2026-10-14T18:58:56-04:00",
+  "updated": "Wed Oct 14, 7:27 PM ET 2026",
+  "updated_iso": "2026-10-14T19:27:13-04:00",
   "live": [
     {
       "tag": "In play",
@@ -172,7 +172,7 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Wed Oct 14, 6:49 PM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Wed Oct 14, 7:27 PM ET 2026)"
     }
   ],
   "quiet": [
@@ -914,7 +914,7 @@
     {
       "tag": "Blocked",
       "title": "Mac EventKit / remindctl",
-      "body": "No CloudAgent workers connected (none right now). EventKit/remindctl on Mac unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (eventkit 26025967), already Home-enhanced. (as of ~6:44 PM ET Tue Oct 13 2026)"
+      "body": "No CloudAgent workers connected (none right now). EventKit/remindctl on Mac unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (eventkit 26025967), already Home-enhanced. (as of ~7:27 PM ET Wed Oct 14 2026)"
     },
     {
       "tag": "Noted",
