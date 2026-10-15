@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 14, 8:00 PM ET 2026",
-  "updated_iso": "2026-10-14T20:00:55-04:00",
+  "updated": "Wed Oct 14, 8:29 PM ET 2026",
+  "updated_iso": "2026-10-14T20:29:33-04:00",
   "live": [
     {
       "tag": "In play",
@@ -925,6 +925,11 @@
       "tag": "Noted",
       "title": "Scotia last-five ~1:19 PM ET Thu Oct 8 (…8382 / …7983)",
       "body": "infoalerts@scotiabank.com ~1:19 PM ET Thu Oct 8 (thread 1a11c873a6145d91): …8382 last 5: WITHDRAWAL $1143, CUST TRF CR $1100, WITHDRAWAL $350, DEPOSIT $400, WITHDRAWAL $2500. …7983 last 5: CUST TRF DR $1300, CUST TRF CR $1300, WITHDRAWAL $55. Balance alerts earlier same day still show …7983 at -$407.05 (8:19 AM) — overdrawn waiting item unchanged. No new person reply."
+    },
+    {
+      "tag": "Noted",
+      "title": "Typesafe — Happy JevDay promo ~8:24 PM ET Wed — ignored",
+      "body": "team@updates.typesafe.ai ~8:24 PM ET Wed Oct 14 (thread 1a13cf1de628c4a1, UNREAD/PROMOTIONS/INBOX): Jev 1.14.0 marketing. No action."
     }
   ]
 }
