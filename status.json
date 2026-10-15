@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 15, 9:40 AM ET 2026",
-  "updated_iso": "2026-10-15T09:40:40-04:00",
+  "updated": "Thu Oct 15, 10:02 AM ET 2026",
+  "updated_iso": "2026-10-15T10:02:12-04:00",
   "live": [
     {
       "tag": "In play",
@@ -9,8 +9,8 @@
     },
     {
       "tag": "This week",
-      "title": "DriveTest — Wed Oct 14 slot passed (Chendooron); TOMORROW Fri Oct 16 x2 still booked (8:57 AM Bennett reminder in)",
-      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early, cancel 48h ahead. Wed Oct 14 10:48 AM slot passed — Chendooron Arulneshan (conf 7176897); outcome not confirmed in mail. Tomorrow Fri Oct 16 8:57 AM Bennett Loganathan (8521520) — Road Test Reminder arrived ~8:03 AM ET Thu Oct 15 (thread 1a13f71f6bd84eeb); Fri Oct 16 10:48 AM Nanthees Pararajasegaram (6302034) still booked. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
+      "title": "DriveTest — Wed Oct 14 slot passed (Chendooron); TOMORROW Fri Oct 16 x2 still booked (8:57 AM Bennett + 10:48 AM Nanthees)",
+      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early, cancel 48h ahead. Wed Oct 14 10:48 AM slot passed — Chendooron Arulneshan (conf 7176897); outcome not confirmed in mail. Tomorrow Fri Oct 16 8:57 AM Bennett Loganathan (8521520) — Road Test Reminder arrived ~8:03 AM ET Thu Oct 15 (thread 1a13f71f6bd84eeb); Fri Oct 16 10:48 AM Nanthees Pararajasegaram (6302034) still booked. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     },
     {
       "tag": "Dental",
@@ -71,18 +71,18 @@
     },
     {
       "tag": "Pay",
-      "title": "Capital One Mastercard …6851 — $94 minimum went past due Oct 13; new statement $2,788.13, min $189.00 due Mon Nov 9",
-      "body": "Earlier reminders (threads 1a11cdad381b5596, 1a12722cef79bf00, 1a13161c54139344): balance $2,497.10, min $94.00, due Tue Oct 13 — no payment confirmation mail ever arrived. New statement ~7:30 AM ET Thu Oct 15 (thread 1a13f5423bb8eca6): statement balance $2,788.13, minimum $189.00, due Mon Nov 9, 2026. Pay now to cover the missed minimum unless Auto Pay is on. Money's lane. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
+      "title": "Capital One Mastercard …6851 — $94 minimum OVERDUE since Oct 13 (2 days); new statement $2,788.13, min $189.00 due Mon Nov 9",
+      "body": "Earlier reminders (threads 1a11cdad381b5596, 1a12722cef79bf00, 1a13161c54139344): balance $2,497.10, min $94.00, due Tue Oct 13 — no payment confirmation mail ever arrived. New statement ~7:30 AM ET Thu Oct 15 (thread 1a13f5423bb8eca6): statement balance $2,788.13, minimum $189.00, due Mon Nov 9, 2026. Pay now to cover the missed minimum unless Auto Pay is on. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     },
     {
       "tag": "Pay",
-      "title": "Enbridge $45.74 — OVERDUE (was due Wed Oct 14; no payment confirmation) (acct 910072794381)",
-      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — due date Wed Oct 14 has passed (night); still unpaid. Pay if not on pre-authorized debit. Money's lane. Still no confirmation as of Thu morning. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
+      "title": "Enbridge $45.74 — OVERDUE 1 day (was due Wed Oct 14; no payment confirmation) (acct 910072794381)",
+      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — due date Wed Oct 14 has passed; now 1 day past due and still unpaid. Pay if not on pre-authorized debit. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     },
     {
       "tag": "Top up",
       "title": "Scotia chequing …7983 still overdrawn: -$472.05 at 8:20 AM Thu — move money in (…8382 now $2,622.34)",
-      "body": "Balance alerts ~8:20 AM ET Thu Oct 15 (thread 1a13f8147e2f70aa, UNREAD): …7983 -$472.05 (was -$467.05 Wed); …8382 $2,622.34 (was $0.90 Wed), so there's room to transfer. Card …729 last-five ~7:17 AM Thu (thread 1a13f479b0376fb5): Tim Hortons $3.66, Amazon.ca $11.28, Starbucks $8.06, Bloomington Esso $27.03, Shoppers $41.22. Money's lane. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
+      "body": "Balance alerts ~8:20 AM ET Thu Oct 15 (thread 1a13f8147e2f70aa, UNREAD): …7983 -$472.05 (was -$467.05 Wed); …8382 $2,622.34 (was $0.90 Wed), so there's room to transfer. Card …729 last-five ~7:17 AM Thu (thread 1a13f479b0376fb5): Tim Hortons $3.66, Amazon.ca $11.28, Starbucks $8.06, Bloomington Esso $27.03, Shoppers $41.22. Same thread later ~9:05 AM Thu: Visa 4537…729 balance $7,424.25 (was $7,420.59 Wed). Money's lane. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     },
     {
       "tag": "Sign-in",
@@ -172,10 +172,25 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Wed Oct 14, 9:49 PM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "tasks-board refresh ~10:01 AM ET Thu — timestamp + overdue day counts",
+      "body": "No Cap One/Enbridge payment confirmations; both still OVERDUE on waiting. Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new watched-thread replies since morning email-watch. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 balance $7,424.25 ~9:05 AM ET Thu",
+      "body": "infoalerts@scotiabank.com ~9:05 AM ET Thu Oct 15 (thread 1a13f8147e2f70aa): balance on 4537*****729 is $7,424.25 (was $7,420.59 Wed). Watching only; Money digest already noted. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "email-watch ~9:54 AM ET Thu — no new watched-thread replies",
+      "body": "Allure 1a067d92c8549760 still ends Niven Sep 4; YDO 615473; Felix/Lucy ends Aug 17; Walid cashback thread no cashback reply; Scotia CD-2609-653 still Under investigation Sep 13; SKD unreplied; Pickering/Carmen; Opus promo only. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "email-watch ~8:49 AM ET Thu — timestamp refresh; no new mail since 8:35",
@@ -954,7 +969,7 @@
     {
       "tag": "Blocked",
       "title": "Mac EventKit / remindctl",
-      "body": "No CloudAgent workers connected (none right now). EventKit/remindctl on Mac unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (eventkit 26025967), already Home-enhanced. (as of ~7:27 PM ET Wed Oct 14 2026)"
+      "body": "No remindctl on the box; Mac EventKit unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (26025967), already Home-enhanced. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
     },
     {
       "tag": "Noted",
