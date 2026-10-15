@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 15, 10:32 AM ET 2026",
-  "updated_iso": "2026-10-15T10:32:28-04:00",
+  "updated": "Thu Oct 15, 10:35 AM ET 2026",
+  "updated_iso": "2026-10-15T10:35:23-04:00",
   "live": [
     {
       "tag": "In play",
@@ -172,10 +172,20 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "tasks-board refresh ~10:35 AM ET Thu — timestamp + BMO promo",
+      "body": "Since ~10:32 AM ET Thu board: only new mail is BMO InvestorLine/invest promo \"Spend less on fees\" ~10:17 AM (thread 1a13fedfd68c8d03) — ignored. No Cap One/Enbridge payment confirmations; Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (Money already pinged — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new watched-thread replies; no new waiting items. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "BMO invest promo ~10:17 AM ET Thu — ignored",
+      "body": "DoNotReply@e-news.bmo.com ~10:17 AM ET Thu Oct 15 (thread 1a13fedfd68c8d03): \"Spend less on fees. Get rewarded for starting\" — commission-free stocks/ETFs promo. No board wait. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "email-watch ~10:09 AM ET Thu — Nanthees DriveTest reminder; stayed silent",
