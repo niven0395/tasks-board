@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 15, 10:35 AM ET 2026",
-  "updated_iso": "2026-10-15T10:35:23-04:00",
+  "updated": "Thu Oct 15, 10:58 AM ET 2026",
+  "updated_iso": "2026-10-15T10:58:24-04:00",
   "live": [
     {
       "tag": "In play",
@@ -72,12 +72,12 @@
     {
       "tag": "Pay",
       "title": "Capital One Mastercard …6851 — $94 minimum OVERDUE since Oct 13 (2 days); new statement $2,788.13, min $189.00 due Mon Nov 9",
-      "body": "Earlier reminders (threads 1a11cdad381b5596, 1a12722cef79bf00, 1a13161c54139344): balance $2,497.10, min $94.00, due Tue Oct 13 — no payment confirmation mail ever arrived. New statement ~7:30 AM ET Thu Oct 15 (thread 1a13f5423bb8eca6): statement balance $2,788.13, minimum $189.00, due Mon Nov 9, 2026. Pay now to cover the missed minimum unless Auto Pay is on. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+      "body": "Earlier reminders (threads 1a11cdad381b5596, 1a12722cef79bf00, 1a13161c54139344): balance $2,497.10, min $94.00, due Tue Oct 13 — no payment confirmation mail ever arrived. New statement ~7:30 AM ET Thu Oct 15 (thread 1a13f5423bb8eca6): statement balance $2,788.13, minimum $189.00, due Mon Nov 9, 2026. Pay now to cover the missed minimum unless Auto Pay is on. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
     },
     {
       "tag": "Pay",
       "title": "Enbridge $45.74 — OVERDUE 1 day (was due Wed Oct 14; no payment confirmation) (acct 910072794381)",
-      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — due date Wed Oct 14 has passed; now 1 day past due and still unpaid. Pay if not on pre-authorized debit. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+      "body": "Enbridge eBill: balance $45.74, payment due by 2026/10/14 on account 91 00 72 79438 1. No payment confirmation in mail through this refresh — due date Wed Oct 14 has passed; now 1 day past due and still unpaid. Pay if not on pre-authorized debit. Money's lane; Money digest already pinged this morning — do not re-nag today. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
     },
     {
       "tag": "Top up",
@@ -106,8 +106,8 @@
     },
     {
       "tag": "Pay",
-      "title": "BMO Credit Card *8298 — $2,802.91 stmt / $17 min was due Mon Oct 5 (now 9 days past due if unpaid)",
-      "body": "bmoalerts@bmo.com ~3:44 AM ET Wed Sep 30 (thread 1a0f1460cd5c4985): statement $2,802.91; min $17.00; due Oct 05, 2026; card ending 8298. No payment confirmation mail; 9 days past due if unpaid. If PAP set up, no action per alert. Do not pay unless he asks. (as of ~Wed Oct 14, 12:49 PM ET 2026)"
+      "title": "BMO Credit Card *8298 — new stmt $3,268.91 / $50 min due Mon Nov 9 (prior $17 min was due Oct 5; no pay confirm)",
+      "body": "New e-Statement ~10:36 AM ET Thu Oct 15 (thread 1a13ffdf60c4b0bf, UNREAD/UPDATES/INBOX): statement balance $3,268.91; minimum $50.00; due Nov 09, 2026; card ending 8298. Prior Sep 30 statement was $2,802.91 / $17 min due Oct 5 (thread 1a0f1460cd5c4985) — no payment confirmation mail for that either. If PAP is set up, no action per prior alert. Money's lane; do not re-nag today. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
     },
     {
       "tag": "Pay",
@@ -172,7 +172,7 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. companion_items still empty. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
     }
   ],
   "quiet": [
@@ -984,7 +984,7 @@
     {
       "tag": "Blocked",
       "title": "Mac EventKit / remindctl",
-      "body": "No remindctl on the box; Mac EventKit unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (26025967), already Home-enhanced. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
+      "body": "No remindctl on the box; Mac EventKit unreachable this run. companion_items still 0 rows. Incomplete public.tasks: only Nivetha Savings (26025967). (as of ~Thu Oct 15, 10:58 AM ET 2026)"
     },
     {
       "tag": "Noted",
@@ -1000,6 +1000,21 @@
       "tag": "Noted",
       "title": "Typesafe — Happy JevDay promo ~8:24 PM ET Wed — ignored",
       "body": "team@updates.typesafe.ai ~8:24 PM ET Wed Oct 14 (thread 1a13cf1de628c4a1, UNREAD/PROMOTIONS/INBOX): Jev 1.14.0 marketing. No action."
+    },
+    {
+      "tag": "Noted",
+      "title": "BMO Credit Card *8298 statement ready ~10:36 AM ET Thu — $3,268.91, min $50 due Nov 9",
+      "body": "bmoalerts@bmo.com ~10:36 AM ET Thu Oct 15 (thread 1a13ffdf60c4b0bf, UNREAD/UPDATES/INBOX): statement balance $3,268.91; minimum payment $50.00; due Nov 09, 2026; card ending 8298. Waiting Pay item updated; Money's lane. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "LinkedIn — appeared in recent searches ~10:36 AM ET Thu — ignored",
+      "body": "notifications-noreply@linkedin.com ~10:36 AM ET Thu Oct 15 (thread 1a13ffe44fcf4570, UNREAD/SOCIAL/INBOX): You appeared in recent searches. Noise only. (as of ~Thu Oct 15, 10:58 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "tasks-board refresh ~10:58 AM ET Thu — BMO *8298 stmt + timestamp",
+      "body": "Board refreshed Thu Oct 15, 10:58 AM ET 2026. New mail since ~10:35 AM: BMO *8298 statement (waiting updated) + LinkedIn social noise (quiet). Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (no payment confirmations; Money already pinged — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new waiting items requiring a user ping."
     }
   ]
 }
