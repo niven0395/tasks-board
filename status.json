@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 12:53 PM ET 2026",
-  "updated_iso": "2026-10-16T12:53:13.109545-04:00",
+  "updated": "Fri Oct 16, 1:06 PM ET 2026",
+  "updated_iso": "2026-10-16T13:06:51.587411-04:00",
   "live": [
     {
       "tag": "In play",
@@ -183,6 +183,11 @@
   "quiet": [
     {
       "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 1:06 PM ET 2026 — no new mail since ~10:04 AM promos; no watched-thread replies; bills already pinged",
+      "body": "email-watch 1:06 PM ET Fri: no new inbox mail since Gap Factory / Scotiabank promos ~10:04 AM ET (ignored). No replies on Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield. No DriveTest result mail yet. Mont-Tremblant drive ~3:00 PM today. Bills stay on waiting without a new nudge."
+    },
+    {
+      "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 11:46 AM ET 2026 — no new mail since ~10:56 AM; DriveTest Fri slots past (no result); Mont-Tremblant drive ~3:00 PM; bills already pinged",
       "body": "Refresh at Fri Oct 16, 11:46 AM ET 2026. No material new mail since ~10:56 AM board (Gap Factory / Scotia insurance promos already noted/ignored). DriveTest Fri Oct 16 Bennett 8:57 + Nanthees 10:48 both past — no result mail. Mont-Tremblant drive still ~3:00 PM ET. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield/Verifyle). No Cap One/Enbridge/Elexicon/Reliance pay confirmations. Supabase open still only Nivetha Savings; companion_items empty. Bills already pinged this morning — do not re-nag. No new waiting items."
     },
@@ -217,16 +222,6 @@
       "body": "email-watch ~9:04 AM ET Fri: no new inbox mail since Scotia balance alerts ~8:20 AM (…7983 -$472.05 / …8382 $622.34) and Visa …729 last-5 ~7:16 AM ($1,500 payment from …8382) — already on board from ~8:48 AM refresh. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Bills already on waiting / Money's lane — do not re-nag. Stayed silent."
     },
     {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~8:48 AM ET Fri Oct 16, 2026 — no new mail since Scotia 8:20 AM; no pay confirmations",
-      "body": "No new actionable mail since the ~8:20 AM ET Scotia balance alerts (…7983 still -$472.05; …8382 $622.34) and Visa …729 last-five ~7:16 AM. No Cap One, Enbridge, Elexicon, or Reliance payment confirmations. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. DriveTest still TODAY (Bennett 8:57 AM, Nanthees 10:48 AM). Bills already pinged this morning — do not re-nag. (as of ~~8:48 AM ET Fri Oct 16, 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~8:35 AM ET Fri — Scotia balances updated; DriveTest tests today; no pay confirmations",
-      "body": "Overnight mail: Scotia balance alerts ~8:20 AM and Visa …729 last-five ~7:16 AM only (plus a LinkedIn promo ~8:34 PM Thu). No Cap One, Enbridge, Elexicon, or Reliance payment confirmations. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. (as of ~Fri Oct 16, 8:35 AM ET 2026)"
-    },
-    {
       "tag": "Noted",
       "title": "Scotia Visa …729 last-5 ~7:16 AM ET Fri — $1,500 payment from …8382",
       "body": "infoalerts@scotiabank.com (thread 1a1446d76a46c851): PAYMENT FROM …8382 -$1,500.00, Apple.com/bill $20.33, Tim Hortons $3.66, Amazon.ca $11.28, Starbucks. (as of ~Fri Oct 16, 8:35 AM ET 2026)"
@@ -238,18 +233,8 @@
     },
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~8:49 PM ET Thu — no new mail since LinkedIn ~8:34pm; no Cap One/Enbridge/Elexicon pay confirm; no watched-thread replies",
-      "body": "Timestamp refresh. Live/waiting unchanged (9/25). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. Bills already pinged this morning — do not re-nag. (as of ~Thu Oct 15, 8:49 PM ET 2026)"
-    },
-    {
-      "tag": "Watching",
       "title": "LinkedIn — GTA puzzle promo ~8:34 PM ET Thu — ignored",
       "body": "messages-noreply@linkedin.com ~8:34 PM ET Thu Oct 15 (thread 1a14221c81f05db4, UNREAD/SOCIAL): GTA-coded puzzle games promo. No action. (as of ~Thu Oct 15, 8:49 PM ET 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~7:38 PM ET Thu — no new mail since Interac $500; no Cap One/Enbridge/Elexicon pay confirm",
-      "body": "email-watch Thu Oct 15, 7:38 PM ET 2026: no mail after ~7:34 PM prior refresh (newest still Scotia Interac $500 from …8382 ~5:01 PM ET, thread 1a1415e9b9cf4d18). No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Bills already pinged this morning — do not re-nag. Stayed silent."
     },
     {
       "tag": "Noted",
@@ -268,11 +253,6 @@
     },
     {
       "tag": "Noted",
-      "title": "tasks-board refresh ~3:50 PM ET Thu — timestamp only; no new mail since 2:25pm Reliance",
-      "body": "No new mail since the Reliance $168.18 past-due notice ~2:07 PM (already on waiting). Shell promo, OpenRouter GST notice, NuPhy promo ignored. No Cap One/Enbridge payment confirmations; Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (Money already pinged this morning — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). (as of ~Thu Oct 15, 3:51 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
       "title": "email-watch ~11:01 AM ET Thu — LinkedIn social + BMO stmt already on waiting; stayed silent",
       "body": "Since ~10:58 AM ET Thu board: new mail is LinkedIn \"You appeared in recent searches\" ~10:36 AM (thread 1a13ffe44fcf4570) — social/marketing, ignored. BMO Credit Card *8298 e-Statement ~10:36 AM (thread 1a13ffdf60c4b0bf, $3,268.91 / $50 min due Nov 9) already on waiting from 10:58 refresh. No Cap One/Enbridge payment confirmations; Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (Money already pinged — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Stayed silent. (as of ~Thu Oct 15, 11:03 AM ET 2026)"
     },
@@ -280,11 +260,6 @@
       "tag": "Noted",
       "title": "LinkedIn recent-searches ~10:36 AM ET Thu — ignored",
       "body": "notifications-noreply@linkedin.com ~10:36 AM ET Thu Oct 15 (thread 1a13ffe44fcf4570): \"You appeared in recent searches\" — social notification. No board wait. (as of ~Thu Oct 15, 11:03 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "tasks-board refresh ~10:35 AM ET Thu — timestamp + BMO promo",
-      "body": "Since ~10:32 AM ET Thu board: only new mail is BMO InvestorLine/invest promo \"Spend less on fees\" ~10:17 AM (thread 1a13fedfd68c8d03) — ignored. No Cap One/Enbridge payment confirmations; Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (Money already pinged — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new watched-thread replies; no new waiting items. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
     },
     {
       "tag": "Noted",
