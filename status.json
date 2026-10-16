@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 10:33 AM ET 2026",
-  "updated_iso": "2026-10-16T10:33:10.422504-04:00",
+  "updated": "Fri Oct 16, 10:56 AM ET 2026",
+  "updated_iso": "2026-10-16T10:56:00.285262-04:00",
   "live": [
     {
       "tag": "In play",
@@ -14,8 +14,8 @@
     },
     {
       "tag": "This week",
-      "title": "DriveTest — TODAY Fri Oct 16: Bennett 8:57 AM past (no result mail); Nanthees 10:48 AM still upcoming; Wed Oct 14 Chendooron passed",
-      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early. Today Fri Oct 16: Bennett Loganathan 8:57 AM past — no pass/fail result mail yet through this refresh. Nanthees Pararajasegaram 10:48 AM still upcoming (reminder thread 1a13f71f6bd84eeb). Wed Oct 14 Chendooron passed. Confirmation codes on calendar events."
+      "title": "DriveTest — TODAY Fri Oct 16: Bennett 8:57 AM + Nanthees 10:48 AM both past (no result mail); Wed Oct 14 Chendooron passed",
+      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early. Today Fri Oct 16: Bennett Loganathan 8:57 AM and Nanthees Pararajasegaram 10:48 AM both past — no pass/fail result mail yet through this refresh (Nanthees reminder thread 1a13f71f6bd84eeb). Wed Oct 14 Chendooron passed. Confirmation codes on calendar events. (as of ~Fri Oct 16, 10:56 AM ET 2026)"
     },
     {
       "tag": "Dental",
@@ -177,10 +177,20 @@
     {
       "tag": "Do",
       "title": "Nivetha Savings",
-      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8 / eventkit 34337075-1757-4704-86B5-8E02D23FA60C). Due was Sep 8. Still needs him. companion_items empty. (as of ~Fri Oct 16, 9:31 AM ET 2026)"
+      "body": "Only open incomplete Supabase task (list Reminders; location Home; id 26025967-aac3-4525-8ef9-b3bc1e383bf8). Due was Sep 8. Still needs him. companion_items empty. (as of ~Fri Oct 16, 10:56 AM ET 2026)"
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 10:56 AM ET 2026 — DriveTest Fri slots both past (no result mail); Gap Factory promo ignored; no watched-thread replies; no pay confirmations",
+      "body": "Since ~10:33 AM ET board: no new material mail. Gap Factory Rewards promo ~10:04 AM ET Fri ignored. Scotia insurance promo ~10:03 AM already noted. No Cap One/Enbridge/Elexicon/Reliance pay confirm. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Supabase open still only Nivetha Savings; companion_items empty. Bills already pinged this morning — do not re-nag. Mont-Tremblant drive still ~3:00 PM ET. (as of ~Fri Oct 16, 10:56 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Gap Factory — 50% off + extra 10% Rewards promo ~10:04 AM ET Fri — ignored",
+      "body": "gapfactory@email.gapfactory.ca ~10:04 AM ET Fri Oct 16 (thread 1a14525b28ecd367). Promo only. (as of ~Fri Oct 16, 10:56 AM ET 2026)"
+    },
     {
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 10:32 AM ET 2026 — only a Scotiabank insurance promo since 9:05 AM; no watched-thread replies",
