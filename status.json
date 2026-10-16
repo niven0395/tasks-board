@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 8:48 AM ET 2026",
-  "updated_iso": "2026-10-16T08:48:39.352186-04:00",
+  "updated": "Fri Oct 16, 9:05 AM ET 2026",
+  "updated_iso": "2026-10-16T09:05:12.847162-04:00",
   "live": [
     {
       "tag": "In play",
@@ -9,8 +9,8 @@
     },
     {
       "tag": "This week",
-      "title": "DriveTest — TODAY Fri Oct 16 x2 booked (8:57 AM Bennett + 10:48 AM Nanthees); Wed Oct 14 slot passed (Chendooron)",
-      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early. Today Fri Oct 16 8:57 AM Bennett Loganathan (conf 8521520) and 10:48 AM Nanthees Pararajasegaram (conf 6302034); reminders came Thu (thread 1a13f71f6bd84eeb). Wed Oct 14 10:48 AM Chendooron Arulneshan (7176897) passed; outcome not in mail. Not Niven's own tests unless he asks. (as of ~~8:48 AM ET Fri Oct 16, 2026)"
+      "title": "DriveTest — TODAY Fri Oct 16: Bennett 8:57 AM slot underway/past; Nanthees 10:48 AM still upcoming; Wed Oct 14 Chendooron passed",
+      "body": "no-reply@drivetest.ca (thread 1a135d35f7da0993): bookings at Downsview Park, 37 Carl Hall Rd (back entrance), arrive 30 min early. Today Fri Oct 16: 8:57 AM Bennett Loganathan (conf 8521520) — slot time passed ~9:04 AM with no result mail yet; 10:48 AM Nanthees Pararajasegaram (conf 6302034) still upcoming. Reminders Thu (thread 1a13f71f6bd84eeb). Wed Oct 14 10:48 AM Chendooron Arulneshan (7176897) passed; outcome not in mail. Not Niven's own tests unless he asks. (as of ~Fri Oct 16, 9:05 AM ET 2026)"
     },
     {
       "tag": "Dental",
@@ -176,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "tasks-board refresh ~9:05 AM ET Fri Oct 16, 2026 — no new mail since Scotia 8:20 AM; no watched-thread replies",
+      "body": "email-watch ~9:04 AM ET Fri: no new inbox mail since Scotia balance alerts ~8:20 AM (…7983 -$472.05 / …8382 $622.34) and Visa …729 last-5 ~7:16 AM ($1,500 payment from …8382) — already on board from ~8:48 AM refresh. No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Bills already on waiting / Money's lane — do not re-nag. Stayed silent."
+    },
     {
       "tag": "Watching",
       "title": "tasks-board refresh ~8:48 AM ET Fri Oct 16, 2026 — no new mail since Scotia 8:20 AM; no pay confirmations",
