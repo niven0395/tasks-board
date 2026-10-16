@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 4:25 PM ET 2026",
-  "updated_iso": "2026-10-16T16:25:29.204438-04:00",
+  "updated": "Fri Oct 16, 4:38 PM ET 2026",
+  "updated_iso": "2026-10-16T16:38:56-04:00",
   "live": [
     {
       "tag": "In play",
@@ -188,6 +188,11 @@
   "quiet": [
     {
       "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 4:38 PM ET 2026 — no new mail since the 3:34 PM physio reply; no watched-thread replies; bills already pinged",
+      "body": "email-watch: nothing new in Gmail since the ~4:25 PM board (newest is still the Women's Health Physio reply ~3:34 PM, already on waiting with the Mon Oct 19 call block). Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. No DriveTest result mail. Money owns bill nudges; nothing re-nagged."
+    },
+    {
+      "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 4:07 PM ET 2026 — no new mail since the 3:34 PM physio reply; no watched-thread replies; bills already pinged",
       "body": "email-watch: nothing new in Gmail since the ~3:52 PM board. Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. No DriveTest result mail. Money owns bill nudges; nothing re-nagged."
     },
@@ -205,11 +210,6 @@
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 2:06 PM ET 2026 — no new mail since the 1:52 PM Landmark Cinemas promo; no watched-thread replies; no DriveTest result mail; bills already pinged",
       "body": "Gmail checked: no new mail needing Niven. Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. Mont-Tremblant drive ~3:00 PM ET today."
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Oct 16, 1:53 PM ET 2026 — only new mail is a Landmark Cinemas promo; no watched-thread replies; bills already pinged",
-      "body": "email-watch 1:53 PM ET Fri: since the ~1:32 PM board, only a Landmark Cinemas promo ~1:52 PM ET (ignored). Scotia last-5 alerts ~1:19 PM and BMO *8298 $17 past-due ~1:07 PM already on the board. No replies on watched threads. Reminders: Mac still unreachable; only open task is Nivetha Savings. Mont-Tremblant drive still ~3:00 PM ET. (as of ~Fri Oct 16, 1:53 PM ET 2026)"
     },
     {
       "tag": "Noted",
