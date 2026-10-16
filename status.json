@@ -1,16 +1,11 @@
 {
-  "updated": "Fri Oct 16, 3:29 PM ET 2026",
-  "updated_iso": "2026-10-16T15:29:39.321617-04:00",
+  "updated": "Fri Oct 16, 3:36 PM ET 2026",
+  "updated_iso": "2026-10-16T15:36:51.424831-04:00",
   "live": [
     {
       "tag": "In play",
       "title": "Nivetha’s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
       "body": "nivetha_02@hotmail.com ~11:16 PM ET Thu Oct 8 (thread 1a11ea9b7abaf65c, UNREAD): 1. Benefits — purchase fitness-related item 2. Call SBI 3. Tax 4. Invest TFSA money into safe stocks. SBI call and Schofield CPA tax prep are already on the board. (as of ~8:42 AM ET Fri Oct 9)"
-    },
-    {
-      "tag": "Family",
-      "title": "Pelvic physio for Nivetha — new-patient booking request sent; waiting on clinic reply",
-      "body": "Sent from nivensivarajah@gmail.com to info@womenshealthphysio.ca ~2:36 PM ET Fri Oct 16 (thread 1a1460049c2d6e38): requesting a Pelvic Physiotherapy New Patient Initial Assessment (prenatal pelvic floor) for Nivetha Karunatharan. No reply yet. (as of ~Fri Oct 16, 2:45 PM ET 2026)"
     },
     {
       "tag": "This week",
@@ -59,6 +54,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Family",
+      "title": "Pelvic physio for Nivetha — clinic says she must call to book (905-239-1102); call block Mon Oct 19 9:30 AM",
+      "body": "info@womenshealthphysio.ca replied ~3:34 PM ET Fri Oct 16 (thread 1a1460049c2d6e38): they left Nivetha a voicemail; new patients book by phone only (Ajax 905-239-1102, Whitby 905-493-6209). Victoria Philip and Liron Kvaterman both at Ajax (3-144 Old Kingston Rd); schedules at womenshealthphysio.janeapp.com. Recommend follow-up 5–7 days after assessment. No direct billing; emailed receipt for benefits reimbursement. Calendar call block added Mon Oct 19 9:30–9:35 AM (event guoq2m87t6n1emdvdt5sllc1so). (as of ~Fri Oct 16, 3:36 PM ET 2026)"
+    },
     {
       "tag": "Approve",
       "title": "GitHub — Cursor app requesting updated permissions (~3:16 AM Tue)",
@@ -188,6 +188,11 @@
   "quiet": [
     {
       "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 3:36 PM ET 2026 — physio clinic replied (Nivetha must call); no other new mail; no watched-thread replies; bills already pinged",
+      "body": "email-watch: only new mail since ~3:03 PM board was Women's Health Physio reply ~3:34 PM (moved to waiting with Monday call block). Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. No DriveTest result mail. Money owns bill nudges; nothing re-nagged."
+    },
+    {
+      "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 2:31 PM ET 2026 — no new mail since the 1:52 PM Landmark Cinemas promo; no watched-thread replies; no DriveTest result mail; bills already pinged",
       "body": "Gmail checked: no new mail needing Niven. Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. Money owns bill nudges; nothing re-nagged. Mont-Tremblant drive ~3:00 PM today."
     },
@@ -205,11 +210,6 @@
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 1:32 PM ET 2026 — no new mail since the 1:19 PM Scotia last-5 alerts; no watched-thread replies; bills already pinged",
       "body": "email-watch 1:32 PM ET Fri: nothing new since the ~1:27 PM board (BMO *8298 $17 past-due reminder ~1:07 PM and Scotia last-5 alerts ~1:19 PM already noted). No replies on Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield. No DriveTest result mail yet. Bills stay on waiting, no re-nag. (as of ~Fri Oct 16, 1:32 PM ET 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Oct 16, 1:06 PM ET 2026 — no new mail since ~10:04 AM promos; no watched-thread replies; bills already pinged",
-      "body": "email-watch 1:06 PM ET Fri: no new inbox mail since Gap Factory / Scotiabank promos ~10:04 AM ET (ignored). No replies on Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield. No DriveTest result mail yet. Mont-Tremblant drive ~3:00 PM today. Bills stay on waiting without a new nudge."
     },
     {
       "tag": "Noted",
