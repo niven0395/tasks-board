@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 4:49 PM ET 2026",
-  "updated_iso": "2026-10-16T16:49:01-04:00",
+  "updated": "Fri Oct 16, 5:04 PM ET 2026",
+  "updated_iso": "2026-10-16T17:04:02-04:00",
   "live": [
     {
       "tag": "In play",
@@ -9,7 +9,7 @@
     },
     {
       "tag": "This week",
-      "title": "Mont-Tremblant family getaway — TODAY Fri Oct 16 through Sun Oct 18; drive ~3:00 PM ET",
+      "title": "Mont-Tremblant family getaway — Fri Oct 16 through Sun Oct 18 (drive was ~3:00 PM ET today)",
       "body": "Google Calendar: all-day Mont-Tremblant family getaway Fri Oct 16–Sun Oct 18 (event qr1vvp3n92jmov0d96qgomfc9k). Drive to Mont-Tremblant + hotel check-in today 3:00–10:00 PM ET (event qkp2m6ubjfkuod2bf7g6lqjgc0). No packing/checklist task in Supabase. (as of ~Fri Oct 16, 9:31 AM ET 2026)"
     },
     {
@@ -188,6 +188,11 @@
   "quiet": [
     {
       "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 5:04 PM ET 2026 — no new mail since the 3:34 PM physio reply; no watched-thread replies; bills already pinged",
+      "body": "email-watch: nothing new in Gmail since the ~4:49 PM board (newest is still the Women's Health Physio reply ~3:34 PM, already on waiting with the Mon Oct 19 call block). Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. No DriveTest result mail. Bills stay on waiting; Money owns nudges."
+    },
+    {
+      "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 4:38 PM ET 2026 — no new mail since the 3:34 PM physio reply; no watched-thread replies; bills already pinged",
       "body": "email-watch: nothing new in Gmail since the ~4:25 PM board (newest is still the Women's Health Physio reply ~3:34 PM, already on waiting with the Mon Oct 19 call block). Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. No DriveTest result mail. Money owns bill nudges; nothing re-nagged."
     },
@@ -205,11 +210,6 @@
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 2:31 PM ET 2026 — no new mail since the 1:52 PM Landmark Cinemas promo; no watched-thread replies; no DriveTest result mail; bills already pinged",
       "body": "Gmail checked: no new mail needing Niven. Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. Money owns bill nudges; nothing re-nagged. Mont-Tremblant drive ~3:00 PM today."
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Oct 16, 2:06 PM ET 2026 — no new mail since the 1:52 PM Landmark Cinemas promo; no watched-thread replies; no DriveTest result mail; bills already pinged",
-      "body": "Gmail checked: no new mail needing Niven. Watched threads (Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield) quiet. Mont-Tremblant drive ~3:00 PM ET today."
     },
     {
       "tag": "Noted",
