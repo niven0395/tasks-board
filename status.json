@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 16, 11:06 AM ET 2026",
-  "updated_iso": "2026-10-16T11:06:49.686003-04:00",
+  "updated": "Fri Oct 16, 11:30 AM ET 2026",
+  "updated_iso": "2026-10-16T11:30:39-04:00",
   "live": [
     {
       "tag": "In play",
@@ -181,6 +181,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Oct 16, 11:30 AM ET 2026 — no new mail since ~10:56 AM refresh; DriveTest Fri slots still past (no result mail); Mont-Tremblant drive still ~3:00 PM ET; no watched-thread replies; no pay confirmations; Supabase open still only Nivetha Savings; companion_items empty; bills already pinged this morning",
+      "body": "Hourly board refresh. Gmail newer_than:6h only Gap Factory promo (~10:04 AM), Scotia insurance promo (~10:03 AM), and earlier Scotia balance/last-five alerts already on board. No Cap One/Enbridge/Elexicon/Reliance/Durham payment confirmations. Watched threads unchanged (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Incomplete public.tasks: Nivetha Savings (26025967) only. companion_items open: 0."
+    },
     {
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Oct 16, 10:56 AM ET 2026 — DriveTest Fri slots both past (no result mail); Gap Factory promo ignored; no watched-thread replies; no pay confirmations",
