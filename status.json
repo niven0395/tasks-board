@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 19, 2:26 PM ET",
-  "updated_iso": "2026-10-19T14:26:12-04:00",
+  "updated": "Mon Oct 19, 2:36 PM ET",
+  "updated_iso": "2026-10-19T14:36:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -111,8 +111,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Amex *8420 — payment was due Mon Oct 5 (amount only in app)",
-      "body": "AmericanExpress@welcome.americanexpress.com ~7:34 AM ET Mon Oct 5 (thread 1a10bd7d500dfa97, IMPORTANT/INBOX): \"Today is your due date\" for account ending 842000. No dollar amount in the email; check the Amex app/portal. Says disregard if already paid. No payment confirmation mail seen since. Do not pay unless he asks. (as of ~Wed Oct 7, 8:30 AM ET) Update ~9:56 AM ET Mon Oct 12: Amex sent another \"payment is due\" reminder ~8:45 AM ET Sat Oct 11 (thread 1a12aff3c861a676, still no dollar amount) and \"Online Statement is Now Ready\" ~10:01 AM ET Sat Oct 11 (thread 1a12b44fac298f38). Amount still only in the Amex app/portal; no payment confirmation mail seen."
+      "title": "Amex *8420 — past due; card declined at Best Buy ~2:29 PM Mon (amount only in app)",
+      "body": "AmericanExpress@welcome.americanexpress.com ~7:34 AM ET Mon Oct 5 (thread 1a10bd7d500dfa97, IMPORTANT/INBOX): \"Today is your due date\" for account ending 842000. No dollar amount in the email; check the Amex app/portal. Says disregard if already paid. No payment confirmation mail seen since. Do not pay unless he asks. (as of ~Wed Oct 7, 8:30 AM ET) Update ~9:56 AM ET Mon Oct 12: Amex sent another \"payment is due\" reminder ~8:45 AM ET Sat Oct 11 (thread 1a12aff3c861a676, still no dollar amount) and \"Online Statement is Now Ready\" ~10:01 AM ET Sat Oct 11 (thread 1a12b44fac298f38). Amount still only in the Amex app/portal; no payment confirmation mail seen. Update ~2:29 PM ET Mon Oct 19: Amex \"Transaction Declined\" (thread 1a1556cec86c6363) — Best Buy Canada declined because the account is past due. Still no payment confirmation mail. Bills are Money's lane. (as of ~Mon Oct 19, 2:36 PM ET 2026)"
     },
     {
       "tag": "Call",
@@ -178,8 +178,13 @@
   "quiet": [
     {
       "tag": "Done",
-      "title": "tasks-board refresh ~Mon Oct 19, 2:26 PM ET 2026 — Reliance past-due repeat + Alo receipt from Nivetha; no watched-thread replies",
-      "body": "Since the 1:46 PM refresh: Reliance past-due notice ~2:06 PM ($168.18, already on waiting), Nivetha forwarded Alo Yoga receipt ~2:06 PM ($1,141.30, noted on her list), Wealthsimple newsletter ~2:11 PM (ignored). No watched-thread replies. Supabase tasks unchanged (only open item Nivetha Savings)."
+      "title": "tasks-board refresh ~Mon Oct 19, 2:36 PM ET 2026 — Amex decline (past due) + Best Buy receipt; no watched-thread replies",
+      "body": "Since the 2:26 PM refresh: Amex declined a Best Buy charge ~2:29 PM because the account is past due (Amex item on waiting updated); Best Buy receipt ~2:29 PM. No watched-thread replies. Supabase tasks unchanged (only open item Nivetha Savings)."
+    },
+    {
+      "tag": "Noted",
+      "title": "Best Buy Wilson Ave receipt ~2:28 PM ET Mon — PlayStation Portal $361.59",
+      "body": "noreply@e.bestbuy.ca (thread 1a1556cabcef7185): PlayStation Portal Remote Player (PS5), $319.99 + HST $41.60 = $361.59, paid $250.00 on Visa …8317 and $111.59 on Mastercard …0840 at Best Buy #927, 695 Wilson Ave, Toronto. Receipt usable for returns/exchanges. (as of ~Mon Oct 19, 2:36 PM ET 2026)"
     },
     {
       "tag": "Noted",
@@ -295,11 +300,6 @@
       "tag": "Noted",
       "title": "BMO savings bonus promo ~7:35 AM ET Thu — ignored",
       "body": "DoNotReply@e-news.bmo.com thread 1a13f58d683dd3e2. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Capital One statement ready ~7:30 AM ET Thu — $2,788.13, min $189 due Nov 9",
-      "body": "thread 1a13f5423bb8eca6. Waiting item updated. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
     }
   ]
 }
