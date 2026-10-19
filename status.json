@@ -1,7 +1,12 @@
 {
-  "updated": "Mon Oct 19, 2:36 PM ET",
-  "updated_iso": "2026-10-19T14:36:00-04:00",
+  "updated": "Mon Oct 19, 2:52 PM ET",
+  "updated_iso": "2026-10-19T14:52:00-04:00",
   "live": [
+    {
+      "tag": "This week",
+      "title": "DriveTest road test booked — Nicholas Fernando, Wed Oct 21 12:54 PM, Downsview",
+      "body": "no-reply@drivetest.ca ~2:48 PM ET Mon Oct 19 (thread 1a1557ec9ae1dd64): Class G road test Wed Oct 21 2026 12:54 PM at Toronto Downsview, Downsview Park, 37 Carl Hall Rd (use back entrance). Arrive 30 min early; cancel at least 48h before or the prepaid fee is lost. Calendar invite (.ics) attached to the email. (as of ~Mon Oct 19, 2:52 PM ET 2026)"
+    },
     {
       "tag": "In play",
       "title": "Nivetha’s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
@@ -178,8 +183,8 @@
   "quiet": [
     {
       "tag": "Done",
-      "title": "tasks-board refresh ~Mon Oct 19, 2:36 PM ET 2026 — Amex decline (past due) + Best Buy receipt; no watched-thread replies",
-      "body": "Since the 2:26 PM refresh: Amex declined a Best Buy charge ~2:29 PM because the account is past due (Amex item on waiting updated); Best Buy receipt ~2:29 PM. No watched-thread replies. Supabase tasks unchanged (only open item Nivetha Savings)."
+      "title": "tasks-board refresh ~Mon Oct 19, 2:52 PM ET 2026 — DriveTest booking for Nicholas Fernando; no watched-thread replies",
+      "body": "Since the 2:36 PM refresh: only new mail is the DriveTest booking confirmation ~2:48 PM (added to live). No watched-thread replies. Supabase tasks unchanged (only open item Nivetha Savings)."
     },
     {
       "tag": "Noted",
