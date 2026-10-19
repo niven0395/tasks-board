@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 19, 11:53 AM ET 2026",
-  "updated_iso": "2026-10-19T11:53:46-04:00",
+  "updated": "Mon Oct 19, 12:26 PM ET 2026",
+  "updated_iso": "2026-10-19T12:26:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -71,8 +71,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Capital One Mastercard …6851 — $94 minimum OVERDUE since Oct 13 (3 days); new statement $2,788.13, min $189.00 due Mon Nov 9",
-      "body": "Earlier reminders (threads 1a11cdad381b5596, 1a12722cef79bf00, 1a13161c54139344): balance $2,497.10, min $94.00, due Tue Oct 13 — no payment confirmation mail ever arrived. New statement ~7:30 AM ET Thu Oct 15 (thread 1a13f5423bb8eca6): statement balance $2,788.13, minimum $189.00, due Mon Nov 9, 2026. Pay now to cover the missed minimum unless Auto Pay is on. Money's lane; Money digest already pinged this morning — do not re-nag today. Still no payment confirmation in mail through Fri morning. (as of ~Fri Oct 16, 9:31 AM ET 2026)"
+      "title": "Capital One Mastercard …6851 — one payment behind (notice ~12:06 PM Mon); pay min $189 by Mon Nov 9",
+      "body": "capitalone@notification.capitalone.com ~12:06 PM ET Mon Oct 19 (thread 1a154e9b577738c3): \"You're one payment behind\" — total balance $2,788.13, minimum $189.00 due Mon Nov 9, 2026 to bring the account up to date; missed payments may hurt credit rating. Earlier $94 minimum due Tue Oct 13 never had a payment confirmation mail. Bills are Money's lane; already pinged — do not re-nag. (as of ~Mon Oct 19, 12:26 PM ET 2026)"
     },
     {
       "tag": "Pay",
@@ -178,8 +178,8 @@
   "quiet": [
     {
       "tag": "Done",
-      "title": "tasks-board refresh ~Mon Oct 19, 11:53 AM ET 2026 — no new mail since the 9:05 AM Scotia Visa balance; no watched-thread replies",
-      "body": "Only mail this morning: Scotia balances ~8:20 AM and Scotia Visa …729 $6,180.70 ~9:05 AM (both noted). Supabase tasks unchanged (only open item: Nivetha Savings). Physio booking call still on waiting with no booking mail yet. (as of ~Mon Oct 19, 11:53 AM ET 2026)"
+      "title": "tasks-board refresh ~Mon Oct 19, 12:26 PM ET 2026 — only new mail: Capital One one-payment-behind notice (~12:06 PM)",
+      "body": "Capital One item on waiting updated (min $189 by Nov 9). No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Supabase tasks unchanged (only open item: Nivetha Savings). (as of ~Mon Oct 19, 12:26 PM ET 2026)"
     },
     {
       "tag": "Noted",
