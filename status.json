@@ -1,6 +1,6 @@
 {
-  "updated": "Sun Oct 18, 10:07 PM ET 2026",
-  "updated_iso": "2026-10-18T22:07:00-04:00",
+  "updated": "Mon Oct 19, 8:31 AM ET 2026",
+  "updated_iso": "2026-10-19T08:31:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -51,8 +51,8 @@
     },
     {
       "tag": "Approve",
-      "title": "GitHub — Cursor app requesting updated permissions (~3:16 AM Tue)",
-      "body": "noreply@github.com ~3:16 AM ET Tue Oct 13 (thread 1a1341e91de3670f, UNREAD/UPDATES/INBOX): the GitHub App Cursor is requesting additional/updated access to your account. Review and approve or deny in GitHub if you want the new scopes. (as of ~Tue Oct 13, 9:52 PM ET 2026) Same request also emailed ~9:01 PM ET (thread 1a137edb90726840). Still needs approve/deny in GitHub."
+      "title": "GitHub — Cursor and Factory Droid apps requesting updated permissions",
+      "body": "noreply@github.com ~3:16 AM ET Tue Oct 13 (thread 1a1341e91de3670f, UNREAD/UPDATES/INBOX): the GitHub App Cursor is requesting additional/updated access to your account. Review and approve or deny in GitHub if you want the new scopes. (as of ~Tue Oct 13, 9:52 PM ET 2026) Same request also emailed ~9:01 PM ET (thread 1a137edb90726840). Still needs approve/deny in GitHub. New: the GitHub App Factory Droid also requested updated permissions ~11:29 PM ET Sun Oct 18 (thread 1a152351ffacc567). Approve or deny each in GitHub. (as of ~Mon Oct 19, 8:31 AM ET 2026)"
     },
     {
       "tag": "Do",
@@ -178,6 +178,21 @@
   "quiet": [
     {
       "tag": "Done",
+      "title": "tasks-board refresh ~Mon Oct 19, 8:31 AM ET 2026 — overnight mail was alerts and promos only; no watched-thread replies",
+      "body": "Since Sun 10:07 PM: Coinbase SOL price alert (ignored), GitHub Factory Droid permission request (added to waiting), Elexicon eBill ready (Money's lane), Scotia Visa …729 last-5 ~7:16 AM, Scotia balances ~8:20 AM. Supabase tasks unchanged (only open item: Nivetha Savings). Today on calendar: 9:00 Verifyle/Sandy, 9:10 Capital One $94, 9:30 Nivetha physio call."
+    },
+    {
+      "tag": "Noted",
+      "title": "Elexicon eBill ready — Money's lane",
+      "body": "CustomerCare@elexiconenergy.com (thread 1a153cc042437f1d): new eBill ready to view in the Elexicon portal; no amount in the email. Bill tracking is Money's job. (as of ~Mon Oct 19, 8:31 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia …7983 -$472.05 / …8382 $622.34 ~8:20 AM ET Mon",
+      "body": "infoalerts@scotiabank.com thread 1a1541b0f49aff1e. Unchanged since Fri. Visa …729 last-5 ~7:16 AM: Uber Eats $44.58, Disney+ $19.20, Netflix $27.11, Uber Direct $11.29, Shell $71.45 (thread 1a153e0d424feaa0). (as of ~Mon Oct 19, 8:31 AM ET 2026)"
+    },
+    {
+      "tag": "Done",
       "title": "tasks-board refresh ~Sun Oct 18, 9:44 PM ET 2026 — no new mail since the Kavsoft newsletter (~2:20 PM); no watched-thread replies",
       "body": "Weekend mail was promos, newsletters and routine Scotia alerts only. Supabase tasks unchanged (only open item: Nivetha Savings). Mon Oct 19 on calendar: 9:00 Verifyle/Sandy, 9:10 Capital One $94, 9:30 Nivetha physio call. Tue Oct 20 10:45 doctor appointment. (as of ~Sun Oct 18, 9:44 PM ET 2026)"
     },
@@ -285,21 +300,6 @@
       "tag": "Noted",
       "title": "Coinbase promo ~4:02 AM and SOL price alert ~10:53 PM Wed — ignored",
       "body": "threads 1a13e95821b831ea, 1a13d7abe814781a. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Uber trip receipt (Nivetha) $14.35 ~4:58 PM ET Wed",
-      "body": "Routine ride receipt; nothing needed."
-    },
-    {
-      "tag": "Action",
-      "title": "Schofield — Verifyle portal guide + secure Private Message from Sandy ~1:56–2:02 PM Wed",
-      "body": "sandy@schofieldcpa.ca \"Verifyle Info\" ~1:56 PM ET Wed Oct 14 (thread 1a13b92a8c427483) + donotreply@verifyle.com \"New Secure Message via Verifyle\" ~2:02 PM (thread 1a13b9463be100c1). Activate Verifyle once with nivensivarajah@gmail.com and open Sandy's Private Message. Full action on waiting. (as of ~Wed Oct 14, 2:50 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Apple App Store receipt ~2:43 PM ET Wed (Visa •••• 2031 Apple Pay)",
-      "body": "no_reply@email.apple.com ~2:43 PM ET Wed Oct 14 (thread 1a13bba533801eca, UNREAD): Order MNTL7T4YBX, Document 738204750655, App Store, billed Visa .... 2031 Apple Pay. Item line incomplete in plain text; not a board wait. (as of ~Wed Oct 14, 2:50 PM ET 2026)"
     }
   ]
 }
