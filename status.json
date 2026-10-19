@@ -1,6 +1,6 @@
 {
- "updated": "Mon Oct 19, 9:33 AM ET 2026",
- "updated_iso": "2026-10-19T09:33:00-04:00",
+ "updated": "Mon Oct 19, 9:35 AM ET 2026",
+ "updated_iso": "2026-10-19T09:35:00-04:00",
  "live": [
   {
    "tag": "In play",
@@ -183,6 +183,11 @@
   },
   {
    "tag": "Noted",
+   "title": "Scotia Visa …729 balance $6,180.70 ~9:05 AM ET Mon",
+   "body": "infoalerts@scotiabank.com (thread 1a1541b0f49aff1e). Watching only; bills are Money's lane. (as of ~Mon Oct 19, 9:35 AM ET 2026)"
+  },
+  {
+   "tag": "Noted",
    "title": "Elexicon eBill ready — Money's lane",
    "body": "CustomerCare@elexiconenergy.com (thread 1a153cc042437f1d): new eBill ready to view in the Elexicon portal; no amount in the email. Bill tracking is Money's job. (as of ~Mon Oct 19, 8:31 AM ET 2026)"
   },
@@ -295,11 +300,6 @@
    "tag": "Noted",
    "title": "Scotia card …729 last-5 ~7:17 AM ET Thu",
    "body": "thread 1a13f479b0376fb5. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
-  },
-  {
-   "tag": "Noted",
-   "title": "Coinbase promo ~4:02 AM and SOL price alert ~10:53 PM Wed — ignored",
-   "body": "threads 1a13e95821b831ea, 1a13d7abe814781a. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
   }
  ]
 }
