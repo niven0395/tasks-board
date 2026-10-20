@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 20, 10:03 AM ET",
-  "updated_iso": "2026-10-20T10:03:53-04:00",
+  "updated": "Tue Oct 20, 10:29 AM ET",
+  "updated_iso": "2026-10-20T10:29:53-04:00",
   "live": [
     {
       "tag": "Today",
@@ -188,8 +188,8 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 9:46 AM ET 2026 — no new mail since the 9:05 AM Scotia Visa balance alert; no watched-thread replies",
-      "body": "Email watch: nothing new needing Niven; Supabase tasks unchanged as of the 9:30 AM check (only Nivetha Savings). Today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail yet; Money's lane), 10:45 AM doctor."
+      "title": "tasks-board refresh ~Tue Oct 20, 10:29 AM ET 2026 — only new mail since the 9:05 AM Scotia Visa alert is a Clutch sell-offer promo; no watched-thread replies",
+      "body": "Email watch: nothing new needing Niven. Clutch ~10:03 AM ET (thread 1a1599f7191f726a) says the sell offer on the 2025 Elantra went up — marketing, not a door lead. Supabase tasks unchanged as of the 10:16 AM check (only Nivetha Savings). Today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail yet; Money's lane), 10:45 AM doctor coming up."
     },
     {
       "tag": "Noted",
