@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 20, 1:03 PM ET",
-  "updated_iso": "2026-10-20T13:03:58-04:00",
+  "updated": "Tue Oct 20, 1:31 PM ET",
+  "updated_iso": "2026-10-20T13:31:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -188,8 +188,8 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 12:45 PM ET 2026 — no new mail since the DriveTest road-test reminder (~12:02 PM); no watched-thread replies",
-      "body": "Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview), on the live item. BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings). Next on calendar: 2:00 PM call to Sandy's office."
+      "title": "tasks-board refresh ~Tue Oct 20, 1:31 PM ET 2026 — only routine Scotia and Google Maps mail since the DriveTest reminder (~12:02 PM); no watched-thread replies",
+      "body": "New since last refresh: Google Maps weekly contributions note ~12:55 PM (ignored) and Scotia last-five alerts ~1:19 PM (thread 1a15a53b7b5cfc22) for …7983 and …8382, watching only, Money's lane. Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview), on the live item. BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings). Next on calendar: 2:00 PM call to Sandy's office."
     },
     {
       "tag": "Noted",
