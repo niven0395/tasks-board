@@ -1,11 +1,11 @@
 {
-  "updated": "Tue Oct 20, 2:02 PM ET",
-  "updated_iso": "2026-10-20T14:02:13-04:00",
+  "updated": "Tue Oct 20, 2:31 PM ET",
+  "updated_iso": "2026-10-20T14:31:00-04:00",
   "live": [
     {
       "tag": "Today",
-      "title": "Tue Oct 20 — 10:45 AM doctor's appointment done; 2:00 PM 2-min call to Sandy's office (taxes)",
-      "body": "Calendar today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail; Money's lane); 10:45–11:45 AM \"Doctors appointment\"; 2:00–2:05 PM \"Taxes: 2-min call to Sandy's office\" (Schofield CPA 905-831-5335, ask what she needs to file 2024 and 2025); 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). 10:45–11:45 AM doctor block has passed. (as of ~Tue Oct 20, 11:53 AM ET 2026)"
+      "title": "Tue Oct 20 — doctor's appointment done; 2:00 PM call block to Sandy's office (taxes) has passed",
+      "body": "Calendar today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail; Money's lane); 10:45–11:45 AM \"Doctors appointment\"; 2:00–2:05 PM \"Taxes: 2-min call to Sandy's office\" (Schofield CPA 905-831-5335, ask what she needs to file 2024 and 2025); 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). 10:45–11:45 AM doctor block has passed. (as of ~Tue Oct 20, 11:53 AM ET 2026) Update: the 2:00–2:05 PM call block to Sandy's office has passed; no new mail from Sandy or Schofield CPA since. (as of ~Tue Oct 20, 2:31 PM ET 2026)"
     },
     {
       "tag": "This week",
@@ -188,8 +188,8 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 1:45 PM ET 2026 — no new mail since the Scotia last-five alerts (~1:19 PM); no watched-thread replies",
-      "body": "No new mail since the ~1:19 PM Scotia last-five alerts (thread 1a15a53b7b5cfc22, Money's lane). Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview), on the live item. BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings). Next on calendar: 2:00 PM call to Sandy's office."
+      "title": "tasks-board refresh ~Tue Oct 20, 2:31 PM ET 2026 — only a Scotia promo (~2:00 PM) since the last-five alerts; no watched-thread replies",
+      "body": "Only new mail since the ~1:19 PM Scotia last-five alerts is a Scotiabank marketing email ~2:00 PM ET (\"Introducing Scotia Fraud Alerts for Interac e-Transfers\", thread 1a15a797c0524b41), ignored. No reply from Sandy after the 2:00 PM call block. Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings)."
     },
     {
       "tag": "Noted",
