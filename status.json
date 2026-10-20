@@ -1,7 +1,12 @@
 {
-  "updated": "Mon Oct 19, 10:04 PM ET 2026",
-  "updated_iso": "2026-10-19T22:04:09-04:00",
+  "updated": "Tue Oct 20, 8:30 AM ET 2026",
+  "updated_iso": "2026-10-20T08:30:00-04:00",
   "live": [
+    {
+      "tag": "Today",
+      "title": "Tue Oct 20 — 9:20 AM pay Reliance + Amex block; 10:45 AM doctor's appointment",
+      "body": "Calendar today: 9:00 AM creatine reminder; 9:20–9:25 AM \"Pay Reliance $168.18 + Amex (5 min, apps)\"; 10:45–11:45 AM \"Doctors appointment\"; 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). (as of ~Tue Oct 20, 8:30 AM ET 2026)"
+    },
     {
       "tag": "This week",
       "title": "DriveTest road test booked — Nicholas Fernando, Wed Oct 21 12:54 PM, Downsview",
@@ -86,8 +91,8 @@
     },
     {
       "tag": "Top up",
-      "title": "Scotia chequing …7983 still overdrawn: -$472.05 at 8:20 AM Fri — …8382 now $622.34 after $500 Interac + $1,500 Visa payment",
-      "body": "Balance alerts ~8:20 AM ET Fri Oct 16 (thread 1a144a84cf2f5c29, UNREAD): …7983 -$472.05 (unchanged since Thu); …8382 $622.34 (was $2,622.34 Thu 8:20 AM). Drops explained in mail: $500 Interac sent ~5:01 PM Thu + $1,500 payment to Visa …729. New Visa …729 balance alert ~9:05 AM ET Fri: $5,944.58 (after the $1,500 payment). No Cap One/Enbridge/Elexicon/Reliance pay confirmations. (as of ~Fri Oct 16, 9:31 AM ET 2026) Update ~1:19 PM ET Fri (thread 1a145b9feab3a308): last-5 on …7983 shows WITHDRAWAL $55.00, CUST TRF DR $1,300, CUST TRF CR $1,300, WITHDRAWAL $55.00 — no new balance alert, so still treat …7983 as overdrawn. …8382 last-5: CUST TRF DR $1,500, WITHDRAWAL $500, PAYROLL $2,621.44, CUST TRF DR $1,701, DEPOSIT $168. (as of ~Fri Oct 16, 1:30 PM ET 2026)"
+      "title": "Scotia chequing …7983 still overdrawn: -$472.05 at 8:19 AM Tue — …8382 down to $288.45",
+      "body": "infoalerts@scotiabank.com ~8:19 AM ET Tue Oct 20 (thread 1a15940c54925c5a): …7983 balance -$472.05 (unchanged since Thu Oct 15); …8382 balance $288.45 (was $622.34 Mon). Move money into …7983 to clear the overdraft. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
     },
     {
       "tag": "Sign-in",
@@ -183,8 +188,18 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Mon Oct 19, 9:45 PM ET 2026 — no new mail since the 4:39 PM Microsoft sign-in alert; no watched-thread replies",
-      "body": "Email watch: nothing new needing Niven; Supabase tasks unchanged (only Nivetha Savings)."
+      "title": "tasks-board refresh ~Tue Oct 20, 8:30 AM ET 2026 — overnight mail: Scotia alerts + Supabase notice only; no watched-thread replies",
+      "body": "Email watch: nothing new needing Niven beyond the Scotia balance update on waiting; Supabase tasks unchanged (only Nivetha Savings)."
+    },
+    {
+      "tag": "Noted",
+      "title": "Supabase final notice ~2:24 AM ET Tue — new public tables need explicit grants from Oct 30",
+      "body": "noreply@supabase.com (thread 1a157fb389a51343): starting Oct 30, new tables in the \"public\" schema need explicit grants. Engineer's lane; no action from Niven. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Tue — McDonald's $4.08 new",
+      "body": "infoalerts@scotiabank.com (thread 1a159078e33eac46): McDonald's $4.08, Uber Eats $44.58, Disney+ $19.20, Netflix $27.11, Uber Direct $11.29. Watching only. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
     },
     {
       "tag": "Noted",
