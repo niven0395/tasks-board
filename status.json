@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 20, 2:37 PM ET 2026",
-  "updated_iso": "2026-10-20T14:37:08-04:00",
+  "updated": "Tue Oct 20, 2:48 PM ET 2026",
+  "updated_iso": "2026-10-20T14:48:58-04:00",
   "live": [
     {
       "tag": "Today",
@@ -188,8 +188,8 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 2:31 PM ET 2026 — only a Scotia promo (~2:00 PM) since the last-five alerts; no watched-thread replies",
-      "body": "Only new mail since the ~1:19 PM Scotia last-five alerts is a Scotiabank marketing email ~2:00 PM ET (\"Introducing Scotia Fraud Alerts for Interac e-Transfers\", thread 1a15a797c0524b41), ignored. No reply from Sandy after the 2:00 PM call block. Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings)."
+      "title": "tasks-board refresh ~Tue Oct 20, 2:48 PM ET 2026 — only a Hammam Spa promo (~2:30 PM) since the last refresh; no watched-thread replies",
+      "body": "Only new mail since the ~2:00 PM Scotiabank fraud-alerts promo is a Hammam Spa gift-card promo ~2:30 PM ET (thread 1a15a946d2a5ec16), ignored. Still no reply from Sandy after the 2:00 PM call block. Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings); companion_items empty."
     },
     {
       "tag": "Noted",
