@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Oct 20, 8:32 AM ET 2026",
-  "updated_iso": "2026-10-20T08:32:42-04:00",
+  "updated": "Tue Oct 20, 8:47 AM ET 2026",
+  "updated_iso": "2026-10-20T08:47:08-04:00",
   "live": [
     {
       "tag": "Today",
@@ -188,8 +188,8 @@
   "quiet": [
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 8:30 AM ET 2026 — overnight mail: Scotia alerts + Supabase notice only; no watched-thread replies",
-      "body": "Email watch: nothing new needing Niven beyond the Scotia balance update on waiting; Supabase tasks unchanged (only Nivetha Savings)."
+      "title": "tasks-board refresh ~Tue Oct 20, 8:47 AM ET 2026 — no new mail since the 8:19 AM Scotia balance alerts; no watched-thread replies",
+      "body": "Email watch: nothing new needing Niven; Supabase tasks unchanged (only Nivetha Savings). Today: 9:20 AM Reliance + Amex pay block, 10:45 AM doctor."
     },
     {
       "tag": "Noted",
