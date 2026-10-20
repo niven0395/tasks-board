@@ -1,11 +1,11 @@
 {
   "updated": "Tue Oct 20, 11:33 AM ET",
-  "updated_iso": "2026-10-20T11:33:14-04:00",
+  "updated_iso": "2026-10-20T11:33:25-04:00",
   "live": [
     {
       "tag": "Today",
-      "title": "Tue Oct 20 — 9:20 AM pay Reliance + Amex block; 10:45 AM doctor's appointment",
-      "body": "Calendar today: 9:00 AM creatine reminder; 9:20–9:25 AM \"Pay Reliance $168.18 + Amex (5 min, apps)\"; 10:45–11:45 AM \"Doctors appointment\"; 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). (as of ~Tue Oct 20, 8:30 AM ET 2026)"
+      "title": "Tue Oct 20 — 10:45 AM doctor's appointment; 2:00 PM 2-min call to Sandy's office (taxes)",
+      "body": "Calendar today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail; Money's lane); 10:45–11:45 AM \"Doctors appointment\"; 2:00–2:05 PM \"Taxes: 2-min call to Sandy's office\" (Schofield CPA 905-831-5335, ask what she needs to file 2024 and 2025); 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). (as of ~Tue Oct 20, 11:33 AM ET 2026)"
     },
     {
       "tag": "This week",
@@ -189,7 +189,7 @@
     {
       "tag": "Refresh",
       "title": "tasks-board refresh ~Tue Oct 20, 11:33 AM ET 2026 — no new mail since the 10:03 AM Clutch promo; no watched-thread replies",
-      "body": "Email watch: nothing new needing Niven. Supabase tasks unchanged as of the 11:14 AM check (only Nivetha Savings). Today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail yet; Money's lane); 10:45–11:45 AM doctor's appointment in progress."
+      "body": "Email watch: nothing new needing Niven. Supabase tasks unchanged (only Nivetha Savings). Next on calendar: 2:00 PM call to Sandy's office."
     },
     {
       "tag": "Noted",
@@ -260,71 +260,6 @@
       "tag": "Noted",
       "title": "Scotia Visa …729 balance $5,944.58 ~9:05 AM ET Fri",
       "body": "infoalerts@scotiabank.com (thread 1a144a84cf2f5c29): account 4537*****729**** balance $5944.58 at ~9:05 AM ET Fri Oct 16 (after $1,500 payment from …8382 seen in last-five ~7:16 AM). (as of ~Fri Oct 16, 9:31 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 last-5 ~7:16 AM ET Fri — $1,500 payment from …8382",
-      "body": "infoalerts@scotiabank.com (thread 1a1446d76a46c851): PAYMENT FROM …8382 -$1,500.00, Apple.com/bill $20.33, Tim Hortons $3.66, Amazon.ca $11.28, Starbucks. (as of ~Fri Oct 16, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia …7983 -$472.05 / …8382 $622.34 ~8:20 AM ET Fri",
-      "body": "infoalerts@scotiabank.com thread 1a144a84cf2f5c29. Overdraft item on waiting updated. (as of ~Fri Oct 16, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "LinkedIn — GTA puzzle promo ~8:34 PM ET Thu — ignored",
-      "body": "messages-noreply@linkedin.com ~8:34 PM ET Thu Oct 15 (thread 1a14221c81f05db4, UNREAD/SOCIAL): GTA-coded puzzle games promo. No action. (as of ~Thu Oct 15, 8:49 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Interac e-Transfer $500 sent from …8382 ~5:01 PM ET Thu",
-      "body": "infoalerts@scotiabank.com ~5:01 PM ET Thu Oct 15 (thread 1a1415e9b9cf4d18, UNREAD/UPDATES/INBOX): Interac e-Transfer for $500.00 was sent using account *****37*8382. If it was not him, call 1-800-472-6842. No new balance alert yet; …7983 last known -$472.05 (8:20 AM) still treated as overdrawn on waiting. No board wait beyond that. (as of ~Thu Oct 15, 5:25 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Shell EasyPay receipt ~4:29 PM ET Thu — ignored",
-      "body": "do-not-reply@shell.com ~4:29 PM ET Thu Oct 15 (thread 1a1414158777360a): Shell EasyPay receipt. Routine fuel receipt; no board wait. (as of ~Thu Oct 15, 4:33 PM ET 2026)"
-    },
-    {
-      "tag": "Log",
-      "title": "email-watch ~4:07 PM ET Thu — no new mail since 2:07pm Reliance; stayed silent",
-      "body": "No watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield)."
-    },
-    {
-      "tag": "Noted",
-      "title": "email-watch ~11:01 AM ET Thu — LinkedIn social + BMO stmt already on waiting; stayed silent",
-      "body": "Since ~10:58 AM ET Thu board: new mail is LinkedIn \"You appeared in recent searches\" ~10:36 AM (thread 1a13ffe44fcf4570) — social/marketing, ignored. BMO Credit Card *8298 e-Statement ~10:36 AM (thread 1a13ffdf60c4b0bf, $3,268.91 / $50 min due Nov 9) already on waiting from 10:58 refresh. No Cap One/Enbridge payment confirmations; Cap One $94 still 2 days overdue and Enbridge $45.74 1 day overdue (Money already pinged — do not re-nag). Supabase incomplete still only Nivetha Savings (26025967); companion_items empty. No new watched-thread replies (Walid, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield). Stayed silent. (as of ~Thu Oct 15, 11:03 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "LinkedIn recent-searches ~10:36 AM ET Thu — ignored",
-      "body": "notifications-noreply@linkedin.com ~10:36 AM ET Thu Oct 15 (thread 1a13ffe44fcf4570): \"You appeared in recent searches\" — social notification. No board wait. (as of ~Thu Oct 15, 11:03 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "BMO invest promo ~10:17 AM ET Thu — ignored",
-      "body": "DoNotReply@e-news.bmo.com ~10:17 AM ET Thu Oct 15 (thread 1a13fedfd68c8d03): \"Spend less on fees. Get rewarded for starting\" — commission-free stocks/ETFs promo. No board wait. (as of ~Thu Oct 15, 10:35 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $7,424.25 ~9:05 AM ET Thu",
-      "body": "infoalerts@scotiabank.com ~9:05 AM ET Thu Oct 15 (thread 1a13f8147e2f70aa): balance on 4537*****729 is $7,424.25 (was $7,420.59 Wed). Watching only; Money digest already noted. (as of ~Thu Oct 15, 10:02 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia …7983 -$472.05 / …8382 $2,622.34 ~8:20 AM ET Thu",
-      "body": "infoalerts@scotiabank.com thread 1a13f8147e2f70aa. Overdraft item on waiting updated. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "DriveTest road test reminder — Bennett Fri Oct 16 8:57 AM ~8:03 AM ET Thu",
-      "body": "no-reply@drivetest.ca thread 1a13f71f6bd84eeb (sent twice). Already on live. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "BMO savings bonus promo ~7:35 AM ET Thu — ignored",
-      "body": "DoNotReply@e-news.bmo.com thread 1a13f58d683dd3e2. (as of ~Thu Oct 15, 8:33 AM ET 2026)"
     }
   ]
 }
