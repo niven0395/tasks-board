@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 21, 1:03 PM ET",
-  "updated_iso": "2026-10-21T13:03:00-04:00",
+  "updated": "Wed Oct 21, 1:33 PM ET",
+  "updated_iso": "2026-10-21T13:33:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -111,8 +111,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Reliance — past-due notice: $168.18 owing (acct 200002298957; fresh notice ~2:06 PM Mon)",
-      "body": "noreply@reliancecomfort.com ~2:07 PM ET Thu Oct 15 (thread 1a140bf1cca0fcd9, UNREAD/UPDATES): \"Despite our previous reminders\" account 200002298957 remains unpaid, outstanding $168.18 (was $167.35 on Wed Oct 7, thread 1a1175192b94d7e1). Do not pay unless he asks. (as of ~Fri Oct 16, 9:31 AM ET 2026) Update ~2:06 PM ET Mon Oct 19 (thread 1a1555853ccf7798): another past-due notice, still $168.18 owing despite previous reminders. Bills are Money's lane; do not re-nag. (as of ~Mon Oct 19, 2:26 PM ET 2026)"
+      "title": "Reliance — past-due notice: $168.18 owing (acct 200002298957; another notice ~1:09 PM Wed)",
+      "body": "noreply@reliancecomfort.com ~2:07 PM ET Thu Oct 15 (thread 1a140bf1cca0fcd9, UNREAD/UPDATES): \"Despite our previous reminders\" account 200002298957 remains unpaid, outstanding $168.18 (was $167.35 on Wed Oct 7, thread 1a1175192b94d7e1). Do not pay unless he asks. (as of ~Fri Oct 16, 9:31 AM ET 2026) Update ~2:06 PM ET Mon Oct 19 (thread 1a1555853ccf7798): another past-due notice, still $168.18 owing despite previous reminders. Bills are Money's lane; do not re-nag. (as of ~Mon Oct 19, 2:26 PM ET 2026) Update: noreply@reliancecomfort.com ~1:09 PM ET Wed Oct 21 (thread 1a15f7066faa666d): \"Despite our previous reminders\" account 200002298957 still unpaid, $168.18. Money's lane. (as of ~Wed Oct 21, 1:33 PM ET 2026)"
     },
     {
       "tag": "Pay",
@@ -182,6 +182,11 @@
   ],
   "quiet": [
     {
+      "tag": "Refresh",
+      "title": "tasks-board refresh ~Wed Oct 21, 1:33 PM ET 2026 — new mail: Reliance past-due reminder (1:09 PM) + Scotia last-five alerts (1:20 PM); no watched-thread replies",
+      "body": "Reliance $168.18 already on waiting (Money's lane, not pinged). Scotia last-five on …8382 and …7983 routine. No replies from Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield. (as of ~Wed Oct 21, 1:33 PM ET 2026)"
+    },
+    {
       "tag": "Noted",
       "title": "BMO card *8298 — $500.00 payment posted ~2:43 AM ET Wed (covers the $17 overdue)",
       "body": "bmoalerts@bmo.com (thread 1a15d3369cb44a26): payment of $500.00 on credit card ending 8298. That covers the $17 past-due and the $50 minimum due Nov 9 on the $3,268.91 statement. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
@@ -190,11 +195,6 @@
       "tag": "Noted",
       "title": "Scotia Visa …729 last-5 ~7:17 AM ET Wed — Shoppers $18.07, Happy Cannasseur $15.24, PlayStation $11.37",
       "body": "infoalerts@scotiabank.com (thread 1a15e2dee8bc0529): Shoppers Drug Mart $18.07, The Happy Cannasseur $15.24, PlayStation $11.37, McDonald's $3.98, Cineplex $4.89. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Refresh",
-      "title": "tasks-board refresh ~Wed Oct 21, 12:52 PM ET 2026 — only new mail was a BMO LOC *457 e-statement notice (11:54 AM); no new waiting items",
-      "body": "Routine refresh. No watched-thread replies (per 12:43 PM check); BMO LOC e-statement notice has no amount (Money's lane). Supabase tasks unchanged (only Nivetha Savings open). Nicholas Fernando's G road test is at 12:54 PM today at Downsview. (as of ~Wed Oct 21, 12:52 PM ET 2026)"
     },
     {
       "tag": "Noted",
