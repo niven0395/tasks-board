@@ -1,15 +1,15 @@
 {
-  "updated": "Tue Oct 20, 10:00 PM ET",
-  "updated_iso": "2026-10-20T22:00:00-04:00",
+  "updated": "Wed Oct 21, 8:35 AM ET",
+  "updated_iso": "2026-10-21T08:35:00-04:00",
   "live": [
     {
       "tag": "Today",
-      "title": "Tue Oct 20 — doctor's appointment done; 2:00 PM call block to Sandy's office (taxes) has passed",
-      "body": "Calendar today: 9:20 AM Reliance + Amex pay block passed (no payment confirmation mail; Money's lane); 10:45–11:45 AM \"Doctors appointment\"; 2:00–2:05 PM \"Taxes: 2-min call to Sandy's office\" (Schofield CPA 905-831-5335, ask what she needs to file 2024 and 2025); 9:15 PM Apple Watch charge. Nicholas Fernando's DriveTest road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). 10:45–11:45 AM doctor block has passed. (as of ~Tue Oct 20, 11:53 AM ET 2026) Update: the 2:00–2:05 PM call block to Sandy's office has passed; no new mail from Sandy or Schofield CPA since. (as of ~Tue Oct 20, 2:31 PM ET 2026)"
+      "title": "Wed Oct 21 — Nicholas Fernando's G road test 12:54 PM at Downsview (arrive ~12:24 PM)",
+      "body": "Calendar today: 9:00 AM creatine; 12:54 PM DriveTest G road test for Nicholas Fernando at Downsview Park, 37 Carl Hall Rd (back entrance); 9:15 PM Apple Watch charge. Overdue-bill all-day markers still on the calendar (Money's lane). Durham Endo is next Tue Oct 27, 9:30 AM. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
     },
     {
       "tag": "This week",
-      "title": "DriveTest road test booked — Nicholas Fernando, Wed Oct 21 12:54 PM, Downsview",
+      "title": "DriveTest road test today — Nicholas Fernando, Wed Oct 21 12:54 PM, Downsview",
       "body": "no-reply@drivetest.ca ~2:48 PM ET Mon Oct 19 (thread 1a1557ec9ae1dd64): Class G road test Wed Oct 21 2026 12:54 PM at Toronto Downsview, Downsview Park, 37 Carl Hall Rd (use back entrance). Arrive 30 min early; cancel at least 48h before or the prepaid fee is lost. Calendar invite (.ics) attached to the email. (as of ~Mon Oct 19, 2:52 PM ET 2026) Update: DriveTest sent a \"Road Test Reminder\" ~12:02 PM ET Tue Oct 20 (thread 1a15a0ca960d040b, sent twice) confirming Wed Oct 21 12:54 PM, Class G. (as of ~Tue Oct 20, 12:30 PM ET 2026)"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
       "tag": "Top up",
-      "title": "Scotia chequing …7983 still overdrawn: -$472.05 at 8:19 AM Tue — …8382 down to $288.45",
-      "body": "infoalerts@scotiabank.com ~8:19 AM ET Tue Oct 20 (thread 1a15940c54925c5a): …7983 balance -$472.05 (unchanged since Thu Oct 15); …8382 balance $288.45 (was $622.34 Mon). Move money into …7983 to clear the overdraft. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
+      "title": "Scotia chequing …7983 overdrawn: -$605.91 (overdraft notice ~8:14 AM Wed) — …8382 down to $268.45",
+      "body": "infoalerts@scotiabank.com ~8:14 AM ET Wed Oct 21 (thread 1a15e627e097632d, IMPORTANT): Service Notice — insufficient funds, account …7983 overdrawn or over its limit. Balance alerts ~8:19 AM (thread 1a15e668a7d23bef): …7983 -$605.91 (was -$472.05 Tue), …8382 $268.45 (was $288.45). Move money into …7983 to clear the overdraft. Money's lane. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
     },
     {
       "tag": "Sign-in",
@@ -113,11 +113,6 @@
       "tag": "Pay",
       "title": "Reliance — past-due notice: $168.18 owing (acct 200002298957; fresh notice ~2:06 PM Mon)",
       "body": "noreply@reliancecomfort.com ~2:07 PM ET Thu Oct 15 (thread 1a140bf1cca0fcd9, UNREAD/UPDATES): \"Despite our previous reminders\" account 200002298957 remains unpaid, outstanding $168.18 (was $167.35 on Wed Oct 7, thread 1a1175192b94d7e1). Do not pay unless he asks. (as of ~Fri Oct 16, 9:31 AM ET 2026) Update ~2:06 PM ET Mon Oct 19 (thread 1a1555853ccf7798): another past-due notice, still $168.18 owing despite previous reminders. Bills are Money's lane; do not re-nag. (as of ~Mon Oct 19, 2:26 PM ET 2026)"
-    },
-    {
-      "tag": "Pay",
-      "title": "BMO Credit Card *8298 — $17 overdue several days on $3,268.91 (reminder ~1:07 PM Mon); new $50 min due Mon Nov 9",
-      "body": "New e-Statement ~10:36 AM ET Thu Oct 15 (thread 1a13ffdf60c4b0bf, UNREAD/UPDATES/INBOX): statement balance $3,268.91; minimum $50.00; due Nov 09, 2026; card ending 8298. Prior Sep 30 statement was $2,802.91 / $17 min due Oct 5 (thread 1a0f1460cd5c4985) — no payment confirmation mail for that either. If PAP is set up, no action per prior alert. Money's lane; do not re-nag today. (as of ~Thu Oct 15, 10:58 AM ET 2026) Update ~1:07 PM ET Fri Oct 16 (thread 1a145ae75ffa2672, UNREAD/IMPORTANT): BMO says the recent payment hasn't been received; $17.00 past due on a total balance of $3,268.91. Disregard if already paid (4–5 business days to reflect). Money's lane; bills already pinged this morning — do not re-nag today. (as of ~Fri Oct 16, 1:30 PM ET 2026) Update ~1:07 PM ET Mon Oct 19 (thread 1a15521927b216e3, UNREAD/IMPORTANT): BMO Account Management says card ending 8298 is overdue by several days — overdue $17.00, total $3,268.91; pay $17.00 today (BMO app/online, or 1-888-676-2269) or tell them it is already paid. Online payments take 3–4 days to reflect. (as of ~Mon Oct 19, 1:31 PM ET 2026)"
     },
     {
       "tag": "Pay",
@@ -187,9 +182,19 @@
   ],
   "quiet": [
     {
+      "tag": "Noted",
+      "title": "BMO card *8298 — $500.00 payment posted ~2:43 AM ET Wed (covers the $17 overdue)",
+      "body": "bmoalerts@bmo.com (thread 1a15d3369cb44a26): payment of $500.00 on credit card ending 8298. That covers the $17 past-due and the $50 minimum due Nov 9 on the $3,268.91 statement. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Wed — Shoppers $18.07, Happy Cannasseur $15.24, PlayStation $11.37",
+      "body": "infoalerts@scotiabank.com (thread 1a15e2dee8bc0529): Shoppers Drug Mart $18.07, The Happy Cannasseur $15.24, PlayStation $11.37, McDonald's $3.98, Cineplex $4.89. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
+    },
+    {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Tue Oct 20, 9:45 PM ET 2026 — no new mail since the Hammam Spa promo (~2:30 PM); no watched-thread replies",
-      "body": "Gmail checked ~9:45 PM ET (nivensivarajah@gmail.com): no mail in the last hour; nothing new since the Hammam Spa gift-card promo ~2:30 PM ET (ignored). Still no reply from Sandy after the 2:00 PM call block. Nicholas Fernando's road test is tomorrow (Wed Oct 21, 12:54 PM, Downsview). BMO …153 overdrawn by $476.34 is still on waiting. Supabase tasks unchanged (only Nivetha Savings)."
+      "title": "tasks-board refresh ~Wed Oct 21, 8:35 AM ET 2026 — overnight mail was bank alerts only; no watched-thread replies",
+      "body": "Gmail checked ~8:35 AM ET (nivensivarajah@gmail.com): since the Hammam Spa promo (~2:30 PM Tue), only BMO card payment, Scotia Visa last-5, Scotia overdraft notice and balance alerts. No reply from Sandy/Schofield, Walid/RBC, SBI, Durham Endo or the physio clinic. Supabase tasks unchanged (only Nivetha Savings)."
     },
     {
       "tag": "Noted",
@@ -200,11 +205,6 @@
       "tag": "Noted",
       "title": "Supabase final notice ~2:24 AM ET Tue — new public tables need explicit grants from Oct 30",
       "body": "noreply@supabase.com (thread 1a157fb389a51343): starting Oct 30, new tables in the \"public\" schema need explicit grants. Engineer's lane; no action from Niven. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Tue — McDonald's $4.08 new",
-      "body": "infoalerts@scotiabank.com (thread 1a159078e33eac46): McDonald's $4.08, Uber Eats $44.58, Disney+ $19.20, Netflix $27.11, Uber Direct $11.29. Watching only. (as of ~Tue Oct 20, 8:30 AM ET 2026)"
     },
     {
       "tag": "Noted",
@@ -225,11 +225,6 @@
       "tag": "Noted",
       "title": "Elexicon eBill ready — Money's lane",
       "body": "CustomerCare@elexiconenergy.com (thread 1a153cc042437f1d): new eBill ready to view in the Elexicon portal; no amount in the email. Bill tracking is Money's job. (as of ~Mon Oct 19, 8:31 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia …7983 -$472.05 / …8382 $622.34 ~8:20 AM ET Mon",
-      "body": "infoalerts@scotiabank.com thread 1a1541b0f49aff1e. Unchanged since Fri. Visa …729 last-5 ~7:16 AM: Uber Eats $44.58, Disney+ $19.20, Netflix $27.11, Uber Direct $11.29, Shell $71.45 (thread 1a153e0d424feaa0). (as of ~Mon Oct 19, 8:31 AM ET 2026)"
     },
     {
       "tag": "Done",
