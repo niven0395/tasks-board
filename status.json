@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 21, 11:08 AM ET",
-  "updated_iso": "2026-10-21T11:08:00-04:00",
+  "updated": "Wed Oct 21, 11:29 AM ET",
+  "updated_iso": "2026-10-21T11:29:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -193,8 +193,8 @@
     },
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Wed Oct 21, 10:50 AM ET 2026 — no new mail since 10:09 AM; no watched-thread replies",
-      "body": "Gmail rechecked ~10:47 AM ET (nivensivarajah@gmail.com): nothing new since the 10:09 AM check (only Era and Todoist promos this morning). No reply from Sandy/Schofield, Walid/RBC, SBI, Durham Endo or the physio clinic. Supabase tasks unchanged (only Nivetha Savings). Nicholas road test still 12:54 PM today."
+      "title": "tasks-board refresh ~Wed Oct 21, 11:29 AM ET 2026 — no new mail since the 9:42 AM era.app promo (per 11:08 AM check); nothing new waiting",
+      "body": "Routine refresh. No watched-thread replies; Supabase tasks unchanged (only Nivetha Savings open). (as of ~Wed Oct 21, 11:29 AM ET 2026)"
     },
     {
       "tag": "Noted",
