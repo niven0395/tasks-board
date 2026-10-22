@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 22, 9:01 AM ET",
-  "updated_iso": "2026-10-22T09:01:00-04:00",
+  "updated": "Thu Oct 22, 9:25 AM ET",
+  "updated_iso": "2026-10-22T09:25:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -178,8 +178,13 @@
     },
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Thu Oct 22, 8:52 AM ET 2026 — no new mail since the 8:20 AM alerts; Scotia …7983 still overdrawn; no watched-thread replies",
-      "body": "Overnight: Scotia balance alerts, Scotia Visa last-5 (Best Buy $250, Reliance Home Comfort $72.30, small coffee/Shoppers charges), a Shell EasyPay receipt, BMO Credit Coach update, Scene+ and Apple Developer promos. Only open Supabase task is still Nivetha Savings."
+      "title": "tasks-board refresh ~Thu Oct 22, 9:25 AM ET 2026 — only new mail is a Scotia Visa balance alert; Scotia …7983 still overdrawn; no watched-thread replies",
+      "body": "Since 8:20 AM: one Scotia Visa …729 balance alert (~9:05 AM). Overnight was Scotia balance alerts, Scotia Visa last-5, a Shell EasyPay receipt, BMO Credit Coach, Scene+ and Apple Developer promos. Only open Supabase task is still Nivetha Savings."
+    },
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 balance $6,567.86 ~9:05 AM ET Thu",
+      "body": "infoalerts@scotiabank.com (thread 1a1638e762268c38). Watching only; bills are Money's lane. (as of ~Thu Oct 22, 9:25 AM ET 2026)"
     },
     {
       "tag": "Noted",
@@ -190,11 +195,6 @@
       "tag": "Noted",
       "title": "Scotia Visa …729 last-5 ~7:17 AM ET Wed — Shoppers $18.07, Happy Cannasseur $15.24, PlayStation $11.37",
       "body": "infoalerts@scotiabank.com (thread 1a15e2dee8bc0529): Shoppers Drug Mart $18.07, The Happy Cannasseur $15.24, PlayStation $11.37, McDonald's $3.98, Cineplex $4.89. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $6,238.33 ~9:05 AM ET Wed",
-      "body": "infoalerts@scotiabank.com (thread 1a15e668a7d23bef). Watching only; bills are Money's lane. (as of ~Wed Oct 21, 9:33 AM ET 2026)"
     },
     {
       "tag": "Noted",
@@ -245,11 +245,6 @@
       "tag": "Noted",
       "title": "Gap Factory — 50% off + extra 10% Rewards promo ~10:04 AM ET Fri — ignored",
       "body": "gapfactory@email.gapfactory.ca ~10:04 AM ET Fri Oct 16 (thread 1a14525b28ecd367). Promo only. (as of ~Fri Oct 16, 10:56 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $5,944.58 ~9:05 AM ET Fri",
-      "body": "infoalerts@scotiabank.com (thread 1a144a84cf2f5c29): account 4537*****729**** balance $5944.58 at ~9:05 AM ET Fri Oct 16 (after $1,500 payment from …8382 seen in last-five ~7:16 AM). (as of ~Fri Oct 16, 9:31 AM ET 2026)"
     }
   ]
 }
