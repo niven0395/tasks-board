@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 22, 4:27 PM ET 2026",
-  "updated_iso": "2026-10-22T16:27:00-04:00",
+  "updated": "Thu Oct 22, 4:31 PM ET 2026",
+  "updated_iso": "2026-10-22T16:31:09-04:00",
   "live": [
     {
       "tag": "In play",
@@ -71,8 +71,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Capital One Mastercard …6851 — one payment behind (notice ~12:06 PM Mon); pay min $189 by Mon Nov 9",
-      "body": "capitalone@notification.capitalone.com ~12:06 PM ET Mon Oct 19 (thread 1a154e9b577738c3): \"You're one payment behind\" — total balance $2,788.13, minimum $189.00 due Mon Nov 9, 2026 to bring the account up to date; missed payments may hurt credit rating. Earlier $94 minimum due Tue Oct 13 never had a payment confirmation mail. Bills are Money's lane; already pinged — do not re-nag. (as of ~Mon Oct 19, 12:26 PM ET 2026)"
+      "title": "Capital One Mastercard …6851 — enrolled in 3-month payment plan (Thu ~3:26 PM): $140 due Oct 27, Nov 27, Dec 27",
+      "body": "Card frozen during the plan; move any pre-authorized charges off it."
     },
     {
       "tag": "Pay",
