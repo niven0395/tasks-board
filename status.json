@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Oct 22, 4:31 PM ET 2026",
-  "updated_iso": "2026-10-22T16:31:09-04:00",
+  "updated": "Thu Oct 22, 4:51 PM ET 2026",
+  "updated_iso": "2026-10-22T16:51:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -178,13 +178,13 @@
     },
     {
       "tag": "Refresh",
-      "title": "tasks-board refresh ~Thu Oct 22, 4:27 PM ET 2026 — no watched-thread replies",
-      "body": "Only new mail since 3:26 PM is a Felix update (4:00 PM). Still no reply from Walid on the $1,500. Only open Supabase task is still Nivetha Savings. Durham Endo is Tue Oct 27 9:30 AM."
+      "title": "tasks-board refresh ~Thu Oct 22, 4:51 PM ET 2026 — no watched-thread replies; no new waiting items",
+      "body": "Only new mail since the last refresh was a Felix \"Welcome to Felix!\" onboarding email (~4:29 PM ET). No Walid reply yet on the $1,500 credit. (as of ~Thu Oct 22, 4:51 PM ET 2026)"
     },
     {
       "tag": "Noted",
       "title": "Felix — \"It's time to choose your treatment\" ~4:00 PM ET Thu",
-      "body": "hello@email.felixforyou.ca (thread 1a16533e06bf16f1): your practitioner will finalize your plan with you. Open Felix when you're ready to pick a treatment. (as of ~Thu Oct 22, 4:27 PM ET 2026)"
+      "body": "hello@email.felixforyou.ca (thread 1a16533e06bf16f1): your practitioner will finalize your plan with you. Open Felix when you're ready to pick a treatment. (as of ~Thu Oct 22, 4:27 PM ET 2026) Followed by \"Welcome to Felix!\" ~4:29 PM ET."
     },
     {
       "tag": "Noted",
@@ -243,8 +243,8 @@
     },
     {
       "tag": "Done",
-      "title": "tasks-board refresh ~Sun Oct 18, 9:44 PM ET 2026 — no new mail since the Kavsoft newsletter (~2:20 PM); no watched-thread replies",
-      "body": "Weekend mail was promos, newsletters and routine Scotia alerts only. Supabase tasks unchanged (only open item: Nivetha Savings). Mon Oct 19 on calendar: 9:00 Verifyle/Sandy, 9:10 Capital One $94, 9:30 Nivetha physio call. Tue Oct 20 10:45 doctor appointment. (as of ~Sun Oct 18, 9:44 PM ET 2026)"
+      "title": "tasks-board refresh ~Thu Oct 22, 4:51 PM ET 2026 — no watched-thread replies; no new waiting items",
+      "body": "Only new mail since the last refresh was a Felix \"Welcome to Felix!\" onboarding email (~4:29 PM ET). No Walid reply yet on the $1,500 credit. (as of ~Thu Oct 22, 4:51 PM ET 2026)"
     },
     {
       "tag": "Done",
@@ -258,8 +258,8 @@
     },
     {
       "tag": "Done",
-      "title": "tasks-board refresh ~Fri Oct 16, 9:30 PM ET 2026 — no new mail since the 3:34 PM physio reply; no watched-thread replies; bills already pinged",
-      "body": "Gmail checked (nivensivarajah@gmail.com, last 6h): only the Women's Health Physio reply ~3:34 PM ET, already on waiting. No replies on Walid/RBC, Scotia CD-2609-653, Allure, SKD, Pickering, SBI/Namita, Durham Endo, Schofield."
+      "title": "tasks-board refresh ~Thu Oct 22, 4:51 PM ET 2026 — no watched-thread replies; no new waiting items",
+      "body": "Only new mail since the last refresh was a Felix \"Welcome to Felix!\" onboarding email (~4:29 PM ET). No Walid reply yet on the $1,500 credit. (as of ~Thu Oct 22, 4:51 PM ET 2026)"
     },
     {
       "tag": "Noted",
