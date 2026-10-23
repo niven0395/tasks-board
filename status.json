@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Oct 23, 11:29 AM ET",
-  "updated_iso": "2026-10-23T11:29:12-04:00",
+  "updated": "Fri Oct 23, 11:47 AM ET",
+  "updated_iso": "2026-10-23T11:47:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -175,6 +175,11 @@
       "tag": "done",
       "title": "Nicholas Fernando's G road test — Wed Oct 21 12:54 PM at Downsview (time passed; no result mail yet)",
       "body": "Moved from live after the test time."
+    },
+    {
+      "tag": "Noted",
+      "title": "MyChart PIN request SRQ-262908 closed ~11:36 AM ET Fri",
+      "body": "support@mychart.ca (thread 1a16967db5489a6e): MyChart Support called on Oct 16 and didn't hear back, so they closed the PIN request. Open a new request if you still need the MyChart PIN. (as of ~Fri Oct 23, 11:47 AM ET 2026)"
     },
     {
       "tag": "Refresh",
