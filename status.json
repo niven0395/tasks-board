@@ -1,12 +1,7 @@
 {
-  "updated": "Sat Oct 24, 2:04 PM ET",
-  "updated_iso": "2026-10-24T14:04:16-04:00",
+  "updated": "Sat Oct 24, 2:26 PM ET",
+  "updated_iso": "2026-10-24T14:26:00-04:00",
   "live": [
-    {
-      "tag": "Today",
-      "title": "DriveTest G2 road test \u2014 Diluxshana Anton, today Sat Oct 24 2:04 PM",
-      "body": "Toronto Port Union, 91 Rylander Blvd Unit 109A (Abbey Lane Shopping Centre). Conf 7386974. Arrive 30 min early. Booked ~5:49 PM Fri."
-    },
     {
       "tag": "In play",
       "title": "Nivetha\u2019s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
@@ -176,6 +171,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "done",
+      "title": "Diluxshana Anton's G2 road test \u2014 Sat Oct 24 2:04 PM at Toronto Port Union (time passed; no result mail yet)",
+      "body": "Moved from live after the test time. Conf 7386974. (as of ~Sat Oct 24, 2:26 PM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia Visa \u2026729 balance $6,900.90 ~9:05 AM ET Sat",
