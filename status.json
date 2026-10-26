@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 26, 1:05 PM ET",
-  "updated_iso": "2026-10-26T13:05:35-04:00",
+  "updated": "Mon Oct 26, 1:28 PM ET",
+  "updated_iso": "2026-10-26T13:28:51-04:00",
   "live": [
     {
       "tag": "In play",
@@ -171,6 +171,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia last-5 ~1:21 PM ET Mon — *8382 $250 withdrawal; *7983 $600 withdrawal after $1,000 transfer in",
+      "body": "infoalerts@scotiabank.com (thread 1a1793b70e8caecf): *8382 last 5: withdrawal $250.00, withdrawal $55.00, deposit $200.00, withdrawals $21.00 and $20.00. *7983 last 5: withdrawal $600.00, customer transfer in $1,000.00, RTD CHQ NSF $110.19, misc payment $110.19, withdrawal $55.00. Money's lane; watching. (as of ~Mon Oct 26, 1:29 PM ET 2026)"
+    },
     {
       "tag": "done",
       "title": "Diluxshana Anton's G2 road test — Sat Oct 24 2:04 PM at Toronto Port Union (time passed; no result mail yet)",
