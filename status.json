@@ -1,6 +1,6 @@
 {
-  "updated": "Oct 27, 2026, 12:04 PM ET",
-  "updated_iso": "2026-10-27T12:04:33-04:00",
+  "updated": "Oct 27, 2026, 12:29 PM ET",
+  "updated_iso": "2026-10-27T12:29:07-04:00",
   "live": [
     {
       "tag": "In play",
@@ -39,6 +39,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Security",
+      "title": "Google blocked a sign-in using your Gmail password (~11:35 AM ET) — change password",
+      "body": "no-reply@accounts.google.com ~11:35 AM ET Tue Oct 27 (thread 1a17e1c49deae328, UNREAD): someone used your password to try to sign in to nivensivarajah@gmail.com; Google blocked it. Check recent security activity at myaccount.google.com (go there directly, not via the email link), change the password, and confirm 2-Step Verification is on. (as of ~Tue Oct 27, 12:30 PM ET 2026)"
+    },
     {
       "tag": "Reply",
       "title": "RBC $1,500 cashback: did your first mortgage payment come out of an RBC account?",
