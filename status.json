@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Oct 26, 10:02 PM ET",
-  "updated_iso": "2026-10-26T22:02:32-04:00",
+  "updated": "Tue Oct 27, 8:35 AM ET",
+  "updated_iso": "2026-10-27T08:35:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -9,7 +9,7 @@
     },
     {
       "tag": "Dental",
-      "title": "Durham Endo Oct 27 9:30 AM: forms submitted; $181.60 Allure credit",
+      "title": "Durham Endo TODAY 9:30 AM (Ajax, Dr. Bellamy): forms submitted; $181.60 Allure credit",
       "body": "Durham Endodontics: appointment with Dr. Bellamy Tue Oct 27 2026 9:30 AM at One Healthcare, 300 Rossland Rd East, Suite 309, Ajax (905-239-7664). Niven confirmed ~9:41 AM ET Sat Oct 11 that he finished and submitted the registration forms; no new link needed. 48h cancel policy. Heads-up reminder set for Oct 22. Allure: $181.60 credit on account toward treatment after the endo path (thread 1a0a69c92af6b4c5). (as of ~Tue Oct 13, 8:45 AM ET 2026)"
     },
     {
@@ -176,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Tue — disputed charge reversed $692.12 credit; $1,000 cash advance to *7983",
+      "body": "infoalerts@scotiabank.com (thread 1a17d13ebfe712ab): interest adjustment -$64.56, CR disputed tx reversed -$692.12, cash advance fee $10.00, cash advance to *7983 $1,000.00. Balances ~8:20 AM: *8382 $142.45, *7983 -$110.72 (unchanged). Money's lane; watching. Capital One plan payment $140 due today. (as of ~Tue Oct 27, 8:35 AM ET 2026)"
+    },
     {
       "tag": "Watching",
       "title": "Cloudflare — Tunnel upgrade to 2026.10.2+ recommended",
