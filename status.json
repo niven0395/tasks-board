@@ -1,6 +1,6 @@
 {
-  "updated": "Oct 28, 9:05 AM ET",
-  "updated_iso": "2026-10-28T09:05:00-04:00",
+  "updated": "Oct 28, 9:31 AM ET",
+  "updated_iso": "2026-10-28T09:31:00-04:00",
   "live": [
     {
       "tag": "In play",
@@ -181,6 +181,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 balance $7,460.18 ~9:05 AM ET Wed",
+      "body": "infoalerts@scotiabank.com (thread 1a18274345108414): up from $7,307.28 on Tue. Chequing *8382 $142.45 and *7983 -$110.72 at 8:20 AM. Money's lane; watching. (as of ~Wed Oct 28, 9:31 AM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia Visa …729 last-5 ~7:16 AM ET Wed — Walmart $67.77, Amazon $56.49, Staples $3.92 and $2.76",
