@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Oct 28, 2:26 PM ET",
-  "updated_iso": "2026-10-28T14:26:54-04:00",
+  "updated": "Wed Oct 28, 2:32 PM ET",
+  "updated_iso": "2026-10-28T14:32:03-04:00",
   "live": [
     {
       "tag": "In play",
@@ -39,11 +39,6 @@
     }
   ],
   "waiting": [
-    {
-      "tag": "Pay",
-      "title": "American Express …842000 past due — new spending on hold until paid; you enrolled in Amex Electronic Payment (~8:51 AM); payment still to make",
-      "body": "AmericanExpress@welcome.americanexpress.com ~8:18 AM ET Wed Oct 28 (thread 1a182722a6db5bab, UNREAD/IMPORTANT): \"important credit reporting alert\" — your account is past due; please take action right away. Sign in to Amex directly (not via the email link) to see the amount and pay. Do not pay unless he asks. (as of ~Wed Oct 28, 8:30 AM ET 2026) Update ~8:51 AM ET Wed Oct 28 (thread 1a18291339142082): you enrolled card …842000 in the Amex Electronic Payment Program, linked to Scotia chequing …8382 (balance $142.45 at 8:20 AM). Amex says payments right after enrollment may not process until registration finishes; same-day payments must be requested before 8 PM ET. No payment confirmation yet. (as of ~Wed Oct 28, 9:05 AM ET 2026) Update ~11:16 AM ET Wed Oct 28 (thread 1a18315202a1866e, UNREAD/IMPORTANT): Amex \"Payment required for uninterrupted spending\" — account ending 42000 is now past due, so new spending may be interrupted until a payment is made. Still no payment confirmation. (as of ~Wed Oct 28, 11:26 AM ET 2026) Note ~1:19 PM ET: two insurance debits ($1,314.90 + $167.40) hit the linked Scotia *8382 per last-5 alert. Still no payment confirmation. (as of ~Wed Oct 28, 1:32 PM ET 2026)"
-    },
     {
       "tag": "Security",
       "title": "Google blocked a sign-in using your Gmail password (~11:35 AM ET) — change password",
@@ -181,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "done",
+      "title": "American Express …842000 past due — you said it’s paid (~2:12 PM ET Wed Oct 28)",
+      "body": "AmericanExpress@welcome.americanexpress.com ~8:18 AM ET Wed Oct 28 (thread 1a182722a6db5bab, UNREAD/IMPORTANT): \"important credit reporting alert\" — your account is past due; please take action right away. Sign in to Amex directly (not via the email link) to see the amount and pay. Do not pay unless he asks. (as of ~Wed Oct 28, 8:30 AM ET 2026) Update ~8:51 AM ET Wed Oct 28 (thread 1a18291339142082): you enrolled card …842000 in the Amex Electronic Payment Program, linked to Scotia chequing …8382 (balance $142.45 at 8:20 AM). Amex says payments right after enrollment may not process until registration finishes; same-day payments must be requested before 8 PM ET. No payment confirmation yet. (as of ~Wed Oct 28, 9:05 AM ET 2026) Update ~11:16 AM ET Wed Oct 28 (thread 1a18315202a1866e, UNREAD/IMPORTANT): Amex \"Payment required for uninterrupted spending\" — account ending 42000 is now past due, so new spending may be interrupted until a payment is made. Still no payment confirmation. (as of ~Wed Oct 28, 11:26 AM ET 2026) Note ~1:19 PM ET: two insurance debits ($1,314.90 + $167.40) hit the linked Scotia *8382 per last-5 alert. Still no payment confirmation. (as of ~Wed Oct 28, 1:32 PM ET 2026) Update ~2:12 PM ET Wed Oct 28: you said in chat the past-due Amex Cobalt is paid; no Amex confirmation email yet. (as of ~Wed Oct 28, 2:35 PM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia *8382 last-5 ~1:19 PM ET — two insurance debits $1,314.90 and $167.40",
