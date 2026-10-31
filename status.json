@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Oct 31, 1:29 PM ET",
-  "updated_iso": "2026-10-31T13:29:40-04:00",
+  "updated": "Sat Oct 31, 1:33 PM ET",
+  "updated_iso": "2026-10-31T13:33:00-04:00",
   "live": [
     {
       "tag": "Today",
@@ -176,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia last-5 ~1:19 PM ET Sat — *8382 shows $3,000 and $150 transfers out; *7983 unchanged",
+      "body": "infoalerts@scotiabank.com (thread 1a192f8d9d04142f): *8382 last 5: CUST TRF DR $3,000.00, CUST TRF DR $150.00, payroll $2,718.65, insurance $1,314.90, insurance $167.40. *7983 last 5 unchanged (NSF $110.19 still showing). Money's lane; watching. (as of ~Sat Oct 31, 1:33 PM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia Visa …729 balance $6,997.40 ~9:05 AM ET Sat (after the $3,000 payment from *8382)",
