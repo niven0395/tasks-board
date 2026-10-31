@@ -1,10 +1,10 @@
 {
-  "updated": "Fri Oct 30, 10:05 PM ET",
-  "updated_iso": "2026-10-30T22:05:24-04:00",
+  "updated": "Sat Oct 31, 8:26 AM ET",
+  "updated_iso": "2026-10-31T08:26:51-04:00",
   "live": [
     {
-      "tag": "Tomorrow",
-      "title": "Road tests Sat Oct 31 at Toronto Port Union — Amisha Pathmanathan G2 10:27 AM; Bennett Loganathan G 11:33 AM",
+      "tag": "Today",
+      "title": "Road tests today (Sat Oct 31) at Toronto Port Union — Amisha Pathmanathan G2 10:27 AM; Bennett Loganathan G 11:33 AM",
       "body": "no-reply@drivetest.ca booking confirmations ~7:52 PM and ~7:59 PM ET Fri Oct 30 (threads 1a18f3b011ef3d6f). Serco receipts: txn 19473998 (Visa …2031, Nivethanan Sivarajah) and txn 19474033 (MC …0021, Sivarajah kannappan). Nothing to do. (as of ~Fri Oct 30, 8:01 PM ET 2026)"
     },
     {
@@ -176,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia overnight ~7:16–8:20 AM ET Sat — $3,000 paid to Visa …729 from *8382 (now $1,193.40); *7983 still -$110.72",
+      "body": "infoalerts@scotiabank.com (threads 1a191ad41a4231cb, 1a191e7b4bbfd443): Visa …729 last 5: payment from *8382 -$3,000.00, IKEA North York $9.02, Cursor $31.80, Pioneer $75.40, Uber Eats $37.74. *8382 down from $4,193.40 to $1,193.40; *7983 unchanged at -$110.72. Todoist digest: 1 due, 10+ overdue. No watched-thread replies overnight. Money's lane; watching. (as of ~Sat Oct 31, 8:27 AM ET 2026)"
+    },
     {
       "tag": "Open",
       "title": "Schofield CPA — switching accountants for 2024/2025 returns",
