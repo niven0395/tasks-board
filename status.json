@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Nov 2, 3:07 PM ET",
-  "updated_iso": "2026-11-02T15:07:33-05:00",
+  "updated": "Mon Nov 2, 3:26 PM ET",
+  "updated_iso": "2026-11-02T15:26:23-05:00",
   "live": [
     {
       "tag": "In play",
@@ -161,6 +161,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Google Cloud invoice available ~2:51 PM ET Mon (account 01CCF9-063763-5E0639)",
+      "body": "payments-noreply@google.com (thread 1a19dd169d77e99b): monthly Google Cloud Platform & APIs invoice is available as a PDF. Nothing new from Walid, Allure, or other watched threads. Money's lane; watching. (as of ~Mon Nov 2, 3:26 PM ET 2026)"
+    },
     {
       "tag": "done",
       "title": "Elexicon paid $809.80 (+$14.17 fee, $823.97 total) via KUBRA EZ-Pay Sun Nov 1 ~9:19 PM ET, conf 07210Z",
