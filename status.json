@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Nov 2, 10:04 PM ET",
-  "updated_iso": "2026-11-02T22:04:14-05:00",
+  "updated": "Tue Nov 3, 8:23 AM ET",
+  "updated_iso": "2026-11-03T08:23:36-05:00",
   "live": [
     {
       "tag": "In play",
@@ -156,6 +156,16 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia overnight ~7:16–8:20 AM ET Tue — *8382 $918.58; *7983 -$110.72; Visa …729 new: Simons $18.08, Sephora $111.87, Arabica $16.27",
+      "body": "infoalerts@scotiabank.com (threads 1a1a191815fb691a, 1a1a15731c981369): *8382 down from $1,138.40 yesterday; *7983 unchanged at -$110.72. Todoist digest: 1 due, 10+ overdue. No watched-thread replies overnight. Money's lane; watching. (as of ~Tue Nov 3, 8:23 AM ET 2026)"
+    },
+    {
+      "tag": "Watching",
+      "title": "Google Developers — inactive OAuth clients subject to automatic deletion (~10:51 PM ET Mon)",
+      "body": "googledevelopers-noreply@google.com (thread 1a19f883d0cb9b4a): some of your Google Cloud projects have unused OAuth clients that Google may delete. Review in Google Cloud Console only if one is still in use. Engineer's lane; no nag. (as of ~Tue Nov 3, 8:23 AM ET 2026)"
+    },
     {
       "tag": "done",
       "title": "Amex Cobalt …842000 — $110.19 payment redone; shows on Amex",
