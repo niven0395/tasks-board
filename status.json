@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Nov 3, 1:32 PM ET 2026",
-  "updated_iso": "2026-11-03T13:32:08-05:00",
+  "updated": "Tue Nov 3, 1:34 PM ET 2026",
+  "updated_iso": "2026-11-03T13:34:18-05:00",
   "live": [
     {
       "tag": "Road test",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Bank",
+      "title": "Scotia last-5 ~1:20 PM ET Tue — *8382 shows Enbridge $109.63 and Amex $110.19 redo out; *7983 unchanged",
+      "body": "Routine alert; nothing new needed."
+    },
     {
       "tag": "Noted",
       "title": "Felix promo — cancer-signal screening (~11:35 AM ET Tue)",
@@ -360,31 +365,6 @@
       "tag": "Noted",
       "title": "Capital One — 3-month payment plan: $140 on Oct 27, Nov 27, Dec 27",
       "body": "Capital One email ~3:26 PM ET Thu Oct 22 (thread 1a16513e1cd1a285): enrolled in a 3-month plan, $140.00/month due Oct 27, Nov 27 and Dec 27, 2026. Card can't be used while on the plan; any pre-authorized charges on it must be moved or the plan can be cancelled. Collection calls should stop. Money's lane."
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia chequing *7983 — returned NSF item $110.19 in last-5 ~1:20 PM ET Thu",
-      "body": "infoalerts@scotiabank.com (thread 1a164a1070336fc6): last 5 on *7983 show RTD CHQ NSF $110.19, MISC PAYMENT $110.19, withdrawal $55.00, transfers $1,300 in/out. Balance was -$505.72 at 8:20 AM. Money's lane; watching. (as of ~Thu Oct 22, 1:30 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Interac e-Transfer $200.00 from Sayithan auto-deposited ~9:30 AM ET Thu",
-      "body": "notify@payments.interac.ca (thread 1a163cea565f0940): $200.00 from Sayithan Sivarajah, automatically deposited. Nothing to do. (as of ~Thu Oct 22, 9:50 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $6,567.86 ~9:05 AM ET Thu",
-      "body": "infoalerts@scotiabank.com (thread 1a1638e762268c38). Watching only; bills are Money's lane. (as of ~Thu Oct 22, 9:25 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "BMO card *8298 — $500.00 payment posted ~2:43 AM ET Wed (covers the $17 overdue)",
-      "body": "bmoalerts@bmo.com (thread 1a15d3369cb44a26): payment of $500.00 on credit card ending 8298. That covers the $17 past-due and the $50 minimum due Nov 9 on the $3,268.91 statement. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Wed — Shoppers $18.07, Happy Cannasseur $15.24, PlayStation $11.37",
-      "body": "infoalerts@scotiabank.com (thread 1a15e2dee8bc0529): Shoppers Drug Mart $18.07, The Happy Cannasseur $15.24, PlayStation $11.37, McDonald's $3.98, Cineplex $4.89. Watching only. (as of ~Wed Oct 21, 8:35 AM ET 2026)"
     }
   ]
 }
