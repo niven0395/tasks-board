@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Nov 3, 10:02 AM ET 2026",
-  "updated_iso": "2026-11-03T10:02:57-05:00",
+  "updated": "Tue Nov 3, 10:26 AM ET 2026",
+  "updated_iso": "2026-11-03T10:26:27-05:00",
   "live": [
     {
       "tag": "In play",
@@ -47,7 +47,7 @@
     {
       "tag": "Tap",
       "title": "Allure Dental — pre-confirm your appointment Tue Nov 17, 3:15 PM",
-      "body": "info@alluredental.ca ~9:36 AM ET Tue Nov 3 (thread 1a1a1d732ad560dd, UNREAD): asks you to pre-confirm via the link in the email. (as of ~Tue Nov 3, 9:49 AM ET 2026)"
+      "body": "info@alluredental.ca ~9:36 AM ET Tue Nov 3 (thread 1a1a1d732ad560dd): asks you to pre-confirm via the link in the email. (as of ~Tue Nov 3, 9:49 AM ET 2026)"
     },
     {
       "tag": "Security",
@@ -161,6 +161,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Clutch — updated offer on your 2025 Elantra (~10:04 AM ET Tue)",
+      "body": "hello@mailer.clutch.ca (thread 1a1a1f0fdbf001ad): promo saying the sale offer updated. No action needed unless you're selling. (as of ~Tue Nov 3, 10:27 AM ET)"
+    },
     {
       "tag": "Noted",
       "title": "Scotia Visa …729 balance $7,541.03 ~9:06 AM ET Tue",
