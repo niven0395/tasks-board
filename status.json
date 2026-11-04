@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 4, 3:28 PM ET",
-  "updated_iso": "2026-11-04T15:28:15-05:00",
+  "updated": "Nov 4, 3:35 PM ET",
+  "updated_iso": "2026-11-04T15:35:20-05:00",
   "live": [
     {
       "tag": "ADHD",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "security",
+      "title": "Notion — new-device login via Sign in with Google (~3:32 PM ET Wed)",
+      "body": "Google confirms you used Sign in with Google for Notion at 3:32 PM; no action unless it wasn't you."
+    },
     {
       "tag": "Road test",
       "title": "Roshauna Grannum-Robinson's G road test — Wed Nov 4 10:01 AM at Downsview (time passed; no result mail yet)",
