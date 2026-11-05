@@ -1,6 +1,6 @@
 {
   "updated": "Thu Nov 5, 1:31 PM ET",
-  "updated_iso": "2026-11-05T13:31:18-05:00",
+  "updated_iso": "2026-11-05T13:31:48-05:00",
   "live": [
     {
       "tag": "In play",
@@ -151,6 +151,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Job",
+      "title": "Scotiabank Director, AI Platform — not moving forward (~1:31 PM ET Thu)",
+      "body": "Recruitment email; no action needed."
+    },
     {
       "tag": "done",
       "title": "DONE: Allure Dental — pre-confirmed Tue Nov 17, 3:15 PM",
