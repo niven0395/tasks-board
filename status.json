@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 4, 7:08 PM ET",
-  "updated_iso": "2026-11-04T19:08:19-05:00",
+  "updated": "Nov 4, 7:29 PM ET",
+  "updated_iso": "2026-11-04T19:29:16-05:00",
   "live": [
     {
       "tag": "In play",
@@ -161,6 +161,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "money",
+      "title": "$500 Interac e-Transfer from Sivarajah Kannappan auto-deposited (~7:25 PM ET Wed)",
+      "body": "Auto-deposit confirmed by Interac; nothing to do."
+    },
     {
       "tag": "ADHD",
       "title": "Finding Focus: $199 last-minute ADHD assessment opening Wed Nov 4 (reg. $399)",
