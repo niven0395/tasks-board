@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Nov 5, 8:29 am ET",
-  "updated_iso": "2026-11-05T08:29:16-05:00",
+  "updated": "Thu Nov 5, 8:31 am ET",
+  "updated_iso": "2026-11-05T08:31:16-05:00",
   "live": [
     {
       "tag": "In play",
@@ -161,6 +161,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Noted",
+      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Thu — Allure Dental $1,090.00; $1,000 payment from *7983",
+      "body": "infoalerts@scotiabank.com (thread 1a1aba463fe38832): payment from *7983 -$1,000.00, Shoppers $18.07, Amazon $4.16, ALLUREDENTAL $1,090.00, Shell. Allure charge may be claimable through Manulife. Reliance eBill arrived ~8:00 AM (thread 1a1abcc2ebe52862; Money's lane). Balances ~8:20 AM: *8382 $1,418.58, *7983 $1,049.28. Todoist digest: 1 overdue. No watched-thread replies (CBM still silent). (as of ~Thu Nov 5, 8:35 AM ET 2026)"
+    },
     {
       "tag": "money",
       "title": "$500 Interac e-Transfer from Sivarajah Kannappan auto-deposited (~7:25 PM ET Wed)",
