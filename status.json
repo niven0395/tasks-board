@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Nov 5, 11:24 AM ET",
-  "updated_iso": "2026-11-05T11:24:59-05:00",
+  "updated": "Thu Nov 5, 11:25 AM ET",
+  "updated_iso": "2026-11-05T11:25:42-05:00",
   "live": [
     {
       "tag": "In play",
@@ -44,11 +44,6 @@
     }
   ],
   "waiting": [
-    {
-      "tag": "Tap",
-      "title": "Allure Dental — pre-confirm your appointment Tue Nov 17, 3:15 PM",
-      "body": "info@alluredental.ca ~9:36 AM ET Tue Nov 3 (thread 1a1a1d732ad560dd): asks you to pre-confirm via the link in the email. (as of ~Tue Nov 3, 9:49 AM ET 2026)"
-    },
     {
       "tag": "Security",
       "title": "Google blocked a sign-in using your Gmail password (~11:35 AM ET) — change password",
@@ -156,6 +151,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "done",
+      "title": "DONE: Allure Dental — pre-confirmed Tue Nov 17, 3:15 PM",
+      "body": "info@alluredental.ca ~9:36 AM ET Tue Nov 3 (thread 1a1a1d732ad560dd): asks you to pre-confirm via the link in the email. Live confirm page already shows pre-confirmed (myformsathome AppointmentConfirmation). Removed from waiting. (as of ~Thu Nov 5, 11:30 AM ET 2026)"
+    },
     {
       "tag": "Noted",
       "title": "Ajax winter recreation registration opens Nov 17 (~9:32 AM ET Thu)",
