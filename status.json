@@ -1,6 +1,6 @@
 {
-  "updated": "Thu Nov 5, 9:06 am ET",
-  "updated_iso": "2026-11-05T09:06:00-05:00",
+  "updated": "Thu Nov 5, 9:28 am ET",
+  "updated_iso": "2026-11-05T09:28:00-05:00",
   "live": [
     {
       "tag": "In play",
@@ -156,6 +156,16 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Bank",
+      "title": "Scotia Visa …729 balance $7,857.63 ~9:05 AM ET Thu",
+      "body": "infoalerts@scotiabank.com ~9:05 AM ET Thu Nov 5 (thread 1a1abde4883a5d37): Visa 4537*****729**** balance $7,857.63. Earlier last-5 (~7:17 AM) showed Allure Dental $1,090.00 and $1,000 payment from *7983. (as of ~Thu Nov 5, 9:28 AM ET 2026)"
+    },
+    {
+      "tag": "Bank",
+      "title": "$200 Interac e-Transfer from Sayithan Sivarajah auto-deposited (~9:01 AM ET Thu)",
+      "body": "notify@payments.interac.ca ~9:01 AM ET Thu Nov 5 (thread 1a1ac03961672ebe, UNREAD/IMPORTANT): $200.00 from SAYITHAN SIVARAJAH auto-deposited. (as of ~Thu Nov 5, 9:28 AM ET 2026)"
+    },
     {
       "tag": "Bank",
       "title": "Scotia balances ~8:20 AM ET Thu — *7983 $1,049.28 (overdraft cleared); *8382 $1,418.58",
