@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 10:48 AM ET",
-  "updated_iso": "2026-11-06T10:48:16-05:00",
+  "updated": "Fri Nov 6, 11:07 AM ET",
+  "updated_iso": "2026-11-06T11:07:55-05:00",
   "live": [
     {
       "tag": "In play",
@@ -158,13 +158,8 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 10:48 AM ET — no new actionable mail since ~9:15 AM Scotia …7983; no Allure crown / Walid Credit replies; Supabase still only Nivetha Savings; no Mac registered; Cap One min $189 due Nov 9 & Reliance $223.41 due Nov 19 unchanged — no re-nag",
-      "body": "Board push at Fri Nov 6, 10:48 AM ET. Inbox since last refresh: GitHub pages build failures for earlier commits (08a3917 / f38eea3), LinkedIn/promos only otherwise. Watched threads unchanged (Allure crown 1a19c807e627ddc4 ends at Nov 2 send; Walid Credit 1a164f24804f6a9e ends at Nov 2 \"calling shortly\"). Incomplete public.tasks: Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8) only. ListMachines: iPhone Air + iPad disconnected, no Mac."
-    },
-    {
-      "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 10:47 AM ET — no new actionable mail; watched threads still quiet",
-      "body": "Since ~10:29 AM: only GitHub pages failures (later succeeded) + already-noted Scotia …7983 low-balance. CBM/Allure crown/Walid/Scotia dispute/SKD/Pickering/SBI/Durham/Schofield: no new replies. Supabase still only incomplete Nivetha Savings."
+      "title": "tasks-board refresh ~Fri Nov 6, 11:07 AM ET — no new actionable mail since ~10:48 AM; GitHub pages fail notices only; watched threads still quiet",
+      "body": "Board push at Fri Nov 6, 11:07 AM ET. Inbox since last refresh (~10:48 AM): only GitHub pages build failure notifications (commits 08a3917 / f38eea3). Scotia …7983 low-balance and Visa …729 $8,145.83 already noted earlier today — no re-nag. Watched threads unchanged: Allure crown (1a19c807e627ddc4) still only Nov 2 send; Walid Credit (1a164f24804f6a9e) still ends at Nov 2 \"Calling you shortly\"; CBM silent; Scotia dispute / SKD / Pickering / SBI / Durham Endo / Schofield quiet. Incomplete public.tasks: Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8) only. Cap One min $189 due Nov 9 & Reliance $223.41 due Nov 19 unchanged — Money's lane."
     },
     {
       "tag": "Bank",
@@ -385,56 +380,6 @@
       "tag": "done",
       "title": "Durham Endo visit Oct 27 9:30 AM (Dr. Bellamy) — done; free 1-year recall Wed Oct 27, 2027 9:30 AM (on calendar)",
       "body": "refer@durhamendodontics.ca ~11:14 AM ET Tue Oct 27 (thread 1a17ded5b4c14930): complimentary 1-year follow-up booked Oct 27, 2027 at 9:30 AM, 300 Rossland Rd E Suite 309, Ajax; reschedule 905-239-7664. Added to Google Calendar. Allure: $181.60 credit on account toward treatment after the endo path (thread 1a0a69c92af6b4c5). (as of ~Tue Oct 27, 11:40 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $7,307.28 ~9:05 AM ET; RBC eStatement ready for chequing ****3533 ~9:06 AM ET",
-      "body": "infoalerts@scotiabank.com (thread 1a17d4e0ca582510): Visa …729 balance $7,307.28, up from $6,900.90 on Sat. ibanking@ib.rbc.com (thread 1a17d78a8558032d): eStatement available for Personal Banking ****3533 in RBC Online Banking. Money's lane; watching. (as of ~Tue Oct 27, 9:34 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Tue — disputed charge reversed $692.12 credit; $1,000 cash advance to *7983",
-      "body": "infoalerts@scotiabank.com (thread 1a17d13ebfe712ab): interest adjustment -$64.56, CR disputed tx reversed -$692.12, cash advance fee $10.00, cash advance to *7983 $1,000.00. Balances ~8:20 AM: *8382 $142.45, *7983 -$110.72 (unchanged). Money's lane; watching. Capital One plan payment $140 due today. (as of ~Tue Oct 27, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "Cloudflare — Tunnel upgrade to 2026.10.2+ recommended",
-      "body": "Cloudflare email ~3:04 PM ET Mon Oct 26 (thread 1a17999e296c0bf3): an account Tunnel should be upgraded to cloudflared 2026.10.2 or later. No deadline in the preview; handle when convenient. (as of ~Mon Oct 26, 3:25 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia last-5 ~1:21 PM ET Mon — *8382 $250 withdrawal; *7983 $600 withdrawal after $1,000 transfer in",
-      "body": "infoalerts@scotiabank.com (thread 1a1793b70e8caecf): *8382 last 5: withdrawal $250.00, withdrawal $55.00, deposit $200.00, withdrawals $21.00 and $20.00. *7983 last 5: withdrawal $600.00, customer transfer in $1,000.00, RTD CHQ NSF $110.19, misc payment $110.19, withdrawal $55.00. Money's lane; watching. (as of ~Mon Oct 26, 1:29 PM ET 2026)"
-    },
-    {
-      "tag": "done",
-      "title": "Diluxshana Anton's G2 road test — Sat Oct 24 2:04 PM at Toronto Port Union (time passed; no result mail yet)",
-      "body": "Moved from live after the test time. Conf 7386974. (as of ~Sat Oct 24, 2:26 PM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 balance $6,900.90 ~9:05 AM ET Sat",
-      "body": "infoalerts@scotiabank.com (thread 1a16ddb05b60226c): up from $6,567.86 on Thu. Watching only; bills are Money's lane. (as of ~Sat Oct 24, 9:25 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia *8382 — Interac e-Transfer $55.00 sent ~1:20 PM ET Fri",
-      "body": "infoalerts@scotiabank.com (thread 1a169c75964e2be5): $55.00 e-Transfer sent from *8382. Last 5 on *8382: deposit $200.00, withdrawals $21.00 and $20.00, dues/fees $33.89, bill payment $300.00. Money's lane; watching. (as of ~Fri Oct 23, 1:31 PM ET 2026)"
-    },
-    {
-      "tag": "done",
-      "title": "Nicholas Fernando's G road test — Wed Oct 21 12:54 PM at Downsview (time passed; no result mail yet)",
-      "body": "Moved from live after the test time."
-    },
-    {
-      "tag": "Noted",
-      "title": "MyChart PIN request SRQ-262908 closed ~11:36 AM ET Fri",
-      "body": "support@mychart.ca (thread 1a16967db5489a6e): MyChart Support called on Oct 16 and didn't hear back, so they closed the PIN request. Open a new request if you still need the MyChart PIN. (as of ~Fri Oct 23, 11:47 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Felix — \"It's time to choose your treatment\" ~4:00 PM ET Thu",
-      "body": "hello@email.felixforyou.ca (thread 1a16533e06bf16f1): your practitioner will finalize your plan with you. Open Felix when you're ready to pick a treatment. (as of ~Thu Oct 22, 4:27 PM ET 2026) Followed by \"Welcome to Felix!\" ~4:29 PM ET. Felix sent another \"Reminder: select your treatment today!\" ~4:03 PM ET Fri Oct 23 (thread 1a16a5c180141ce8). Felix marketing email \"Skin myths, debunked\" ~4:06 PM ET Mon Oct 26 (thread 1a179d2515e41e2c); promo only. Felix sent two more promos ~4:09 PM ET Wed Oct 28 (\"Something holding you back?\" thread 1a18421b8065c008; \"$20 off your visit\" code 20SAVE, thread 1a184276122acbe1); marketing only."
     }
   ]
 }
