@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 11:07 AM ET",
-  "updated_iso": "2026-11-06T11:07:55-05:00",
+  "updated": "Fri Nov 6, 11:29 AM ET",
+  "updated_iso": "2026-11-06T11:29:08-05:00",
   "live": [
     {
       "tag": "In play",
@@ -158,8 +158,8 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 11:07 AM ET — no new actionable mail since ~10:48 AM; GitHub pages fail notices only; watched threads still quiet",
-      "body": "Board push at Fri Nov 6, 11:07 AM ET. Inbox since last refresh (~10:48 AM): only GitHub pages build failure notifications (commits 08a3917 / f38eea3). Scotia …7983 low-balance and Visa …729 $8,145.83 already noted earlier today — no re-nag. Watched threads unchanged: Allure crown (1a19c807e627ddc4) still only Nov 2 send; Walid Credit (1a164f24804f6a9e) still ends at Nov 2 \"Calling you shortly\"; CBM silent; Scotia dispute / SKD / Pickering / SBI / Durham Endo / Schofield quiet. Incomplete public.tasks: Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8) only. Cap One min $189 due Nov 9 & Reliance $223.41 due Nov 19 unchanged — Money's lane."
+      "title": "tasks-board refresh ~Fri Nov 6, 11:29 AM ET — no new actionable mail since ~11:07 AM; watched threads still quiet",
+      "body": "tasks-board refresh ~Fri Nov 6, 11:29 AM ET — no new actionable mail since ~11:07 AM; GitHub pages fail notices only; watched threads (Allure crown, Walid Credit, Allure new-patient) still quiet; no Cap One / Reliance / Scotia / BMO / RBC money alerts after ~10:45 AM; Supabase still only incomplete Nivetha Savings; no Mac registered (iPhone Air + iPad disconnected)."
     },
     {
       "tag": "Bank",
