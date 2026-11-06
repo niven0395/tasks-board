@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 10:47 AM ET",
-  "updated_iso": "2026-11-06T10:47:32-05:00",
+  "updated": "Fri Nov 6, 10:48 AM ET",
+  "updated_iso": "2026-11-06T10:48:16-05:00",
   "live": [
     {
       "tag": "In play",
@@ -156,6 +156,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Nov 6, 10:48 AM ET — no new actionable mail since ~9:15 AM Scotia …7983; no Allure crown / Walid Credit replies; Supabase still only Nivetha Savings; no Mac registered; Cap One min $189 due Nov 9 & Reliance $223.41 due Nov 19 unchanged — no re-nag",
+      "body": "Board push at Fri Nov 6, 10:48 AM ET. Inbox since last refresh: GitHub pages build failures for earlier commits (08a3917 / f38eea3), LinkedIn/promos only otherwise. Watched threads unchanged (Allure crown 1a19c807e627ddc4 ends at Nov 2 send; Walid Credit 1a164f24804f6a9e ends at Nov 2 \"calling shortly\"). Incomplete public.tasks: Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8) only. ListMachines: iPhone Air + iPad disconnected, no Mac."
+    },
     {
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Nov 6, 10:47 AM ET — no new actionable mail; watched threads still quiet",
