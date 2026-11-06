@@ -1,7 +1,12 @@
 {
-  "updated": "Fri Nov 6, 5:06 PM ET",
-  "updated_iso": "2026-11-06T17:06:49-05:00",
+  "updated": "Fri Nov 6, 5:30 PM ET",
+  "updated_iso": "2026-11-06T17:30:03-05:00",
   "live": [
+    {
+      "tag": "Tomorrow",
+      "title": "Diluxshana Anton — G2 road test Sat Nov 7, 3:27 PM Toronto Port Union (conf 2168914)",
+      "body": "no-reply@drivetest.ca ~5:26 PM ET Fri Nov 6 (thread 1a1b2f8d8ff23f5d): Booking Confirmation for DILUXSHANA ANTON — Date Nov 7 2026, Time 03:27 PM, Class G2, Location Toronto Port Union (91 Rylander Blvd Unit 109A, M1B 5M5), Confirmation Code 2168914. Arrive 30 min early; cancel ≥48h or lose fee. Receipt $53.75 paid (txn 19499239). (as of ~Fri Nov 6, 5:30 PM ET 2026)"
+    },
     {
       "tag": "In play",
       "title": "Nivetha’s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
@@ -44,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Urgent",
+      "title": "DriveTest — verify email NOW (15 min from ~5:29 PM ET) or lose spot in line",
+      "body": "no-reply@drivetest.ca ~5:29 PM ET Fri Nov 6 (thread 1a1b2fac9ec6554f, UNREAD/IMPORTANT/INBOX): User Activation — confirm email via Verify Email link; 15 minutes or you lose your spot in line. Open the mail and tap Verify Email. (as of ~Fri Nov 6, 5:30 PM ET 2026)"
+    },
     {
       "tag": "Needs you",
       "title": "Scotia …7983 below $100 (~9:15 AM Fri) — top up to avoid NSF",
@@ -158,8 +168,13 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 5:06 PM ET — no new actionable mail; watched threads still quiet",
-      "body": "Board timestamp refreshed Fri Nov 6, 5:06 PM ET. No new inbox since ~4:53 PM ET board. Cap One payment-due / Scotia alerts / GitHub pages fails already noted. Watched: Allure crown 1a19c807e627ddc4 still sent-only Nov 2; Walid Credit 1a164f24804f6a9e still ends at Walid Nov 2 “Calling you shortly”; CBM still silent; Scotia dispute / SKD / Pickering / Durham Endo / Schofield unchanged. Supabase incomplete: only Nivetha Savings (26025967). Cap One *6851 / Reliance / Scotia *7983 already waiting — no re-nag."
+      "title": "tasks-board refresh ~Fri Nov 6, 5:30 PM ET — DriveTest verify + booking just landed; Allure crown / Walid Credit still quiet",
+      "body": "Inbox since last refresh (~5:06 PM): DriveTest verify-email (thread 1a1b2fac9ec6554f, UNREAD, 15-min window from ~5:29 PM ET), Booking Confirmation for DILUXSHANA ANTON G2 Nov 7 3:27 PM Toronto Port Union conf 2168914 (thread 1a1b2f8d8ff23f5d), DriveTest receipt $53.75 txn 19499239 (thread 1a1b2f8876a2c42f). Cap One payment-due / Scotia alerts / GitHub pages fails already noted. Watched: Allure crown 1a19c807e627ddc4 still no reply since your Nov 2 ask; Walid Credit 1a164f24804f6a9e still ends at Nov 2 “Calling you shortly.” Supabase incomplete: only Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8). companion_items empty. No Mac registered (iPhone/iPad disconnected). (as of ~Fri Nov 6, 5:30 PM ET 2026)"
+    },
+    {
+      "tag": "Noted",
+      "title": "DriveTest receipt $53.75 — Class G2 Road Test (txn 19499239, ~5:26 PM ET Fri)",
+      "body": "noreply@serco-des.ca ~5:26 PM ET Fri Nov 6 (thread 1a1b2f8876a2c42f, UNREAD): Approved MC …0021; Customer Name Sivarajah kannappan; Item Class G2 Road Test; Total $53.75 CAD. Ties to Diluxshana Anton booking below. (as of ~Fri Nov 6, 5:30 PM ET 2026)"
     },
     {
       "tag": "Watching",
