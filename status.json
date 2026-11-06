@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 12:09 PM ET",
-  "updated_iso": "2026-11-06T12:09:07-05:00",
+  "updated": "Fri Nov 6, 12:26 PM ET",
+  "updated_iso": "2026-11-06T12:26:08-05:00",
   "live": [
     {
       "tag": "In play",
@@ -158,8 +158,8 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 12:09 PM ET — no new mail since ~11:49 AM; watched threads still quiet",
-      "body": "tasks-board refresh ~Fri Nov 6, 12:09 PM ET — no new mail since ~11:49 AM board refresh (only earlier GitHub pages-fail notices already noted); watched threads still quiet (CBM silent since Nov 2 inquiry; Allure crown-timing 1a19c807e627ddc4 awaiting; Walid Credit last “Calling you shortly” Nov 2; Scotiabank CD-2609-653 no claims@ past Oct 26 encrypted; YDO/Felix/SKD/Pickering/Opus/SBI/Durham/Schofield quiet; Allure Nov 17 pre-confirmed); Scotia …7983 below $100 already on waiting (nudged earlier today — no re-nag); Cap One min $189 due Nov 9 / Reliance $223.41 due Nov 19 / Visa/BMO left to Money; Supabase still only incomplete Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8)."
+      "title": "tasks-board refresh ~Fri Nov 6, 12:26 PM ET — no new mail since ~12:09 PM; watched threads still quiet",
+      "body": "tasks-board refresh ~Fri Nov 6, 12:26 PM ET — no new mail since ~12:09 PM board refresh (only earlier GitHub pages-fail notices already noted); watched threads still quiet (CBM silent since Nov 2 inquiry; Allure crown-timing 1a19c807e627ddc4 awaiting; Walid Credit last “Calling you shortly” Nov 2; Scotiabank CD-2609-653 no claims@ past Oct 26 encrypted; YDO/Felix/SKD/Pickering/Opus/SBI/Durham/Schofield quiet; Allure Nov 17 pre-confirmed); Scotia …7983 below $100 already on waiting (nudged earlier today — no re-nag); Cap One min $189 due Nov 9 / Reliance $223.41 due Nov 19 / Visa/BMO left to Money; Supabase still only incomplete Nivetha Savings (26025967-aac3-4525-8ef9-b3bc1e383bf8); no Mac registered for Reminders; companion_items empty."
     },
     {
       "tag": "Bank",
@@ -170,11 +170,6 @@
       "tag": "Bank",
       "title": "Scotia Visa …729 balance $8,145.83 ~9:05 AM ET Fri",
       "body": "infoalerts ~9:05 AM ET Fri Nov 6 (thread 1a1b12e232ce35c3): account 4537*****729**** balance $8145.83. (as of ~Fri Nov 6, 9:50 AM ET 2026)"
-    },
-    {
-      "tag": "Refresh",
-      "title": "tasks-board refresh ~Fri Nov 6, 9:03 AM ET — no new mail since ~7:17 AM Scotia last-5; no watched-thread replies",
-      "body": "Email-watch ~Fri Nov 6, 9:03 AM ET: inbox since last run (~8:35 AM) empty of new messages. Overnight/earlier still marketing (Supabase Nov update, Todoist overdue, LinkedIn, Cursor/Wealthsimple/Co-operators/Felix promos) and routine Scotia alerts. Watched threads unchanged: CBM silent since Nov 2 inquiry; Allure crown-timing (1a19c807e627ddc4) still awaiting; Walid Credit last \"Calling you shortly\" Nov 2; Scotia dispute/SKD/Pickering/SBI/Durham/Schofield quiet. Claude GitHub permissions already on waiting/quiet. Bill tracking left to Money. (as of ~Fri Nov 6, 9:03 AM ET 2026)"
     },
     {
       "tag": "Approve",
