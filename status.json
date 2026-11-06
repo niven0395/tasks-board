@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 10:04 AM ET",
-  "updated_iso": "2026-11-06T10:04:09-05:00",
+  "updated": "Fri Nov 6, 10:29 AM ET",
+  "updated_iso": "2026-11-06T10:29:08-05:00",
   "live": [
     {
       "tag": "In play",
@@ -156,6 +156,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Watching",
+      "title": "tasks-board refresh ~Fri Nov 6, 10:29 AM ET — no new actionable mail since ~9:15 AM Scotia …7983; no watched-thread replies",
+      "body": "Since ~10:04 AM board: only GitHub pages-build failure notices for tasks-board (noise). No new Cap One/Reliance/Amex/BMO/Enbridge/Elexicon/Durham/Bell/Pickering tax mail. Scotia …7983 below-$100 and Visa …729 $8,145.83 already on board. Watched threads unchanged: Allure crown (1a19c807e627ddc4) still sent-only Nov 2; Walid Credit last \"Calling you shortly\" Nov 2; Allure checkup (1a067d92c8549760) still ends at Sep 4 confirm; CD-2609-653/SBI/Pickering/Opus/CBM quiet. Supabase still only incomplete Nivetha Savings (Home; id 26025967). No Mac registered (iPhone/iPad disconnected) — Mac reminders unread. Cap One waiting: min $189 due Mon Nov 9 (bal $2,788.13); Reliance $223.41 due Nov 19 already waiting. Do not re-nag Cap One/Reliance/Scotia."
+    },
     {
       "tag": "Watching",
       "title": "tasks-board refresh ~Fri Nov 6, 10:04 AM ET — no new mail since ~9:15 AM Scotia …7983 below $100; no watched-thread replies",
