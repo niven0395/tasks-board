@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 6, 7:03 PM ET",
-  "updated_iso": "2026-11-06T19:03:00-05:00",
+  "updated": "Fri Nov 6, 7:30 PM ET",
+  "updated_iso": "2026-11-06T19:30:00-05:00",
   "live": [
     {
       "tag": "Tomorrow",
@@ -168,8 +168,13 @@
   "quiet": [
     {
       "tag": "Watching",
-      "title": "tasks-board refresh ~Fri Nov 6, 6:48 PM ET — no new action; Diluxshana G2 still booked; watched threads still quiet",
-      "body": "Board refresh ~6:48 PM ET Fri Nov 6: Gmail nivensivarajah only. Inbox since ~6:30 PM board = OpenTable promo only (already noted). DriveTest verify window still expired (thread 1a1b2fac9ec6554f); Diluxshana G2 Sat Nov 7 3:27 PM Port Union conf 2168914 still live; Cap One *6851 / Reliance / Scotia *7983 already waiting — no re-nag. Watched: Walid Credit 1a164f24804f6a9e last Nov 2 “Calling you shortly”; Allure crown 1a19c807e627ddc4 still no reply; CBM ADHD inquiry sent Nov 3 no reply. Supabase incomplete: Nivetha Savings (26025967) only; companion_items empty; no Mac registered."
+      "title": "tasks-board refresh ~Fri Nov 6, 7:30 PM ET — no new action; Diluxshana G2 still booked; watched threads still quiet",
+      "body": "Board refresh ~7:30 PM ET Fri Nov 6: Gmail nivensivarajah only. Inbox since ~7:03 PM board = Apple X Premium $7 receipt (already noted) + OpenTable promo. DriveTest verify still expired; Diluxshana G2 Sat Nov 7 3:27pm Port Union conf 2168914 still live. Allure crown 1a19c807e627ddc4 still awaiting; Walid Credit unchanged. Cap One *6851 / Reliance / Scotia *7983 already waiting — no re-nag. Supabase incomplete only Nivetha Savings (26025967); companion_items empty; no Mac registered."
+    },
+    {
+      "tag": "Receipt",
+      "title": "Apple X Premium $7 receipt (~6:53 PM ET Fri) — renews Nov 27 (Order MNTL9L89F9)",
+      "body": "Apple <no_reply@email.apple.com> ~6:53 PM ET Fri Nov 6 (thread 1a1b348651d1c9ce, UNREAD): X Premium (Monthly) $7.00, Order ID MNTL9L89F9, renews November 27, 2026. No action needed."
     },
     {
       "tag": "Noted",
