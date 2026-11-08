@@ -1,12 +1,7 @@
 {
-  "updated": "Sat Nov 7, 8:28 PM ET",
-  "updated_iso": "2026-11-07T20:01:58-05:00",
+  "updated": "Sat Nov 7, 8:36 PM ET",
+  "updated_iso": "2026-11-07T20:36:10-05:00",
   "live": [
-    {
-      "tag": "Today",
-      "title": "Diluxshana Anton — G2 road test Sat Nov 7, 3:27 PM Toronto Port Union (conf 2168914)",
-      "body": "no-reply@drivetest.ca ~5:26 PM ET Fri Nov 6 (thread 1a1b2f8d8ff23f5d): Booking Confirmation for DILUXSHANA ANTON — Date Nov 7 2026, Time 03:27 PM, Class G2, Location Toronto Port Union (91 Rylander Blvd Unit 109A, M1B 5M5), Confirmation Code 2168914. Arrive 30 min early; cancel ≥48h or lose fee. Receipt $53.75 paid (txn 19499239). (as of ~Sat Nov 7, 9:06 AM ET 2026)"
-    },
     {
       "tag": "In play",
       "title": "Nivetha’s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
@@ -166,6 +161,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Diluxshana Anton — G2 road test was Sat Nov 7, 3:27 PM (Port Union, conf 2168914)",
+      "body": "Test time has passed; no result email from DriveTest yet (results usually go to the candidate). Booked via thread 1a1b2f8d8ff23f5d."
+    },
     {
       "tag": "Watching",
       "title": "Email-watch Sat Nov 7 ~2:00 PM ET — Scotia last-5 only; Diluxshana G2 still 3:27 PM",
