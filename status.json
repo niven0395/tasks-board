@@ -1,6 +1,6 @@
 {
-  "updated": "Mon Nov 9 4:30 PM",
-  "updated_iso": "2026-11-09T16:30:00-05:00",
+  "updated": "Mon Nov 9 4:31 PM",
+  "updated_iso": "2026-11-09T16:31:26-05:00",
   "live": [
     {
       "tag": "In play",
@@ -106,8 +106,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Reliance — eBill $223.41 due Nov 19 (acct …2298957; was past-due $168.18)",
-      "body": "noreply@reliancecomfort.com ~2:07 PM ET Thu Oct 15 (thread 1a140bf1cca0fcd9, UNREAD/UPDATES): \"Despite our previous reminders\" account 200002298957 remains unpaid, outstanding $168.18 (was $167.35 on Wed Oct 7, thread 1a1175192b94d7e1). Do not pay unless he asks. (as of ~Fri Oct 16, 9:31 AM ET 2026) Update ~2:06 PM ET Mon Oct 19 (thread 1a1555853ccf7798): another past-due notice, still $168.18 owing despite previous reminders. Bills are Money's lane; do not re-nag. (as of ~Mon Oct 19, 2:26 PM ET 2026) Update: noreply@reliancecomfort.com ~1:09 PM ET Wed Oct 21 (thread 1a15f7066faa666d): \"Despite our previous reminders\" account 200002298957 still unpaid, $168.18. Money's lane. (as of ~Wed Oct 21, 1:33 PM ET 2026) Another notice ~2:31 PM ET Thu Oct 29 (thread 1a188eecf4f5cc83): balance outstanding more than 2 months; no amount in the preview. Do not pay unless he asks. (as of ~Thu Oct 29, 2:50 PM ET 2026) Update: new Reliance eBill emailed ~8:00 AM ET Thu Nov 5 (ebilling@reliancecomfort.com, thread 1a1abcc2ebe52862); amount is in the attachment, not opened. (as of ~Thu Nov 5, 8:30 AM ET 2026) Update ~12:30 PM ET Thu Nov 5: opened eBill body (thread 1a1abcc2ebe52862, ebilling@reliancecomfort.com ~8:00 AM ET Thu Nov 5): Amount Due $223.41, Due Date 11/19/26, acct *********2298957. Prior past-due notices were $168.18. Money's lane; do not pay unless he asks. (as of ~Thu Nov 5, 12:30 PM ET 2026)"
+      "title": "Reliance — termination warning: $166.52 overdue ($225.90 total), pay within 10 business days (~Nov 23)",
+      "body": "noreply@reliancecomfort.com ~4:06 PM ET Mon Nov 9 (msg 1a1c2228ed74b31c): \"Your contract is at risk of termination.\" Acct 200002298957, overdue $166.52, total due $225.90; unpaid in 10 business days goes to collections and could hit credit. Pay at myreliancehome.com, online banking payee \"Reliance Home Comfort\", or by card at 1-866-365-1218. Earlier eBill $223.41 due Nov 19 (thread 1a1abcc2ebe52862). Pinged Niven Nov 9 ~4:33 PM; do not re-nag today. (as of ~Mon Nov 9, 4:33 PM ET 2026)"
     },
     {
       "tag": "Call",
