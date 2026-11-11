@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Nov 11, 8:50 AM ET",
-  "updated_iso": "2026-11-11T08:50:00-05:00",
+  "updated": "Wed Nov 11, 8:59 AM ET",
+  "updated_iso": "2026-11-11T08:59:00-05:00",
   "live": [
     {
       "tag": "In play",
@@ -44,6 +44,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Confirm",
+      "title": "CBM ADHD assessment — confirm proposed dates Nov 24 / 26 / 29 + do 7 intake forms",
+      "body": "CBM admin@cbmpsychologicalservices.com ~8:30 AM ET Wed Nov 11 (thread 1a1cace1332f6326): with Maryam Javed, MSc — video intake Tue Nov 24 6–7 PM, video clinical interview Thu Nov 26 5–6 PM, in-person testing Sun Nov 29 9:30 AM–12 PM (931 Liverpool Rd, Pickering). Calendar is clear. Next: reply to confirm, complete 7 intake forms (owlpractice portal), then $500 deposit. Est. total $3,000–3,500 at $250/hr. They didn't answer whether a C.Psych signs it (needed for Manulife)."
+    },
     {
       "tag": "Pick up",
       "title": "Janarthan forwarded Toronto Motorsports pickup — order TMS-58934 (McLaren 1:18 model), 283 Port Union Rd, 416-724-7223",
