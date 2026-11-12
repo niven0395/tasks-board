@@ -1,6 +1,6 @@
 {
-  "updated": "Wed Nov 11, 7:26 PM ET",
-  "updated_iso": "2026-11-11T19:26:00-05:00",
+  "updated": "Wed Nov 11, 7:31 PM ET",
+  "updated_iso": "2026-11-11T19:31:54-05:00",
   "live": [
     {
       "tag": "In play",
@@ -96,8 +96,8 @@
     },
     {
       "tag": "Pay",
-      "title": "Capital One Mastercard …6851 — min $189 due Mon Nov 9 (balance $2,788.13); still on 3-month plan",
-      "body": "capitalone@notification.capitalone.com ~2:34 PM ET Wed Nov 4 (thread 1a1a80e02973bfec, UNREAD): payment due alert for account ending 6851 — Total balance $2,788.13, Minimum payment $189.00, Due date Monday, November 9, 2026. Earlier: enrolled in 3-month payment plan (Thu ~3:26 PM): $140 due Oct 27, Nov 27, Dec 27; card frozen during the plan. Money already pinged Nov 5; do not re-nag or pay unless he asks. (as of ~Fri Nov 6, 10:04 AM ET 2026)"
+      "title": "Capital One Mastercard …6851 — $150 paid Wed Nov 11 (min was $189 due Nov 9); check rest is covered",
+      "body": "Wealthsimple ~7:09 PM ET Wed Nov 11 (msg 1a1cd168126e2638): bill payment $150.00 from Chequing to Capital One Mastercard ∙∙∙∙6851. Earlier due alert (thread 1a1a80e02973bfec): balance $2,788.13, minimum $189.00 due Mon Nov 9; still on 3-month plan. Money's lane. (as of ~Wed Nov 11, 7:31 PM ET 2026)"
     },
     {
       "tag": "Sign-in",
@@ -113,11 +113,6 @@
       "tag": "Pay",
       "title": "Durham Water $1,686.31 — password reset done; pay the $400 ASAP, then call to confirm",
       "body": "Niven emailed waterbilling@durham.ca ~10:01 AM ET Wed Oct 7 (thread 1a116ab04f7a3cf3) asking for a payment arrangement on account 4033977834 (1024 Valhalla Terr; $1,686.31 was due Sep 15). Allan (Customer Service Specialist, myDurham311) replied ~10:20 AM ET Thu Oct 8: they can't set up a payment plan because of the account's current standing; make the proposed $400 payment as soon as possible, allow two business days, then contact the office to confirm it was received, and they'll review options. Niven replied ~10:59 AM ET asking them to reset his MyDurhamWater password (username Niven123) so he can log in; no answer yet (still no password-reset reply as of evening Oct 8). Phone backup 905-666-6211. (as of ~Thu Oct 8, 6:57 PM ET 2026) Update ~8:32 PM ET Thu Oct 8: still no password-reset reply from Waterbilling; $400 ASAP + 2 business days then call still stands. Update ~9:11 AM ET Fri Oct 9: MyDurhamWater confirmed the password was changed successfully (noreply@kubra.com, thread 1a120c9eb6ab638d), so the account login should work now for the $400 payment."
-    },
-    {
-      "tag": "Pay",
-      "title": "Reliance — termination warning: $166.52 overdue ($225.90 total), pay within 10 business days (~Nov 23)",
-      "body": "noreply@reliancecomfort.com ~4:06 PM ET Mon Nov 9 (msg 1a1c2228ed74b31c): \"Your contract is at risk of termination.\" Acct 200002298957, overdue $166.52, total due $225.90; unpaid in 10 business days goes to collections and could hit credit. Pay at myreliancehome.com, online banking payee \"Reliance Home Comfort\", or by card at 1-866-365-1218. Earlier eBill $223.41 due Nov 19 (thread 1a1abcc2ebe52862). Pinged Niven Nov 9 ~4:33 PM; do not re-nag today. Follow-up Wed Nov 11 ~2:06 PM ET from ARSupport@reliancecomfort.com (msg 1a1cc015cffb94e3): balance more than 3 months outstanding, call 1-866-365-1218 (Mon-Fri 8am-8pm, Sat 9am-1pm) to resolve. (as of ~Wed Nov 11, 2:34 PM ET 2026)"
     },
     {
       "tag": "Call",
@@ -171,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Reliance — paid $226.00 via Wealthsimple (~7:12 PM ET Wed Nov 11); termination warning covered",
+      "body": "Wealthsimple msg 1a1cd1903a1cbadc: bill payment $226.00 from Chequing to Reliance Home Comfort ∙∙∙∙8957 (total due was $225.90). Can take 3–4 business days to show as paid on Reliance side."
+    },
     {
       "tag": "Done",
       "title": "DriveTest — verify-email window moot; Diluxshana G2 was booked and taken Sat Nov 7",
@@ -265,66 +265,6 @@
       "tag": "Noted",
       "title": "Ajax winter recreation registration opens Nov 17 (~9:32 AM ET Thu)",
       "body": "activeajax@ajax.ca ~9:32 AM ET Thu Nov 5 (thread 1a1ac24322a2e11f, UNREAD/PROMOTIONS): winter program registration opens Nov 17 at 7 am for Ajax residents (community centre or online). No action unless you want to register. No watched-thread replies; Supabase still only incomplete Nivetha Savings (Home). (as of ~Thu Nov 5, 9:43 AM ET 2026)"
-    },
-    {
-      "tag": "Bank",
-      "title": "Scotia Visa …729 balance $7,857.63 ~9:05 AM ET Thu",
-      "body": "infoalerts@scotiabank.com ~9:05 AM ET Thu Nov 5 (thread 1a1abde4883a5d37): Visa 4537*****729**** balance $7,857.63. Earlier last-5 (~7:17 AM) showed Allure Dental $1,090.00 and $1,000 payment from *7983. (as of ~Thu Nov 5, 9:28 AM ET 2026)"
-    },
-    {
-      "tag": "Bank",
-      "title": "$200 Interac e-Transfer from Sayithan Sivarajah auto-deposited (~9:01 AM ET Thu)",
-      "body": "notify@payments.interac.ca ~9:01 AM ET Thu Nov 5 (thread 1a1ac03961672ebe, UNREAD/IMPORTANT): $200.00 from SAYITHAN SIVARAJAH auto-deposited. (as of ~Thu Nov 5, 9:28 AM ET 2026)"
-    },
-    {
-      "tag": "Bank",
-      "title": "Scotia balances ~8:20 AM ET Thu — *7983 $1,049.28 (overdraft cleared); *8382 $1,418.58",
-      "body": "infoalerts@scotiabank.com ~8:20 AM ET Thu Nov 5 (threads 1a1abde4883a5d37): *****46*7983 balance $1,049.28; *****37*8382 balance $1,418.58. Earlier waiting item (overdrawn after $600 Interac ~Sun) is cleared on the latest balance alert. (as of ~Thu Nov 5, 8:49 AM ET 2026)"
-    },
-    {
-      "tag": "done",
-      "title": "Scotia …7983 overdraft cleared — balance $1,049.28 (~8:20 AM ET Thu)",
-      "body": "Was waiting: top up after overdraft / insufficient-funds notices through late Oct. Latest balance alert ~8:20 AM ET Thu Nov 5 shows …7983 at $1,049.28 (positive). Removed from waiting. (as of ~Thu Nov 5, 8:49 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Scotia Visa …729 last-5 ~7:17 AM ET Thu — Allure Dental $1,090.00; $1,000 payment from *7983",
-      "body": "infoalerts@scotiabank.com (thread 1a1aba463fe38832): payment from *7983 -$1,000.00, Shoppers $18.07, Amazon $4.16, ALLUREDENTAL $1,090.00, Shell. Allure charge may be claimable through Manulife. Reliance eBill arrived ~8:00 AM (thread 1a1abcc2ebe52862; Money's lane). Balances ~8:20 AM: *8382 $1,418.58, *7983 $1,049.28. Todoist digest: 1 overdue. No watched-thread replies (CBM still silent). (as of ~Thu Nov 5, 8:35 AM ET 2026)"
-    },
-    {
-      "tag": "money",
-      "title": "$500 Interac e-Transfer from Sivarajah Kannappan auto-deposited (~7:25 PM ET Wed)",
-      "body": "Auto-deposit confirmed by Interac; nothing to do."
-    },
-    {
-      "tag": "ADHD",
-      "title": "Finding Focus: $199 last-minute ADHD assessment opening Wed Nov 4 (reg. $399)",
-      "body": "Nov 4 last-minute $199 slot has passed (not booked). CBM still silent on private assessment."
-    },
-    {
-      "tag": "security",
-      "title": "Notion — new-device login via Sign in with Google (~3:32 PM ET Wed)",
-      "body": "Google confirms you used Sign in with Google for Notion at 3:32 PM; no action unless it wasn't you."
-    },
-    {
-      "tag": "Road test",
-      "title": "Roshauna Grannum-Robinson's G road test — Wed Nov 4 10:01 AM at Downsview (time passed; no result mail yet)",
-      "body": "no-reply@drivetest.ca ~11:27 AM ET Tue Nov 3 (thread 1a1a23c844b74956): booking confirmed, Class G, Downsview Park, 37 Carl Hall Rd (use back entrance), confirmation 9945549. Arrive 30 min early. (as of ~Tue Nov 3, 11:40 AM ET 2026)"
-    },
-    {
-      "tag": "Bank",
-      "title": "Scotia last-5 ~1:20 PM ET Tue — *8382 shows Enbridge $109.63 and Amex $110.19 redo out; *7983 unchanged",
-      "body": "Routine alert; nothing new needed."
-    },
-    {
-      "tag": "Noted",
-      "title": "Felix promo — cancer-signal screening (~11:35 AM ET Tue)",
-      "body": "hello@email.felixforyou.ca (thread 1a1a2445248c49f1): marketing. No action. (as of ~Tue Nov 3, 11:40 AM ET 2026)"
-    },
-    {
-      "tag": "Noted",
-      "title": "Clutch — updated offer on your 2025 Elantra (~10:04 AM ET Tue)",
-      "body": "hello@mailer.clutch.ca (thread 1a1a1f0fdbf001ad): promo saying the sale offer updated. No action needed unless you're selling. (as of ~Tue Nov 3, 10:27 AM ET)"
     }
   ]
 }
