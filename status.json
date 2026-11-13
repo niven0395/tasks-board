@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 13, 11:29 AM ET",
-  "updated_iso": "2026-11-13T11:29:00-05:00",
+  "updated": "Fri Nov 13, 11:36 AM ET",
+  "updated_iso": "2026-11-13T11:36:19-05:00",
   "live": [
     {
       "tag": "In play",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "DriveTest",
+      "title": "Anujan's G2 road test booked",
+      "body": "Sat Nov 14, 3:10 PM at Toronto Port Union (91 Rylander Blvd), conf 4663476. Arrive 30 min early."
+    },
     {
       "tag": "Done",
       "title": "New credit inquiry on TransUnion — Niven confirmed it was him (Nov 12)",
