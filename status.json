@@ -1,6 +1,6 @@
 {
-  "updated": "Sat Nov 14, 4:50 PM ET",
-  "updated_iso": "2026-11-14T16:50:00-05:00",
+  "updated": "Sat Nov 14, 5:06 PM ET",
+  "updated_iso": "2026-11-14T17:06:24-05:00",
   "live": [
     {
       "tag": "In play",
@@ -97,7 +97,7 @@
     {
       "tag": "Pay",
       "title": "Capital One Mastercard …6851 — $150 paid Wed Nov 11 (min was $189 due Nov 9); check rest is covered",
-      "body": "Wealthsimple ~7:09 PM ET Wed Nov 11 (msg 1a1cd168126e2638): bill payment $150.00 from Chequing to Capital One Mastercard ∙∙∙∙6851. Earlier due alert (thread 1a1a80e02973bfec): balance $2,788.13, minimum $189.00 due Mon Nov 9; still on 3-month plan. Money's lane. (as of ~Wed Nov 11, 7:31 PM ET 2026)"
+      "body": "Capital One confirmed the $150.00 payment posted Fri Nov 13 (msg 1a1dbff012e62f03, ~4:38 PM ET Sat Nov 14). Min was $189 due Mon Nov 9, so ~$39 may still be short; balance was $2,788.13; on 3-month plan. Money's lane. (as of ~Sat Nov 14, 5:07 PM ET 2026)"
     },
     {
       "tag": "Sign-in",
@@ -230,11 +230,6 @@
       "tag": "Noted",
       "title": "DriveTest receipt $53.75 — Class G2 Road Test (txn 19499239, ~5:26 PM ET Fri)",
       "body": "noreply@serco-des.ca ~5:26 PM ET Fri Nov 6 (thread 1a1b2f8876a2c42f, UNREAD): Approved MC …0021; Customer Name Sivarajah kannappan; Item Class G2 Road Test; Total $53.75 CAD. Ties to Diluxshana Anton booking below. (as of ~Fri Nov 6, 5:30 PM ET 2026)"
-    },
-    {
-      "tag": "Watching",
-      "title": "Capital One Mastercard …6851 payment due alert (~2:35 PM ET Fri) — min $189 due Mon Nov 9; balance $2,788.13 (already on waiting)",
-      "body": "Mail 1a1b25c23ad0e9fc from capitalone@notification.capitalone.com: payment due soon on account ending 6851. Total balance $2,788.13; minimum $189.00; due Mon Nov 9, 2026. Already listed under waiting — no new action beyond that. (as of ~Fri Nov 6, 2:51 PM ET 2026)"
     },
     {
       "tag": "Bank",
