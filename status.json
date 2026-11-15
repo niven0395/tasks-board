@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 15, 2026 1:45 PM ET",
-  "updated_iso": "2026-11-15T13:45:00-05:00",
+  "updated": "Nov 15, 2026 2:03 PM ET",
+  "updated_iso": "2026-11-15T14:03:52-05:00",
   "live": [
     {
       "tag": "In play",
@@ -61,8 +61,8 @@
     },
     {
       "tag": "Needs you",
-      "title": "Scotia …7983 still $49.28 (~8:19 AM Sat) — top up to avoid NSF",
-      "body": "Balance alerts Fri ~9:15 AM ET then Sat ~8:19 AM ET Nov 7 (threads 1a1b136f93b2aae5 / 1a1b62a5acac3595): account *****46*7983 now $49.28 (still below $100). Sat ~7:16 AM last-5 on Visa …729 shows PAYMENTFROM-*****46*79 $-1000.00 plus Shoppers $39.54, Tims $5.26, Amazon $67.79. Deposit or transfer in. (as of ~Sat Nov 7, 8:29 AM ET 2026)"
+      "title": "Scotia …7983 in overdraft after your $55 e-Transfer (1:40 PM Sun) — top up",
+      "body": "Scotia InfoAlerts 1:40 PM Sun Nov 15: $55 Interac e-Transfer sent, then account overdrawn notice."
     },
     {
       "tag": "Security",
