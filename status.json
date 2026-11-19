@@ -1,7 +1,12 @@
 {
-  "updated": "Nov 19, 11:32 AM ET",
-  "updated_iso": "2026-11-19T11:32:00-05:00",
+  "updated": "Nov 19, 11:38 AM ET",
+  "updated_iso": "2026-11-19T11:38:34-05:00",
   "live": [
+    {
+      "tag": "Today",
+      "title": "CBM ADHD assessment confirmed — video intake TONIGHT 6–7 PM; testing Sat Nov 21 11–1:30; interview Thu Nov 26 5–6 PM",
+      "body": "CBM Admin ~11:16 AM ET Thu Nov 19 (msg 1a1f498d9fb3df7b): sessions with Maryam Javed confirmed after intake forms. Intake moved to Thu Nov 19 6–7 PM (video, Owl Practice link on calendar; join 5 min early). In-person testing Sat Nov 21 11 AM–1:30 PM at 931 Liverpool Rd, Pickering (park in front or free lot across at Liverpool & Tatra). Clinical interview Thu Nov 26 5–6 PM (video). Manulife paid $450 of the $500 deposit; $50 charged to card (EOB #1533, receipt #17996). All three on calendar."
+    },
     {
       "tag": "In play",
       "title": "Nivetha’s outstanding list: benefits fitness purchase, call SBI, tax, invest TFSA in safe stocks",
@@ -44,11 +49,6 @@
     }
   ],
   "waiting": [
-    {
-      "tag": "Forms",
-      "title": "CBM ADHD — video intake TODAY Wed Nov 18, 6–7 PM (needs the 7 intake forms submitted; no confirmation mail yet)",
-      "body": "CBM (Denica, admin@cbmpsychologicalservices.com, 5:14 PM ET Tue Nov 17, msg 1a1eb942436298d6): their form portal was broken for two days, now fixed. Submit all 7 forms (Intake, Consent Checklist, Developmental History, Assessment Overview, Payment, Client Portal Consent, Office Policy) by end of today to confirm tomorrows 6 PM video intake, or reschedule to Fri Nov 20 at 5 or 6 PM. Links are in that email. Sat Nov 21 testing and Thu Nov 26 interview are still reserved; 00 deposit after forms."
-    },
     {
       "tag": "Family",
       "title": "Nivetha wisdom tooth — Durham Endo says see the extraction surgeon unless it's root-canal related",
@@ -166,11 +166,6 @@
     }
   ],
   "quiet": [
-    {
-      "tag": "Done",
-      "title": "CBM — insurance claim processed; $50 not covered paid",
-      "body": "OwlPractice ~9:36 AM ET Thu Nov 19: EOB for claim #1533 (msg 1a1f43cf077f8e47); ~9:41 AM ET receipt #17996 for $50 not covered by insurance (msg 1a1f441b6ca2b980). Receipts saved in Gmail. No action needed."
-    },
     {
       "tag": "Done",
       "title": "Wealthsimple ANT IPO — got 1 share at $83.00 USD",
