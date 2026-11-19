@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 19, 9:51 AM ET",
-  "updated_iso": "2026-11-19T09:51:00-05:00",
+  "updated": "Nov 19, 10:00 AM ET",
+  "updated_iso": "2026-11-19T10:00:12-05:00",
   "live": [
     {
       "tag": "In play",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "CBM — insurance claim processed; $50 not covered paid",
+      "body": "OwlPractice ~9:36 AM ET Thu Nov 19: EOB for claim #1533 (msg 1a1f43cf077f8e47); ~9:41 AM ET receipt #17996 for $50 not covered by insurance (msg 1a1f441b6ca2b980). Receipts saved in Gmail. No action needed."
+    },
     {
       "tag": "Done",
       "title": "Wealthsimple ANT IPO — got 1 share at $83.00 USD",
