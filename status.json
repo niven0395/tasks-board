@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 19, 8:33 AM ET",
-  "updated_iso": "2026-11-19T08:33:00-05:00",
+  "updated": "Nov 19, 8:32 AM ET",
+  "updated_iso": "2026-11-19T08:32:34-05:00",
   "live": [
     {
       "tag": "In play",
@@ -166,6 +166,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Wealthsimple ANT IPO — got 1 share at $83.00 USD",
+      "body": "Wealthsimple ~7:55 AM ET Thu Nov 19 (msg 1a1f3dff80071675): requested 39, allocated 1 share at the $83.00 USD IPO price. No action needed."
+    },
     {
       "tag": "Done",
       "title": "Allure Dental Ajax — Tue Nov 17, 3:15 PM appointment (past)",
