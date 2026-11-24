@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Nov 24, 8:30 AM ET",
-  "updated_iso": "2026-11-24T08:30:00-05:00",
+  "updated": "Tue Nov 24, 8:40 AM ET",
+  "updated_iso": "2026-11-24T08:40:00-05:00",
   "live": [
     {
       "tag": "This week",
@@ -49,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Tap",
+      "title": "Allure Dental tomorrow Wed Nov 25, 11 AM: confirm attendance",
+      "body": "Allure Dental ~8:33 AM ET Tue Nov 24 (msg 1a20dc31fad372c9) asks you to confirm via link: https://myformsathome.com/TrackerCloud/AppointmentConfirmation/VAq-KjABPEG0BPmgqtS77g . 3 Harwood Ave S, Ajax; 905-686-4343 to reschedule. On calendar."
+    },
     {
       "tag": "CBM",
       "title": "Nivetha: CBM intake forms by Tue 2:15pm",
