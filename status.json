@@ -1,6 +1,6 @@
 {
-  "updated": "Tue Nov 24, 4:51 PM ET",
-  "updated_iso": "2026-11-24T16:51:00-05:00",
+  "updated": "Tue Nov 24, 5:01 PM ET",
+  "updated_iso": "2026-11-24T17:01:00-05:00",
   "live": [
     {
       "tag": "This week",
@@ -53,11 +53,6 @@
       "tag": "Tap",
       "title": "Allure Dental tomorrow Wed Nov 25, 11 AM: confirm attendance",
       "body": "Allure Dental ~8:33 AM ET Tue Nov 24 (msg 1a20dc31fad372c9) asks you to confirm via link: https://myformsathome.com/TrackerCloud/AppointmentConfirmation/VAq-KjABPEG0BPmgqtS77g . 3 Harwood Ave S, Ajax; 905-686-4343 to reschedule. On calendar."
-    },
-    {
-      "tag": "CBM",
-      "title": "Nivetha: 4 CBM intake forms still due today (Tue) to keep Thu Nov 26 2:15pm session",
-      "body": "CBM Admin (Denica Johnson) ~3:10 PM ET Tue Nov 24 (msg 1a20f2ebe6aaf7c9, to Nivetha, cc you): remaining forms are Office Policy & Consent, Tx - Payment, GAD-7, PHQ-9 (~10-15 min, autosaves) at the Owl Practice portal https://aws-portal.owlpractice.ca/cbmpsychservices. Clinic emails confirmation once reviewed. (as of ~Tue Nov 24, 3:38 PM ET 2026)"
     },
     {
       "tag": "CBM",
@@ -181,6 +176,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Done",
+      "title": "Nivetha finished her CBM intake forms (Thu Nov 26 2:15pm session)",
+      "body": "Nivetha replied to CBM Admin ~4:48 PM ET Tue Nov 24 (msg 1a20f886d1e7fffa): forms completed. Waiting on CBM confirmation email. (as of ~Tue Nov 24, 5:01 PM ET 2026)"
+    },
     {
       "tag": "Done",
       "title": "Wealthsimple ANT IPO â got 1 share at $83.00 USD",
