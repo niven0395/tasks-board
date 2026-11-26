@@ -1,6 +1,6 @@
 {
   "updated": "Nov 26, 2026, 12:05 PM ET",
-  "updated_iso": "2026-11-26T12:05:31-05:00",
+  "updated_iso": "2026-11-26T12:05:55-05:00",
   "live": [
     {
       "tag": "This week",
@@ -51,8 +51,8 @@
   "waiting": [
     {
       "tag": "Pay",
-      "title": "CBM: Nivetha intake $225 not paid by Manulife — card on file or e-Transfer?",
-      "body": "CBM Admin ~11:06 AM ET Thu Nov 26 (msg 1a2189c7ecfde818): Manulife did not pay the claim for her intake with Jenna Fibiger today (2:15 PM, video). Balance $225: CBM can charge the card on file, or e-Transfer to admin@cbmpsychologicalservices.com. Option: claim under your Manulife plan, where she is covered as your spouse. Claim results and invoice PDFs are attached."
+      "title": "CBM: Nivetha intake $225 - bill her own Manulife plan first (direct billing form)",
+      "body": "CBM ~11:46 AM ET Thu Nov 26 (msg 1a218c08976d48dc, thread 1a2189c7ecfde818): they claimed under your Manulife plan, but Manulife expects Nivetha's own plan to pay first. Next step: Nivetha sends her own Manulife plan details on CBM's direct billing form (sent to her separately). If that doesn't work, she pays the $225 by card on file or e-Transfer to admin@cbmpsychologicalservices.com, then the leftover goes to your plan as second payer."
     },
     {
       "tag": "Tap",
