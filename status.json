@@ -1,12 +1,7 @@
 {
-  "updated": "Nov 26, 2026, 1:32 PM ET",
-  "updated_iso": "2026-11-26T13:32:00-05:00",
+  "updated": "Nov 26, 2026, 1:36 PM ET",
+  "updated_iso": "2026-11-26T13:36:00-05:00",
   "live": [
-    {
-      "tag": "CBM claim",
-      "title": "Nivetha's CBM claim: secondary billing to Manulife, you're sorting it with CBM",
-      "body": "CBM (Denica Johnson) ~12:28 PM ET Thu Nov 26 (thread 1a2189c7ecfde818): TELUS eClaims can't bill the secondary plan for Nivetha's sessions; you replied ~12:34 PM that both plans are Manulife. EOB #1557 sent via Owl Practice 12:15 PM. Awaiting CBM reply; otherwise submit the uncovered amount to your Manulife plan yourself (coordination of benefits). (as of ~Thu Nov 26, 12:38 PM ET)"
-    },
     {
       "tag": "This week",
       "title": "CBM ADHD: testing done Sat Nov 21; clinical interview Thu Nov 26 5–6 PM (video)",
@@ -54,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Claim",
+      "title": "Submit Nivetha's CBM remaining balance to your Manulife plan (secondary)",
+      "body": "CBM ~1:11 PM ET Thu Nov 26 (thread 1a2189c7ecfde818): they can't bill the secondary plan through TELUS eClaims, even with both plans on Manulife. At Nivetha's request CBM sent the invoice at 1:25 PM (msg 1a2191bf884c92df, '20261126 Invoice NivethaS.pdf'); EOB #1557 came 12:15 PM. Next: submit the invoice and EOB as a coordination-of-benefits claim in the Manulife app. (as of ~Thu Nov 26, 1:36 PM ET)"
+    },
     {
       "tag": "Pay",
       "title": "CBM: Nivetha intake $225 - bill her own Manulife plan first (direct billing form)",
