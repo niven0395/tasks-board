@@ -1,6 +1,6 @@
 {
-  "updated": "Nov 26, 2026, 5:03 PM ET",
-  "updated_iso": "2026-11-26T17:03:00-05:00",
+  "updated": "Nov 26, 2026, 5:25 PM ET",
+  "updated_iso": "2026-11-26T17:25:00-05:00",
   "live": [
     {
       "tag": "This week",
@@ -49,16 +49,6 @@
     }
   ],
   "waiting": [
-    {
-      "tag": "Pay",
-      "title": "CBM: Nivetha intake $225 - bill her own Manulife plan first (direct billing form)",
-      "body": "CBM ~11:46 AM ET Thu Nov 26 (msg 1a218c08976d48dc, thread 1a2189c7ecfde818): they claimed under your Manulife plan, but Manulife expects Nivetha's own plan to pay first. Next step: Nivetha sends her own Manulife plan details on CBM's direct billing form (sent to her separately). If that doesn't work, she pays the $225 by card on file or e-Transfer to admin@cbmpsychologicalservices.com, then the leftover goes to your plan as second payer."
-    },
-    {
-      "tag": "Tap",
-      "title": "Allure Dental tomorrow Wed Nov 25, 11 AM: confirm attendance",
-      "body": "Allure Dental ~8:33 AM ET Tue Nov 24 (msg 1a20dc31fad372c9) asks you to confirm via link: https://myformsathome.com/TrackerCloud/AppointmentConfirmation/VAq-KjABPEG0BPmgqtS77g . 3 Harwood Ave S, Ajax; 905-686-4343 to reschedule. On calendar."
-    },
     {
       "tag": "CBM",
       "title": "Do 2 CBM online questionnaires: CAARS-2 (10â20 min) + CEFI-A (12 min)",
@@ -181,6 +171,16 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "done",
+      "title": "DONE: CBM Nivetha session $225 - split paid",
+      "body": "Her Manulife paid $112.50 (EOB #1557); remaining $112.50 submitted on your plan as coordination of benefits, confirmation 122133392. (as of ~Thu Nov 26, 5:25 PM ET)"
+    },
+    {
+      "tag": "Noted",
+      "title": "Allure Dental Wed Nov 25 11 AM visit has passed",
+      "body": "Confirm request is no longer pending. (as of ~Thu Nov 26, 5:25 PM ET)"
+    },
     {
       "tag": "Done",
       "title": "Nivetha's CBM remaining balance claimed on your Manulife (Nov 26)",
