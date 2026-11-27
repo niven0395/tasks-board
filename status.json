@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 27, 10:31 AM ET",
-  "updated_iso": "2026-11-27T10:31:00-05:00",
+  "updated": "Fri Nov 27, 10:36 AM ET",
+  "updated_iso": "2026-11-27T10:36:00-05:00",
   "live": [
     {
       "tag": "This week",
@@ -171,6 +171,11 @@
     }
   ],
   "quiet": [
+    {
+      "tag": "Receipt",
+      "title": "CBM sent 3 payment receipts (#18086–18088, ~10:06 AM ET Fri Nov 27)",
+      "body": "Owl Practice receipts to nivensivarajah@gmail.com (msgs 1a21d8b42362ef4d, 1a21d8ba894ef269, 1a21d8bd7e71ffc3), PDFs attached; amounts not read. Keep for Manulife claims if needed."
+    },
     {
       "tag": "done",
       "title": "DONE: CBM Nivetha session $225 - split paid",
