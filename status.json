@@ -1,6 +1,6 @@
 {
-  "updated": "Fri Nov 27, 12:26 PM ET",
-  "updated_iso": "2026-11-27T12:26:00-05:00",
+  "updated": "Fri Nov 27, 12:37 PM ET",
+  "updated_iso": "2026-11-27T12:37:00-05:00",
   "live": [
     {
       "tag": "This week",
@@ -49,6 +49,11 @@
     }
   ],
   "waiting": [
+    {
+      "tag": "Needs you",
+      "title": "RBC $1,500 complaint email bounced: clientcarecentre@rbc.com doesnt exist",
+      "body": "Formal complaint sent 12:21 PM ET Fri Nov 27 (msg 1a21e0721eba8ce0) bounced 550 address rejected (msg 1a21e07331c81133). RBCs complaint route is a secure message in RBC Online Banking, or call 1-800-769-2511."
+    },
     {
       "tag": "CBM",
       "title": "Do 2 CBM online questionnaires: CAARS-2 (10â20 min) + CEFI-A (12 min)",
